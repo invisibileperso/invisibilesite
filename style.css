@@ -25,7 +25,7 @@ h2 {
     font-size: 1.2em;
     font-weight: 200;
     color: #888888;
-    margin-top: -20px;
+    margin-top: -60px;
     letter-spacing: 0.1em;
 }
 
@@ -85,3 +85,76 @@ audio {
         margin-bottom: 20px;
     }
 } 
+
+.psychedelic {
+    background: linear-gradient(
+        to right,
+        #ff6b6b,  /* rosso medio */
+        #ffd93d,  /* giallo caldo */
+        #6ce5b1,  /* verde acqua */
+        #4cc9f0,  /* azzurro brillante */
+        #f072b6   /* rosa medio */
+    );
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: rainbow 8s linear infinite;
+}
+
+@keyframes rainbow {
+    0% {
+        background-position: 0% 50%;
+    }
+    100% {
+        background-position: 200% 50%;
+    }
+} 
+
+.two-columns {
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.column {
+    flex: 1;
+}
+
+/* Per dispositivi mobili */
+@media (max-width: 768px) {
+    .two-columns {
+        flex-direction: column;
+    }
+} 
+
+.date-list {
+    font-family: 'Barlow', sans-serif;
+    font-weight: 200;
+    list-style-type: disc;
+    padding-left: 1.5rem;
+    font-size: 0.9em;
+    line-height: 1.5;
+}
+
+.date-list li {
+    margin-bottom: 0.5rem;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.date-list li:hover {
+    color: #666;
+}
+
+.date-list li.active {
+    color: #000;
+    font-weight: 150;
+}
+
+#text-content {
+    font-family: 'Barlow', sans-serif;
+    font-weight: 200;
+    font-size: 1.0em;
+    line-height: 1.6;
+}

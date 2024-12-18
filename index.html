@@ -9,8 +9,40 @@
 </head>
 <body>
     <div class="container">
-        <h1>Infinito Perso</h1>
+        <h1 class="psychedelic">Infinito Perso</h1>
         <h2>un figlio ribelle del berlusconismo</h2>
+        
+        <div class="two-columns">
+            <div class="column">
+            
+                <ul class="date-list">
+                    <li data-text="ciao oggi primo giorno di prova di quata nuova avventura">1 gennaio 2025</li>
+                    <li data-text="">2 gennaio 2025</li>
+                    <li data-text="">3 gennaio 2025</li>
+                    <li data-text="">4 gennaio 2025</li>
+                    <li data-text="">5 gennaio 2025</li>
+                </ul>
+            </div>
+            <div class="column">
+                <div id="text-content"></div>
+            </div>
+        </div>
     </div>
+    <script>
+    document.querySelectorAll('.date-list li').forEach(item => {
+        item.addEventListener('click', function() {
+            const text = this.getAttribute('data-text');
+            document.getElementById('text-content').textContent = text;
+            
+            // Rimuove la classe active da tutti gli elementi
+            document.querySelectorAll('.date-list li').forEach(li => {
+                li.classList.remove('active');
+            });
+            
+            // Aggiunge la classe active all'elemento cliccato
+            this.classList.add('active');
+        });
+    });
+    </script>
 </body>
 </html> 
