@@ -112,21 +112,21 @@ audio {
 
 .two-columns {
     display: flex;
-    justify-content: space-between;
-    gap: 2rem;
-    margin-top: 2rem;
+    width: 100%;
+    gap: 20px;
+    flex-direction: row;
+    flex-wrap: nowrap;
 }
 
-.column {
-    flex: 1;
+.column:first-child {
+    width: 30%;
+    flex-shrink: 0;
 }
 
-/* Per dispositivi mobili */
-@media (max-width: 768px) {
-    .two-columns {
-        flex-direction: column;
-    }
-} 
+.column:last-child {
+    width: 70%;
+    flex-shrink: 0;
+}
 
 .date-list {
     font-family: 'Barlow', sans-serif;
@@ -138,18 +138,20 @@ audio {
 }
 
 .date-list li {
-    margin-bottom: 0.5rem;
+    color: #3c3c3c;  /* colore base: bianco */
+    opacity: 1;
     cursor: pointer;
-    transition: color 0.3s ease;
+    transition: all 0.3s ease;
 }
 
 .date-list li:hover {
-    color: #666;
+    color: #FFFFFF;  /* mantiene il bianco durante l'hover */
+    opacity: 0.8;    /* opzionale: leggero effetto hover */
 }
 
 .date-list li.active {
-    color: #000;
-    font-weight: 150;
+    color: #FFFFFF;  /* mantiene il bianco quando attivo */
+    opacity: 0.5;
 }
 
 #text-content {
