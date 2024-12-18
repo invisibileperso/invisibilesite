@@ -160,3 +160,25 @@ audio {
     font-size: 1.0em;
     line-height: 1.6;
 }
+
+@media screen and (max-width: 768px) {
+    .two-columns {
+        flex-direction: column;  /* impila le colonne verticalmente */
+        gap: 30px;              /* spazio verticale tra le colonne */
+    }
+
+    .column:first-child,
+    .column:last-child {
+        width: 100%;            /* occupa tutta la larghezza disponibile */
+    }
+
+    h1 {
+        font-size: 4em;         /* riduce la dimensione del titolo */
+        letter-spacing: 0.1em;  /* riduce la spaziatura delle lettere */
+        margin-left: 0;
+    }
+
+    .container {
+        padding: 10px;          /* riduce il padding del container */
+    }
+}
