@@ -11,27 +11,66 @@
     <div class="container">
         <h1 class="psychedelic">Infinito Perso</h1>
         
-        <div class="two-columns" style="margin-top: 200px;">
+        <div class="two-columns" style="margin-top: 50px; height: calc(100vh - 100px);">
             <div class="column">
             
                 <ul class="date-list">
-                    <li data-text="ciao oggi primo giorno di prova di quata nuova avventura pinco pallo erwerbvwerbewr vwervwerv wervewrvwe">1 gennaio 2025</li>
-                    <li data-text="">2 gennaio 2025</li>
-                    <li data-text="">3 gennaio 2025</li>
-                    <li data-text="">4 gennaio 2025</li>
-                    <li data-text="">5 gennaio 2025</li>
+                    <li data-entry="1">1 gennaio 2025</li>
                 </ul>
             </div>
-            <div class="column">
-                <div id="text-content" style="text-align: center;"></div>
+            <div class="column" style="height: 100%;">
+                <div id="text-content" style="text-align: left; white-space: pre-line; height: 100%; padding: 20px; overflow-y: auto;"></div>
             </div>
         </div>
     </div>
     <script>
+    const entries = {
+        "1": `Primo gennaio 2025, nuovo anno, prima puntata
+
+        E' d'obbligo darvi due informazioni su quello che sarà Invisibile Perso
+        
+        Sarà Un percorso.
+        Sarà un viaggio di scoperta interiore per cambiare o accettare.
+        Un viaggio per Ricercare le emozioni, sensazioni espulse dalla quotidianità tanto più per un essere vivente di sesso maschile nel mezzo di un travaglio lavorativo come il sottoscritto.
+        
+        La difficoltà di accettarsi, di trovarsi nel mezzo della vita con un pesante senso di incompiuto e una costante frustrazione quotidiana nel sentirsi estraneo, arretrato rispetto all'attuale.
+        
+        Se guardo al lato felice mi chiedo se l'essere marito e papà possa bastare? 
+        Forse si, forse ad alcuni si, forse dovrebbe bastarmi. 
+        Marito amato e padre anche, spero, spero d'esempio in ogni caso; dovrebbe bastarmi?
+        
+        Che poi, mi chiedo anche se non sia l'ego che mi impedisce di accettarmi? 
+        Oppure la smaniosa voglia di capire le cose e di non accettare la pappa pronta, 
+        La voglia di non arrendersi all'evidenza dei fatti o semplicemente dovrei rendermi conto delle mie mancate capacità personali?
+        
+        Non lo so, spesso forse come in queste righe c'è molta confusione, c'è molta ignoranza, quella si perché non ho mai studiato il "noi" avendo sempre preferito, forse sbagliando, la parte materica. Sono Geometra, che errore, poi Geologo che amara gioia, e quindi terreno per definizione.
+        
+        Nei libri che ora ho per le mani si parla del presente, di stare nel presente, ma l'orizzonte, la prospettiva, la progettualità dove la mettiamo? 
+        Sono io che non capisco.
+        
+        Ma aspettate non voglio sicuramente fare il guru, anzi lungi da me accarezzare quella cosa che chiamano Crescita Personale.
+        Cercherò di mischiare l'attualità, le incazzature, la mia voglia perenne di rimettermi in viaggio, chissà magari con l'amata bici o magari a piedi o magari solamente con la penna.
+        In mezzo troverete anche sport, non potrei viver senza e tutte le mie svariate passioni: foto, disegno, ambiente, yoga. Ma non saranno questi il nocciolo della questione, sarranno b-roll per sostenere la vita.
+        Saranno puntate brevi, necessariamente brevi, senza fronzoli, scritte e registrate. Una puntata al giorno almeno per i giorni lavorativi. Niente effetti speciali o montaggi holliwoodiani. 
+        
+        Aspettate nuovamente: Non mi conoscete, ovvio, è la prima puntata, ma talvolta riesco bene nell'ironia e nel cinismo. Saranno sicuramente ingredienti di questo impasto di vita.
+        
+        Invisibile perso è una messa in discussione, una messa alla prova, un percorso spero partecipato per migliorare, se non la vita, almeno la scrittura e la produzione di questi audio.
+        Ei, non sono l'ultimo invasato di podcast, so bene come funziona. Sono su questa piattaforma in altre forme di vita dal lontano 2018. Sono ben cosciente del rischio di lanciare un granello di sabbia nell'oceano infestato di squali, ma semplicemente me ne fotto. 
+        
+        Ve lo dico già. Tutto questo ha una data di scadenza: 31/12/2025. Un anno di viaggio, un anno per aprire porte, per esplorare nuove strade o fare in modo che tutto ciò possa accadere.
+        
+        Avremo modo di conoscerci, ma non cercate l'infinito perso nei social o in altre piattaforme perchè non esiste e non esisterà. Non vi saranno newsletter o altre forme di comunicazione se non questo strumento. Un buon compromesso è la presenza qui su spotify e null'altro se non il sito dove troverete i testi  di queste puntate, forse qualche immagine e gli audio di questo cammino, spero comune.
+        
+        L'unico modo per comunicare sarà via mail.
+        
+        A domani.`
+    };
+
     document.querySelectorAll('.date-list li').forEach(item => {
         item.addEventListener('click', function() {
-            const text = this.getAttribute('data-text');
-            document.getElementById('text-content').textContent = text;
+            const entryId = this.getAttribute('data-entry');
+            document.getElementById('text-content').innerText = entries[entryId];
             
             // Rimuove la classe active da tutti gli elementi
             document.querySelectorAll('.date-list li').forEach(li => {
