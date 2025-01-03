@@ -87,7 +87,7 @@ const entries = {
     },
     "3": {
         spotify: `<iframe style="border-radius:12px" 
-            src="https://open.spotify.com/embed/episode/0Kf4ZPwGBnwxHkjBAXp9UY?utm_source=generator" 
+            src="https://open.spotify.com/embed/episode/4UWI1M0EYIeZZIWRIq2val?utm_source=generator" 
             width="100%" 
             height="152" 
             frameBorder="0" 
