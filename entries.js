@@ -152,12 +152,6 @@ Stremati`
 
 ### Coincidenze
 
-Benvenuto su Invisibile perso
-Un podcast indipendente 
-Parlerò di me alla soglia del mezzo secolo di vita e del volersi ritrovare davanti ad  una svolta
-In mezzo ci saranno le nostre storie quotidiane, quelle che scatenano emozioni
-e i luoghi, quelli persi.
-
 Quarto giorno,
 dieci minuti di meditazione con estrema fatica,
 un pezzo di zenzero
@@ -199,11 +193,6 @@ Ciao!... Dovremmo fare qualcosa insieme, mi dice.
 Oiii ma sono solo al quarto giorno di remate, non è che questo Invisibile Perso ha dei poteri nascosti?
 Che poi hanno tutti lo stesso nome che inizia per M.
 Coincidenze.
-
-Hai appena ascoltato l'Invisibile Perso
-Un podcast indipendente sui cambiamenti, forse.
-Se vuoi leggere i testi e trovare qualcosa in più della mia voce vai al sito in descrizione.
-Se invece David Wallace ti fa un baffo e il tuo coraggio va oltre gli ostacoli, puoi scrivermi a invisibileperso@posteo.com
 
 Ciao
 A domani`
