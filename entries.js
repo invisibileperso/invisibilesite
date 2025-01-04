@@ -136,5 +136,76 @@ Fai provare, cerca il camerino
 Questo ti piace? NO
 Questo mi piace! NOOO quello no
 Stremati`
+
+    },
+    "4": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/6QkXPHkiSnN67zrhkAK9PH?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+
+### Coincidenze
+
+Benvenuto su Invisibile perso
+Un podcast indipendente 
+Parlerò di me alla soglia del mezzo secolo di vita e del volersi ritrovare davanti ad  una svolta
+In mezzo ci saranno le nostre storie quotidiane, quelle che scatenano emozioni
+e i luoghi, quelli persi.
+
+Quarto giorno,
+dieci minuti di meditazione con estrema fatica,
+un pezzo di zenzero
+e il bicchierone con gli integratori
+Per uno che non sopporta le routine non è male no?
+In realtà per molte cose sono abitudinario quel tanto che una piccola variazione in quel flusso testato giorno dopo giorno, mi potrebbe fortemente destabilizzare.
+Ma sulle routine ci torneremo con calma, sapete quelle delle docce fredde etcc.
+Avete sentito che ho aggiunto pure l'intro, così ogni nuovo arrivato potrà rendersi conto cos'è questo invisibile perso. 
+Lo ammetto, questa mattina oltre ad avere mille pensieri che corrono e che durante quei dieci minuti per ritrovarsi mi hanno fatto dannare, ho le dita arrugginite. 
+Scrivo e riscrivo parole tagliando di continuo enormi frasi superflue.
+Il difficile, almeno per me, non è iniziare, ma mantenere la rotta e l'energia sufficiente a remare con questi remi bislacchi.
+Ultimo giorno di questa prima settimana fatta per sconoscerci e per mettere a punto una procedura di scrittura, registrazione e pubblicazione il più efficiente possibile.
+Dalla settimana prossima si farà sul serio, si entrerà nel mondo del professionismo, visto che tutto questo dovrò incastrarlo con il pendolarismo e il lavoro.
+Devo ancora limare sugli aspetti tecnici, ma ce la farò.
+Coincidenze.
+Messaggio wapp da un caro amico che mi accompagnò in una bellissima avventura nel mondo della bicicletta. Con lui organizzai una serie di incontri online su come prepararsi per il ciclismo delle lunghe distanze. Fu a nostro avviso un successo, quasi inaspettato. 
+Ma lavorammo sodo e quello fu senza dubbio il giusto compenso, ovviamente sotto forma di autostima e di consapevolezza del valore delle proprie idee.
+Non riuscimmo a dare un seguito a quell'esperienza perché quello non era il nostro lavoro e come spesso accade è il lavoro che ci comanda e non le cose giuste.
+Da allora esiste un sito che raccoglie i contenuti di quelle serate e ogni anno bisogna decider se rinnovarne il dominio o venderlo. Fatto sta che quel dominio sembra avere un pò di richieste e il suo valore sul mercato non è proprio banale, almeno per me. 
+Vendiamo!
+Come sempre sto cacchio di istinto prende la mano e gioca il primo colpo.
+Ma cacchiarola se vale quei dollaroni vuol dire che l'interesse per certi argomenti è ancora alto, forse forse non è il caso di vendere.
+Poi il messaggio inaspettato sembrava scritto da me.
+M è in crisi con il lavoro, sta male, vuole cambiare, portare avanti progetti che lo gratifichino. 
+Cacchio in questa bagnarola a remi siamo già oltre il numero massimo di occupanti.
+Non me lo aspettavo.
+Da un lato salgono le motivazioni e potremmo veramente ripartire per un nuovo progetto. 
+Con lui c'è sintonia, lavoriamo bene insieme, ci compensiamo.
+Io visionario, lui pragmatico.
+Ma c'è anche un ma. Quell'esperienza ciclistica che è proseguita personalmente con un podcast e una faticosa newsletter che ho portato avanti per due anni, si è conclusa nel mio cervello nel giugno del 2024. 
+Da allora non ho più letto nulla di ciclismo e tanto meno scritto.
+Sono ancora in fase repulsiva, amareggiato da un ambiente comunicativo fatto in gran parte da fuffa.
+Calma e sangue freddo, serve ragionare.
+La parte del 68% della sua vita mi ha immediatamente incoraggiato verso un nuovo progetto.
+Porca... ma ho appena iniziata questa attraversata transoceanica!
+Vabbè le energie si trovano, non per niente mi bevo gli integratori al mattino, NO?
+Suona il telefono
+Ciao!... Dovremmo fare qualcosa insieme, mi dice.
+Oiii ma sono solo al quarto giorno di remate, non è che questo Invisibile Perso ha dei poteri nascosti?
+Che poi hanno tutti lo stesso nome che inizia per M.
+Coincidenze.
+
+Hai appena ascoltato l'Invisibile Perso
+Un podcast indipendente sui cambiamenti, forse.
+Se vuoi leggere i testi e trovare qualcosa in più della mia voce vai al sito in descrizione.
+Se invece David Wallace ti fa un baffo e il tuo coraggio va oltre gli ostacoli, puoi scrivermi a invisibileperso@posteo.com
+
+Ciao
+A domani`
     }
 }; 
