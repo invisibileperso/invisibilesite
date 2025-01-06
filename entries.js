@@ -208,8 +208,11 @@ A domani`
             loading="lazy">
         </iframe>`,
         content: `
-        7 gennaio 2025
+        
+### Festività scollate
+
 Martedì di rientro
+
 Weekend di chiusure e qualche apertura.
 Vorrei partire da una massima che il mio amico M mi ha lasciato durante una lunga call per confrontarci e individuare un campo da coltivare.
 Tenetevi forte, lo so che è mattino e che siamo tutti imbruttiti per il rientro lavorativo.
