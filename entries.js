@@ -196,5 +196,36 @@ Coincidenze.
 
 Ciao
 A domani`
+    },
+    "5": {
+        spotify: '<iframe style="border-radius:12px" src="[URL_SPOTIFY]" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>',
+        content: `
+        7 gennaio 2025
+Martedì di rientro
+Weekend di chiusure e qualche apertura.
+Vorrei partire da una massima che il mio amico M mi ha lasciato durante una lunga call per confrontarci e individuare un campo da coltivare.
+Tenetevi forte, lo so che è mattino e che siamo tutti imbruttiti per il rientro lavorativo.
+Ecco le sagge parole: oramai fare contenuti è come andare a cagare nel letamaio.
+Bè che dire, buona colazione a tutti!
+A parte gli scherzi e le grasse risate che io e M ci siamo fatti dopo questa quanto mai veritiera affermazione, mi tengo questa prima puntata della seconda settimana per chiudere questo periodo di fanta festività prima del rientro effettivo.
+Quest'anno più che mai mi sono sentito scollato da questo periodo festivo, un pò per i turbamenti interni un pò per il clima generale di menefreghismo? di distacco.
+Un presente distopico, per usare un termine che da spessore, o utopico?
+Forse più utopico, visto che nell'utopia si tende ad un futuro ideale, quindi tutti volemose bene etcc.
+Certo che quel futuro è quanto di più improbabile ci possa essere e forse ancor più peggiore del presente. Mannaggia ho bevuto troppa sambuca e vin santo per annaffiare quei disgustosi panettoni non panettoni. Ma mi spiegate cosa hanno fatto di male i canditi e l'uvetta sultanina per essere messi al confino??? Introvabili!!! Maledette gocce di cioccolato, mi appellero al santo tribunale di slow food per la vostra radiazione dalle festività natalizie!
+In quest'era tutto viene macinato, pure le gocce di cioccolato: maledette. 
+Tutto viene ridotto a poltiglia nel giro di poco tempo. Personaggi, concetti, teorie, tutto viene triturato, tutto viene sminuzzato rendendo la complessità un magma dai colori sgargianti che con due euro si trasforma nella palla rimbalzina che tutti i bambini desiderano dopo la visita medica.
+Il dramma della Palestina, sparito, il dramma dell'altra guerra è ormai, forse lo è sempre stato solo una scacchiera dove sacrificare i pedoni di turno. Trump, Musk, per non parlare dei nostri...
+Vi chiederete Cosa centri tutto questo con Invisibile Perso. 
+Vedete Ho sempre invidiato, più negli sfoghi di tristezza realistica, quelli che nulla li tange, che l'aperitivo se lo fanno ugualmente, che quando è ora di andar a basare i banchi si mettono le scarpe da festa. Si invidiati per la loro integrità.
+Eee a me non capita, no. Tutto ciò mi genera tristezza e sofferenza. Sofferenza direi, si sofferenza. Sofferenza umana cacchio! Morti ingiuste! Guerre, morti sul lavoro, giornaliste rapite, cattiverie gratuite sui social. A prescindere dall'essere allineati o meno con il pensiero di Cecilia Sala, la sua situazione è sofferenza e per quale motivo dovrei augurarle ancor più sofferenza? 
+E ancora: li avete letti i commenti in seguito all'incidente in grotta della povera Ottavia Piana? Io solo un pò perché poi mi saliva un malessere profondo. Quanta cattiveria inutile!
+Ma oltre a tutto ciò, percepisco anche un senso di malessere sociale dilagante almeno nella mia generazione. Ditemi: quanti sono contenti di tornare al lavoro oggi? E non parlo del doversi svegliare presto, ma di qualcosa di più profondo. Non vi sembra che qualcosa non funzioni?
+Ecco perché mi sento scollato da queste feste oramai terminate con una befana che manco più si brucia.
+Tornando per un attimo alle cose belle, finchè le figlie non litigano per il posto sul divano, ci sono i filmoni di natale visti tutti assieme.
+Tra tutti quelli visti uno in particolare, parlava degli amici immaginari. 
+Ne avete mai avuto uno?
+C'ho pensato, penso di no. Vorrei averlo ora? 
+Si perché no, un amico immaginario che sappia farmi l'occhiolino per indicarmi la parte giusta del bivio, una pacca sulla spalla o un ascolto silenzioso come faceva mio papà. Quei suoi silenzi e quelle poche parole bastavano, mi bastavano per sapere se la direzione era giusta, ecco mi basterebbe uno di quelli.
+Riprendiamo quest'avventura, mi servirà e spero potrà servire anche a voi.`
     }
 }; 
