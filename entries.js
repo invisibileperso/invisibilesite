@@ -198,7 +198,15 @@ Ciao
 A domani`
     },
     "5": {
-        spotify: '<iframe style="border-radius:12px" src="[URL_SPOTIFY]" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>',
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/6QkXPHkiSnN67zrhkAK9PH?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
         content: `
         7 gennaio 2025
 Martedì di rientro
