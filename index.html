@@ -34,6 +34,7 @@
             const entryId = this.getAttribute('data-entry');
             const entry = entries[entryId];
             document.getElementById('text-content').innerHTML = entry.spotify + entry.content;
+            document.getElementById('text-content').scrollTop=0;
             
             // Rimuove la classe active da tutti gli elementi
             document.querySelectorAll('.date-list li').forEach(li => {
