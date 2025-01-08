@@ -238,7 +238,7 @@ Ne avete mai avuto uno?
 C'ho pensato, penso di no. Vorrei averlo ora? 
 Si perché no, un amico immaginario che sappia farmi l'occhiolino per indicarmi la parte giusta del bivio, una pacca sulla spalla o un ascolto silenzioso come faceva mio papà. Quei suoi silenzi e quelle poche parole bastavano, mi bastavano per sapere se la direzione era giusta, ecco mi basterebbe uno di quelli.
 Riprendiamo quest'avventura, mi servirà e spero potrà servire anche a voi.`
-    }
+    },
 
 "6": {
         spotify: `<iframe style="border-radius:12px" 
@@ -306,5 +306,5 @@ Eliminare il passato no, ma dirgli di star buono, di non farsi sempre sentire pe
 Almeno finchè la strada non è solida, cercherò di eliminare quel prefisso Ri.
 Più che a riflettere mi metterò a pensare sul da farsi, 
 Questioni di postura.`
-    }
+    },
 }; 
