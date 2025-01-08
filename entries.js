@@ -239,4 +239,72 @@ C'ho pensato, penso di no. Vorrei averlo ora?
 Si perché no, un amico immaginario che sappia farmi l'occhiolino per indicarmi la parte giusta del bivio, una pacca sulla spalla o un ascolto silenzioso come faceva mio papà. Quei suoi silenzi e quelle poche parole bastavano, mi bastavano per sapere se la direzione era giusta, ecco mi basterebbe uno di quelli.
 Riprendiamo quest'avventura, mi servirà e spero potrà servire anche a voi.`
     }
+
+"6": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/0rVOUlesVSliTx0Eg9ejCQ?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+        
+### Ritorni e questioni di posture
+
+Benvenuto su Invisibile perso
+Un podcast indipendente 
+Parlerò di me alla soglia del mezzo secolo di vita e del volersi ritrovare davanti ad  una svolta
+In mezzo ci saranno le nostre storie quotidiane, quelle che scatenano emozioni
+e i luoghi, quelli persi.
+
+Primo giorno di lavoro da quando ho iniziato questo viaggio.
+Ritorno, 
+come il viaggio che sto facendo in questo treno sofferente perchè a quanto pare sono in corso
+cambiamenti climatici pure in questa carrozza visto che ci potrebbe sudare un cammello sahariano.
+Scomparto di coda mezzo vuoto: universitari ancora latitanti.
+
+PS1 quinta volta che in questa giornata mi ciuccio la pubblicità di un podcast che mi vorrebbe insegnare come vivere meglio e stare bene, mannatevene a ....
+Spotify è diventato ingombrante
+
+Torniamo a noi.
+Com'è andata la vostra prima giornata?
+Mi scuso con tutti quelli che magari non hanno fatto nemmeno un giorno di ferie, ma abbonatemi questo calendario che vuole il primo giorno dell'anno coincidente con il primo giorno di rientro scolastico. 
+Bè la mia giornata la definirei difficile. Provando a definire quanto, in una scala da 1 a 5 direi 5. 
+Un 9c+ in scala climbing su roccia marcia e con il sacchetto di magnesite dimenticato in garage. 
+Un undici sulla scala Beaufort
+Mi sentitite? immagino di no vista la tempesta violenta!
+Potrei elencare innumerevoli scale, tipo quella della durezza tanto cara a noi geologi. Diamante, diamante vince sempre.
+
+E' qualche giorno che rifletto sulle ripartenze, sui ritorni. Quel prefisso ri mi perseguita. 
+Chissà se cambierebbe qualcosa se iniziassi a dire Parto, Vado? 
+Forse si, 
+forse cambierebbe la postura verso le cose, 
+un procedere verso 
+eliminando il contrario, togliendo un andare indietro, un flettersi.
+
+La mia è stata canonica con il vociare mattutino per lo scambio di impressioni vacanziere e la personale goduria nel rispondere NO alla solita domanda del piffero: "siete andati da qualche parte?".
+L'accensione del pc, lo sprofondamento nella poltrona con il pistone un pò depresso che mi sostiene finche non si stanca 
+e la visione di quel desktop. Forse dovrei cambiare immagine? 
+Non è mancata neanche la riunione collettiva.
+Scene già viste con colleghi che alla novità del caso diventano immediatamente esperti di quella novità del caso. Miracoli dell'autostima e sistemi regolati da posture ed angoli.
+Sguardo alle mail, fortunatamente poche. Sempre curioso osservare gli orari e le date di invio, cosa non fa la programmazione del SEND TO...
+
+PS2 maledetto  spotify, ancora una volta quel cacchio di spot sulle istruzione per stare bene e vivere meglio.
+
+Ok ci sto, volgo lo sguardo in avanti, da qui non si torna indietro. Un pò come quei giochi elettronici dove il protagonista si trova in equilibrio su un mattoncino in mezzo al nulla e nei suoi poteri per salvarsi la pelle c'è quello di costruirsi la strada posando un mattone dopo mattone.
+
+E allora mettiamo un mattone andando ad un incontro introduttivo ad un corso di meditazione. Sono curioso, poche persone, proviamo una meditazione guidata seduti sulle sedie, piedi ben appoggiati a terra e schiena dritta per una postura corretta. 
+L'insegnante empaticamente non mi affonda e mi resta qualche dubbio soprattutto sulla scuola che gli copre le spalle. Orientarsi in un pullulare disordinato di offerte è difficilissimo. 
+
+Ultimo slot della giornata: il tennis.
+Vi racconterò cosa centra il tennis nella mia vita, o meglio cosa centra ora il tennis. Un'ora complicata dalle 9 alle 10 di sera con due o tre compagni d'allenamento che potrebbero benissimo essere mie figli. Tengo botta, che non crediate, i miei piedi sono sempre sul pezzo ma talvolta la postura non è quella corretta e il colpo scappa. 
+
+Eliminare il passato no, ma dirgli di star buono, di non farsi sempre sentire per dire quanto ero bravo o quanto mi sono impigrito, quando e quanto ho sbagliato.
+Almeno finchè la strada non è solida, cercherò di eliminare quel prefisso Ri.
+Più che a riflettere mi metterò a pensare sul da farsi, 
+Questioni di postura.`
+    }
 }; 
