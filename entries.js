@@ -355,4 +355,4 @@ Una foto, un preventivo, una frizione da cambiare...
 Sono andato alla cassa, ho pagato e ho svuotato il carrello dei sogni.
 
 A domani.`
-}
+};
