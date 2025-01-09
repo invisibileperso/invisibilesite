@@ -307,4 +307,54 @@ Almeno finchè la strada non è solida, cercherò di eliminare quel prefisso Ri.
 Più che a riflettere mi metterò a pensare sul da farsi, 
 Questioni di postura.`
     },
+
+"7": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/1i3ENU6FmnIteMc0h5rlUb?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+        Ecco il testo corretto dal punto di vista ortografico:
+
+###  Indefinito
+
+Settima puntata
+Sette del mattino
+
+Zenzero e integratori per combattere la senilità già presi.
+Bidone del vetro già esposto. Ovviamente sbagliando giorno
+Ma questo è oggi, e io devo scrivervi di ieri.
+Vi ricordate il procrastinare? Parente stretto è il "tanto me lo ricordo"
+Stavo per addormentarmi e come sempre accade al lancio di nuovi progetti, il cervello funziona a mille. 
+Come un giovane miner che nella sua fanta cameretta mette insieme le schede video dei vecchi Telefunken con la speranza di picconare come un valoroso lemmings per trovare il bit che gli cambierà la vita, così la mia mente scandaglia tutte le miniere sepolte delle idee irrealizzate. 
+Ero già sotto le coperte, mi stavo imponendo di spegnere il cervello e abbandonarmi al sonno quando...tadaan! 
+Ecco l'idea, ecco lo spunto per scrivere una puntata epica. 
+Ora mi alzo e me la appunto. Ma no vai tranquillo che me la ricordo, basta solo ripeterla un paio di volte. Ok
+Allora prima questo, poi quello, prima questo poi quello, prima questo poi quello. Grande!
+Secondo voi me la ricordo?
+NOOOO
+Quindi se procrastinare è errato, non appuntarsi le idee è altrettanto grave!
+Lo so sono passibile di boomerismo, dopo le su citate pietre miliari degli anni passati potrei essere definito il boomer di turno che cerca spazio in un campo che non è il suo, quello dei creator, ossia cagatori da letamaio...cit 
+E invece vi sbagliate, primo perché non sono boomer, secondo perché...cacchio mi son dimenticato pure questa! Avete contatti con Betotal mind plus per una sponsorizzata?
+A parte gli scherzi è necessario tornare e non ritornare a qualche definizione per inquadrare il campo di gioco, di perché è il campo del gioco e non un campo da gioco per giocare a qualcosa di specifico, insomma inquadriamo questo campo per capire meglio questo stato, intendo il mio, anche se sono convinto essere proprio di molti di voi. 
+X, come Malcom X
+Uno dei primi mattoni letti, la storia di Malcom X. Lo lessi alle medie. Ricordo benissimo quel lavoro fatto assieme al mio amico Guido sull'apartheid, Nelson Mandela. Quel filone mi portò a Malcom X.
+X come la mia generazione.
+Discendenti della generazione silenziosa o con più probabilità proprio dai Boomers che ci ha preceduto. 
+Provate a pensare al perché di quel nome. Ebbene sì, X come variabile che può assumere qualsivoglia valore. Fondamentalmente indefinita. 
+A cavallo tra l'era analogica e l'era digitale. 
+Ecco sì, in questo mi ritrovo. Mi sono sempre sentito a cavallo di qualcosa senza essere appassionato di equitazione e intendiamoci, l'essere a cavallo in questo caso non assume il significato del "ah bene siamo a cavallo!!!" quindi andiamo sicuri da qualche parte, no. L'essere né di qua né di là, in mezzo senza una precisa appartenenza, questo è il nostro cavallo di battaglia.
+Douglas Couplan, scrittore canadese, coniò l'X come aggettivo fuori dal campo matematico nel 1991. Posso fieramente dire di aver vissuto la mia infanzia libero da etichette, poi l'adolescenza, quella no.
+Prima di noi i veri boomer, i nostri padri e le nostre madri, quelli nati appena dopo la seconda guerra mondiale fino a metà degli anni 60. 
+Questo è solo l'inizio, la storia mondiale è complessa, quella sociale per definizione è incasinata, ma cercherò di mettere in fila un po' di cose per capire o per lo meno cercare un punto di partenza, un germoglio comune che ci ha portato fino a questo podcast, fino a questa necessità di scrivere per alleviare il malessere generato dal conflitto per ora insanabile tra lavoro e vita.
+Ieri ho usato chatgpt, un po' me ne pento, un po' no. Ho scritto per avere info su altri corsi di meditazione-mindfulness, ho sognato su altre cose, poi mentre mettevo cose costosissime nel carrello della spesa...ecco la notifica.
+Una foto, un preventivo, una frizione da cambiare...
+Sono andato alla cassa, ho pagato e ho svuotato il carrello dei sogni.
+
+A domani.`
 }; 
