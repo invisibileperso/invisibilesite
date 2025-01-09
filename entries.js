@@ -319,8 +319,6 @@ Questioni di postura.`
             loading="lazy">
         </iframe>`,
         content: `
-        Ecco il testo corretto dal punto di vista ortografico:
-
 ###  Indefinito
 
 Settima puntata
