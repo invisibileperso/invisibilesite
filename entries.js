@@ -310,7 +310,7 @@ Questioni di postura.`
 
 "7": {
         spotify: `<iframe style="border-radius:12px" 
-            src="https://open.spotify.com/embed/episode/1i3ENU6FmnIteMc0h5rlUb?utm_source=generator" 
+            src="https://open.spotify.com/embed/episode/5P72sCguTXzWMfDdmO771P?utm_source=generator" 
             width="100%" 
             height="152" 
             frameBorder="0" 
