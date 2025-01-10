@@ -356,4 +356,71 @@ Sono andato alla cassa, ho pagato e ho svuotato il carrello dei sogni.
 
 A domani.`
     }
+
+"8": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/6UPwkdh5BwMX8oOAjNHj2z?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+        
+### Il pomodoro
+
+Oggi sono in ritardo, me devo spiccià.  
+Pomodoro time doppio, 50-10. Sono riuscito a trovarne uno senza pioggia. Ecchecacchio, sempre co’ sta pioggia!  
+La sapete quella del pomodoro, no? La teoria del timer a forma di pomodoro della durata di 25 minuti, poi 5 minuti di pausa, e via così. Visto che non siamo neanche più capaci di concentrarci sull’amato lavoro, ci facciamo condizionare da una delle tante teorie “mind-markettare” per tenerci incollati alla scrivania.
+
+Ottava puntata, giusto?
+Ebbene sì, otto puntate in dieci giorni. Non male, sono gasato.  
+Avete idea di quante parole si scrivono per ogni puntata di questo **Invisibile Perso**? Mediamente dalle 650 alle 700 parole, 4500 caratteri circa, due cartelle e mezza.  
+Il podcast sta crescendo piano piano e già mi sto troppo infognando con quei risicati numeri che, vuoi o non vuoi, te li devi ciuccià.  
+Sì, perché ora Spotify ha ovviamente complicato le cose con un portale dove tutto sembra semplice. In realtà è tutto fatto a pro domo sua. Pure le tue statistiche servono per farti invogliare a produrre contenuti, mica per darti una visione chiara di quello che succede. Eee no, ti mostrano le percentuali, come i politici che parlano di incrementi percentuali! Vagli a spiegare che, se non contestualizzate, le percentuali non dicono ‘na mazza!  
+E allora ti viene voglia di promuoverlo, perché: "Aò, sta andando alla grande, dajeee!!!"  
+Ti viene voglia di aggiungere cose, di fare cose di cose...  
+Respiro profondo: "Lascià perde ste minchiate. Ricordati che sto podcast serve, serve a te!"
+
+Tic-tac, il pomodoro continua a girare.
+
+E il pomodoro, che prima si conservava, ora ti misura il tempo. Almeno serve a qualcosa, no?  
+Perché tutto deve servire a qualcosa, ma qualcosa di tangibile, non come il pomodoro che se ne stava tranquillo nel vasetto Bormioli. No, deve misurarmi il tempo.  
+E **Invisibile Perso**? Bé, sinceramente non ha grandi funzioni. Non sono tutorial e chi lo scrive non vuole proprio insegnarti nulla. Al massimo vuole strapparti un sorriso o scatenarti un pensiero. Ecco, quello sì.
+
+Sto andando avanti con _[[Generazione X]]_.  
+Quando è stato scritto, nel 1991, l’autore descriveva la situazione di un individuo assalito da troppi stimoli in un contesto storico in cui i canali televisivi erano passati da dieci a cinquanta.  
+Pensate ora a dove siamo arrivati.  
+I tre protagonisti, ritrovatisi nel deserto, dicevano:  
+"Sappiamo bene che è per questo che ci siamo lasciati tutti e tre le nostre vite alle spalle e siamo venuti nel deserto: per raccontarci delle storie e, nel farlo, rendere le nostre vite storie degne di essere raccontate".
+
+Vite degne di essere raccontate.
+Mannaggia al pescivendolo, vorreste dirmi che sono figlio di tutto ciò? Della necessità di raccontarmi per sentirmi vivo? Oh cacchio, mi destabilizza.  
+No dai no, non può essere così!  
+Odio i social, li rifuggo. E con questo?  
+Boh, sono confuso.
+
+Tornando al senso del pomodoro, al fatto che tutto deve "servire", torno dal giro mattutino per portare le figlie a scuola. Ho fatto partire un podcast che normalmente dura pochi minuti e parla di tecnologia. Puntata lunga, con ospite. Una che ha fatto carriera con i tutorial, quelli che ti insegnano a fare tutte quelle cose per cui potresti vivere senza. Era con la valigia in mano, perché vive in viaggio tra l’Italia e Londra. Sì, perché Londra è la sua safety escape. Safety che?  
+Tiene rapporti con i brand, organizza workshop...  
+Mi sono obbligato ad ascoltare almeno fino al ritorno a casa.
+
+Newsletter: parla del concetto del _Brain Rot_. In pratica, il rincoglionimento digitale.  
+[https://open.substack.com/pub/letmetellitnewsletter/p/forse-non-siamo-brainrot-ma-semplicemente?r=1fe5dt&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true](https://open.substack.com/pub/letmetellitnewsletter/p/forse-non-siamo-brainrot-ma-semplicemente?r=1fe5dt&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+
+Lasciate perdere la prima parte, l’interessante arriva dopo la metà, con la citazione di un articolo di Scott Galloway:  
+[https://www.theintrinsicperspective.com/p/what-the-heck-happened-in-2012?utm_source=substack&utm_medium=email](https://www.theintrinsicperspective.com/p/what-the-heck-happened-in-2012?utm_source=substack&utm_medium=email)  
+Quello che sembra essere intuizione, maggiore attenzione, velocità nel comprendere, velocità nel cambiare settore, ecc. in realtà è puro rincoglionimento digitale!
+
+Un paragrafo della newsletter è dedicato al fatto che i brand sono sostituiti in toto dagli influencer.  
+La tiktoker con la safety escape londinese se la ride.
+
+O mamma mia, che lungo! Non vi ho detto un sacco di cose, prometto di recuperare domani.  
+Il mio vero lavoro continua nella melma quotidiana. Il percorso sarà lungo.  
+Domani mi risento con M. per quagliare progetti futuri.  
+Ho compilato il calendario per la disponibilità alle uscite fotografiche e sabato ho deciso che parteciperò a una presentazione di un corso di **MBSR** (_Mindfulness-Based Stress Reduction_) tenuto dalla scuola italiana di MBSR. Vi saprò dire!
+
+Ciao`
+    }
 };
