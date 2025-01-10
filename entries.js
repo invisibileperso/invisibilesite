@@ -355,8 +355,8 @@ Una foto, un preventivo, una frizione da cambiare...
 Sono andato alla cassa, ho pagato e ho svuotato il carrello dei sogni.
 
 A domani.`
-    }
-
+    },
+    
 "8": {
         spotify: `<iframe style="border-radius:12px" 
             src="https://open.spotify.com/embed/episode/6UPwkdh5BwMX8oOAjNHj2z?utm_source=generator" 
@@ -422,5 +422,5 @@ Domani mi risento con M. per quagliare progetti futuri.
 Ho compilato il calendario per la disponibilità alle uscite fotografiche e sabato ho deciso che parteciperò a una presentazione di un corso di **MBSR** (_Mindfulness-Based Stress Reduction_) tenuto dalla scuola italiana di MBSR. Vi saprò dire!
 
 Ciao`
-    }
+    },
 };
