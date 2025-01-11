@@ -423,4 +423,64 @@ Ho compilato il calendario per la disponibilità alle uscite fotografiche e saba
 
 Ciao`
     },
+
+"9": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/34W0VevWqgv4TcVlEeWKRa?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+### Il botto
+
+C'è stata una cosa che ha scatenato tutto questo.  
+Anni di malessere lavorativo, certo. Ma quel malessere diventa una routine incrementale.  
+Goccia dopo goccia portano prima o poi a qualcosa.  
+Finalmente ero riuscito a costruire una parvenza di orizzonte diverso da quello tetro che inquadravo ogni volta che mi volgevo al futuro.  
+Un master universitario per qualificarmi nuovamente nel mio settore. Tutto ciò con una duplice utilità: da un lato mi avrebbe permesso di portare a termine dei progetti di lavoro e, dall'altro, di costruire un'alternativa per propormi come consulente esterno.  
+Mi ci vedevo già rilanciato nel mondo del lavoro e ogni giorno che passava vedevo aprirsi sempre più quella porta lontanissima.  
+Mi pre-iscrivo, mando il curriculum, la lettera motivazionale e attendo.  
+Chi poi qualcuno mi spiegherà cosa mai se ne faranno della lettera motivazionale, 3.500 euro non sono già abbastanza motivazionali?  
+In fondo ci sono quaranta posti disponibili e mi convinco che, essendo più che sufficiente per un settore di nicchia come il mio, entrare in questo master non deve essere poi così complicato.  
+Finalmente arriva la graduatoria e amaramente scopro di essere abbondantemente fuori dai posti disponibili.  
+La lista è quanto mai opinabile, nessun punteggio associato ai nomi a differenza di quanto scritto nelle regole d'ingaggio. Solo la posizione.  
+Sessantesimo e passa su poco più di settanta pre-iscritti.  
+Avete presente gli schianti del coyote in _Roadrunner_?  
+La delusione montò ora dopo ora fino ad arrivare al pessimismo totale.  
+Oltre all'autostima in frantumi, all'essersi reso conto che quindici anni di lavoro non servono più a nulla, o che per lo meno sono valutati poco più di uno scellino ugandese, piano piano si richiuse quella porta che avevo appena aperto con tanta fatica.  
+Tornò il buio pesto, nessun lumicino in fondo al tunnel, nessuna via di fuga.  
+Andai a letto, quel pomeriggio. Io che odio i riposini, probabilmente come contrappasso dopo le dormite forzate in quel salone dell'asilo con quelle brandine blu scomode, orribili, le suore a far la ronda e quell'odore insopportabile sotto al naso.  
+Andai a letto, mi rannicchiai sotto le coperte.  
+Stetti lì, incurante delle bimbe al piano di sotto.  
+Cinque ore.  
+Tornò la mia compagna di vita e mi trovò ancora lì, fermo, inerme.  
+Mi parlò, si rese conto che qualcosa non andava.  
+Stordito da quelle cinque ore sprofondato in fondo a un pozzo stetti in silenzio, forse solo qualche mugugno.  
+Presi paura, mi spaventai.  
+Il tepore delle coperte che per ore mi aveva placidamente stordito facendomi navigare in un mare di sterili pensieri diventò caldo soffocante.  
+Dovevo liberarmi da quella pesantezza.  
+In qualche modo mi resi conto di aver toccato con mano qualcosa di pericoloso.  
+Era necessaria una reazione, mi obbligai ad essere positivo, almeno a cercare piccole positività al di fuori della sfera lavorativa.  
+Da quel pomeriggio in fondo al pozzo, decisi che dovevo far qualcosa, dovevo tornare ad essere propositivo.  
+Da quel pomeriggio è nata l'idea di questo diario e di questo podcast.  
+Decisi di tornare a scrivere.  
+In fondo la scrittura mi ha dato una mano per gestire gli attacchi di panico nei treni affollati e  
+forse ora mi aiuterà a gestire questo lungo e difficile periodo in cerca di una svolta.  
+Poi quella notizia durante le vacanze di Natale.
+
+Cognetti, TSO.  
+Cognetti, mio coetaneo.  
+Cognetti che ho letto voracemente con quei suoi riferimenti all'adorato Jack, con quelle emozioni invisibili e quei luoghi persi.
+
+Il titolo di questo diario l'avevo già individuato, ma ero ancora indeciso se partire o meno con quest'avventura, se darmi quella spinta dallo scoglio.  
+Non serve che vi dica che ho deciso di farlo.
+
+Ecco dove tutto è nato.
+
+Ciao`
+    },
 };
