@@ -483,4 +483,72 @@ Ecco dove tutto è nato.
 
 Ciao`
     },
+"10": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/7waiukPV3mb7cB3xLvZgcK?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+###I l tennis, la pallavolo, disalberamenti e nuovi percorsi
+
+Bentornati riparte, anzi parte visto che ho deciso di volgermi al nuovo senza ripiegamenti. Dicevamo: parte la terza settimana di questo esperimento tra scrittura giornaliera e podcast. Decima puntata, carro armato grosso. Quasi quasi vado con i dadi d'attacco.
+
+Per chi fosse la prima volta qui su Invisibile Perso, sappia che si tratta di miei pensieri nati dal vivere quotidiano alla soglia del mezzo secolo di vita, nel pieno di una profonda crisi lavorativa.
+ALLEGRIA!
+Sono pensieri scritti a mo di terapia, sapete no la scrittura terapeutica bla bla...
+Una specie di seduta in stile alcolisti anonimi. Un aerosol di affari miei in questo padano inquinamento atmosferico. 
+Bè insomma, oltre all'inquinamento atmosferico c'è l'inquinamento della vita, della mia vita lavorativa che talvolta pregiudica il godersi la parte sana del vivere.
+
+Attenzione che non si tratta di un how to, non ti darò soluzioni, ricette o protocolli magici da seguire ma al massimo ti sorgerà qualche domanda, al più un sorriso e  nelle migliori delle ipotesi, ti sentirò dire: an vedi, allora non sono l'unico.
+
+Cercherò di produrre una puntata al giorno, un diario postumo di 24 ore, dal martedì al sabato.
+
+Come avrai intuito è un podcast indipendente che si promuove solo grazie al tuo passaparola. Grazie se lo farai.
+Se vuoi puoi seguire il sito web che trovi in descrizione o scrivermi a invisibileperso@posteo.com
+
+Così su due piedi, ma non vi sembrano mesi che siamo tornati al lavoro? Pazzesco come le cose piacevoli vengano immediatamente cancellate e sepolte dalla routine e dalle emozioni tossiche. Basterebbe tenere a galla le emozioni positive, avere la forza di non farsi sopraffare dalla negativa, fare un sorriso in più. Semplice no?
+
+Giornata lavorativa all'insegna ancora una volta del darsi un tono, ma questo argomento lo affronterò tra due puntate. Tenetevi saldi perché su quell'argomento ho una valanga di cose da sputar fuori.
+
+Entusiasmo e disorientamento. Queste le due parole del weekend appena trascorso.
+
+Parto dalla prima, entusiasmo accompagnato dalla voglia di crederci, dal pensare di aver individuato un percorso fattibile. Come vi ho accennato ho seguito la presentazione del corso MBSR, Mindfulness Based Stress Reduction organizzato dalla scuola italiana MBSR tenuto da Franco Cucchio e ne sono rimasto affascinato. Finalmente scienza e l'intangibile hanno un punto in comune. Un fulcro che potrebbe sorreggere questo periodo di transizione. Modulo di iscrizione inviato, track. Quindi preparatevi che a febbraio e marzo avrò un sacco di cose da raccontarvi! Aspettate, forse non mi conoscete ancora e a volte faccio fatica pure io a riconoscermi. Sarà l'età, saranno le recenti mazzate che hanno tolto un po' di sostegno alla mia autostima, ma ultimamente non riesco a lanciarmi nelle novità con quell'energia bruciante che mi rendeva pazzerello quando avevo qualche decade in meno sulle spalle. Sarò in grado? Sarò all'altezza? Mi piacerà? Solo alcune delle domande che mi ruminano in testa.
+
+Lo sport amatoriale fa schifo!
+
+Fosse stata una partita di un grande slam sarei tornato a casa con un secco tre a zero senza tanti se e senza tanti ma. 
+Sì, parlo del tennis, del disalberamento con mare in tempesta di domenica pomeriggio. 
+Risposi SÌ senza manco pensarci un attimo. L'oggetto era un torneo interno tra il gruppo degli avanzati ai quali fieramente appartengo e i restanti agonisti e pseudoagonisti. 
+Vedi energia bruciante che per lo sport non si è ancora spenta, almeno fino a domenica mattina. In campo non stavo granché bene, i giorni precedenti avevo abusato di cibi nocivi e mi sentivo appesantito: bando alle scuse, ho sbagliato l'impossibile. 
+
+C'è una cosa nella vostra vita della quale vi sentite padroni? Che vi sentite in grado di spiegare, di insegnare, di capire al volo, di esserne maestri? 
+A parte far mappette con il pc, e pedalare in bici, la cosa vera che amo dal profondo e che rimarrà dentro di me indelebile, è la sensazione del pallone da pallavolo tra le dita mentre do una palla dietro all'opposto o quegli infinitesimi attimi di precisione per alzare una veloce al centrale.
+Scatto, mi porto perpendicolare a rete, la ricezione è buona, do uno sguardo al campo avversario, salto, braccia in alto, polpastrelli attivi in cerca della palla, eccola la accarezzo per un istante, il centrale è già partito, lo sento arrivare, la palla entra nelle mie mani, i polsi si flettono e calibrano il ritorno per dare la forza necessaria. Sbang, palla piantata a terra dal centrale che mi cerca con gli occhi per ringraziarmi. Che sensazioni...
+Potrei dilungarmi all'infinito. La pallavolo è dentro di me. Non ci gioco più, non la insegno più, la guardo quando riesco, ma è dentro di me come quell'ultima schiacciata di Bernardi. La pallavolo è dentro di me perché non ha contatto fisico ma solo abilità tecniche per battere l'avversario. Nella pallavolo non puoi far melina, non puoi fingere, non puoi tener palla per far passare il tempo. Nella pallavolo devi fare il punto, non puoi attendere l'errore dell'avversario. 
+
+Il tennis l'ho iniziato con una racchetta in alluminio, tipo Jimmy Connors, era dello zio Giordano. Contro un muro nel cortile del condominio. Il muro era il retro di una macelleria e aveva alte inferiate con finestre tipo vasistas con i vetri opachi a rombi. Quando il colpo mi scappava la pallina finiva giusta giusta tra le inferiate. Penso che più di qualche quarto di bestia si sia ritrovato una pallina gialla al posto dello stomaco.
+Il tennis è stile, forza e ha molte analogie con la pallavolo. Non c'è contatto fisico, c'è una rete nel mezzo ci sono un servizio e una risposta ma maledettamente, nel tennis del livello cacchina ++ che mi posso permettere, vince chi sbaglia meno. 
+Io non lo reggo. Non ora che lo vedo unicamente come svago, come momento catartico per pensare solo all'instante del colpo pallina racchetta e lasciare fuori qualsiasi altro pensiero.
+Devo cercare il punto, devo azzardare, devo divertirmi, devo cercare le linee. 
+Sbaglio sì, sbaglio ma cerco, cerco il punto. Perdo sì, ma cerco di vincere! Disalberato, disarcionato. Deluso, profondamente amareggiato, mi sono incupito. Mi son ripetuto cretino centinaia di volte. Perché non ti arrendi a pallettare e rimettere la palla di là? Cazzo aspetta che sia l'altro a sbagliare! 
+Quante volte mi son trovato con la palla in mano ad un punto dalla vittoria con la squadra che mi guardava in battuta. Non tremavo, no signori, non tremavo! Puntavo la linea, non il campo per far giocare gli altri, la linea per il punto.
+
+Chiudo citando David Foster Wallace:
+Nel tennis il vero avversario, la frontiera che include, è il giocatore stesso. C'è sempre e solo l'io là fuori, sul campo, da venire a patti. Il ragazzo dall'altro lato della rete: lui non è il nemico; è più il partner nella danza. Lui è il pretesto o l'occasione per incontrare l'io. E tu sei la sua occasione. 
+Le infinite radici della bellezza del tennis sono autocompetitive. Si compete con i propri limiti per trascendere l'io in immaginazione ed esecuzione. Scompari dentro al gioco: fai breccia nei tuoi limiti; trascendi; migliora, vinci.
+Si cerca di sconfiggere e trascendere quell'io limitato i cui limiti stessi rendono il gioco possibile. E' tragico e triste e caotico e delizioso. E tutta la vita è così, come cittadini dello Stato umano: i limiti che ci animano sono dentro di noi, devono essere uccisi e compianti all'infinito.
+
+Ero sotto le coperte che rimuginavo. 
+
+Fanculo! Sapete che vi dico? 
+
+Posso allenarmi solo un'ora alla settimana e non me ne frega se continuerò a perdere cercando di fare il punto!
+Questo ora è il mio tennis.
+`
+    },
 };
