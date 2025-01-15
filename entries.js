@@ -551,4 +551,66 @@ Posso allenarmi solo un'ora alla settimana e non me ne frega se continuerò a pe
 Questo ora è il mio tennis.
 `
     },
+"11": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/1i3ENU6FmnIteMc0h5rlUb?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+### Dobbiamo essere propositivi.
+
+Ho di fronte a me il monitor nero.  
+Modalità night.  
+Amo scrivere sulla carta, ma Invisibile Perso ha bisogno di snellezza e quindi salto il passaggio della trascrizione e vado dritto sul PC bypassando quegli odiosi editor di testo troppo dispersivi.  
+Scrivo su Obsidian, lo conoscete?  
+Viene definito come Second Brain, secondo cervello, come se il nostro non bastasse più, non fosse più sufficiente per gestire cosa? Cosa mai dovremmo gestire di così complesso che ci serve un Second Brain? E magari anche un terzo, quarto, intelligenza artificiale e tutto il resto.  
+Aiuto!  
+Ho preso degli appunti per questa puntata, ma rischiano di essere travolti dall'attualità lavorativa.  
+Voglio tenere fede ai programmi e anticipo il concetto di burnout non prima di darvi il benvenuto in questa puntata numero undici di Invisibile Perso.  
+Per chi non mi conoscesse, lo invito a partire dalla prima puntata: sono tutte numerate e, parlando di vita che scorre, l'unico senso di ascoltarle è quello di seguire il naturale susseguirsi degli eventi.  
+In realtà, è solo un subdolo meccanismo per tenervi incollati a questo podcast!
+
+Tensione.  
+Erano due anni, forse anche tre, che non mi sottoponevo alla visita per il certificato medico sportivo agonistico che, nei primi vent'anni della mia vita, era per la pallavolo, mentre per i secondi venti e spiccioli per il ciclismo. Due anni di smantellamento della mia prestanza fisica, accompagnati dall'inevitabile passare delle stagioni. La condizione atletica è tra il ridicolo e il farsesco, con un po' di chili in più e watt regalati allo scambio sul posto (citazione in favore della lotta ai cambiamenti climatici).  
+Insomma, mi trovo steso sul lettino con l'infermiera che mi misura la pressione e i sensori che iniziano a registrare il mio motore.  
+"AAA, ma è allenato lei!"  
+"No, dottore, assolutamente no."  
+Inizio a menare sulla bici e poco dopo lo stesso dottore:  
+"In effetti non è molto allenato."  
+"Cosa le dicevo, dottore!"  
+Abile a fare sport agonistico anche quest'anno, ma cacchio, mi devo rimettere in forma.  
+Segniamo anche questo nelle cose da fare... segniamoci il fatto di non voler più ritrovarsi teso di fronte a un qualsivoglia esame.  
+È veramente strano come gli stati tensivi si trasferiscano in tutte le fasi della quotidianità, come una sorta di vasi comunicanti che livellano lo stress; lo distribuiscono uniformemente. Le porte stagne non reggono.
+
+Burnout e dintorni.  
+Mentre navigavo su YouTube, non so manco in cerca di cosa, mi sono imbattuto in un video di Mr. RIP. Lo conoscete? In pratica, la versione ricca di questo Invisibile Perso. Coetaneo, se non erro pure lui tre figli, con la sola differenza che lui abita e vlogga dalla Svizzera dopo una sostanziosa buonuscita googliana. Lui ingegnere informatico, io geologo. Capire la differenza?  
+In questo video cita un numero della newsletter _Wednesday Wisdom_ (Mercoledì di saggezza) di un suo mentore, Jos Visser. Pure lui ingegnere informatico, giurista, esperto di selezione del personale, frequentatore di tutte le big della Silicon Valley.  
+Mi fiondo a leggere la newsletter e fa male, fa proprio male rendersi conto di entrare perfettamente nelle descrizioni date da Jos.  
+Parla di [_Dealing with Underperformance_](https://josvisser.substack.com/p/dealing-with-underperformance?utm_source=publication-search), ossia di come gestire, dal punto di vista del dirigente, personale non motivato e scarsamente performante. Insomma, parla di me dal punto di vista del dipendente! Che culo, sono protagonista di una newsletter scritta da un cervellone della Silicon Valley!  
+Individua una serie di cause che generalmente portano il dipendente a non essere performante:
+
+- Problemi nella vita privata.
+- Mancanza generica di motivazione.
+- Processi di lavoro non ottimali.
+- Burnout.
+- E, ultimo ma non meno importante, [cattiva gestione](https://josvisser.substack.com/p/the-much-maligned-manager) e/o un [ambiente di lavoro tossico](https://hbr.org/2024/01/how-to-tell-if-a-prospective-workplace-is-toxic).
+
+Concordo, possono essere anche tutte messe insieme. I casi della vita sono molteplici.
+
+Torneremo su questa newsletter per parlare approfonditamente di burnout e ambienti di lavoro tossici, ma prima di chiudere salto a pagina 166 del libro _Fermati e Respira_ di Daniel Lumera.  
+Molto spesso, e mi ci ritrovo anche in questo, un underperformer passa molto tempo a pensare. C'è un fenomeno che si chiama mind-wandering, che descrive quei soggetti che passano la gran parte della giornata a pensare. Generalmente si passa il 47% della giornata a pensare a ciò che non accade in quel preciso momento.  
+Sapete qual è l'organo che consuma più energia nel nostro corpo? Ebbene sì, nonostante sia solo il 2% del nostro volume, il cervello è il più energivoro di tutti e, peggio lavora, più altera tutti gli altri cicli naturali, influenzando umore, concentrazione, ecc.  
+Tutto questo sapete a cosa porta? Burnout.  
+INAIL dice che nel 2024 otto italiani su dieci ne sono a rischio.
+
+Vi ricordo che sulla mia barchetta appena salpata, con una vela malconcia e remi mezzi rotti, non c'è molto posto...  
+Ma potete salpare anche voi, lascio le luci accese anche di notte.
+
+Ciao.`
+    },
 };
