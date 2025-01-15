@@ -151,7 +151,7 @@ audio {
 
 .date-list li.active {
     color: #FFFFFF;  /* mantiene il bianco quando attivo */
-    opacity: 0.5;
+    opacity: 0.8;
 }
 
 #text-content {
