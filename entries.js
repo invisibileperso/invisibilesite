@@ -613,4 +613,67 @@ Ma potete salpare anche voi, lascio le luci accese anche di notte.
 
 Ciao.`
     },
+"12": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/4ff5B13tgigRGeSlSIYfYS?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+
+        content: `
+
+### Chi siamo?
+
+Così su due piedi, chi siamo?  
+Ve lo chiedete mai?
+
+Bentornati su _InvisibilePerso_, diario di un'apparente normalità quotidiana scritto e prodotto da un quasi maturo alla soglia dei cinquant'anni, nel mezzo di vari travagli lavorativi.
+
+Penso di aver letto quella domanda da qualche parte, o forse l'ho sentita in altri podcast; fatto sta che me la sono appuntata su questa nota giornaliera e quindi, **daje**, affrontiamo questa domanda!
+
+Chi sono? Bella domanda, e come prima risposta mi verrebbe da dire che non lo so chi sono veramente.  
+Allora mi fermo, abbasso lo sguardo, chiudo gli occhi, cerco di allontanare il mio pensiero dalla persona e provo a vedermi da fuori.  
+Il pensiero schiva subito le sfere positive, quelle che includono la vita di coppia, l'essere padre, e si fionda velocemente sui buchi neri della realizzazione personale, della proiezione che ho coltivato in anni passati del _ME_.
+
+In questi giorni ho ricevuto messaggi bellissimi da parte di due amici che hanno condiviso con me momenti diversi della mia vita. Coetanei con i quali ho un rapporto a distanza, visto che stanno uno cinquanta chilometri a ovest e l'altro cinquanta chilometri a est. Messaggi simili, pieni di affetto e accomunati dal fermarsi a constatare quello che siamo ora, a differenza di quello che sentivamo di voler essere.
+
+E allora non lo so bene chi sono. So di essere in una fase di scoperta e meraviglia per quello che scopro ogni giorno. Non sono forse completamente quello che avrei voluto essere, ma la consapevolezza dell'essere non è fatta dalla nostra storia. Errore madornale che facciamo sempre, perché la retrospezione non può essere il presente né guidare il futuro.  
+Il fatto che l'essere consapevole nell'adesso richieda memoria del passato è assolutamente vero: ne è una parte, ma non può essere la sua essenza, e quello che ora è non può dipendere da costruzioni narrative o concettuali costruite nel tempo.
+
+E quindi chi sono? Forse sono un ricercatore, o meglio un cercatore, non nell'accezione scientifica, ma in quella di colui che è alla scoperta quotidiana durante un viaggio che è l'essere stesso.
+
+Minchia, certo che partire così di prima mattina... Mangiato pesante ieri sera?  
+Dai, alleggeriamo un po' con qualcosa tra il farsesco e l'incompreso, almeno per me.  
+Penso che sia stato il COVID, ma sinceramente non sono in grado di collocare uno spartiacque temporale preciso che divida l'epoca del pre-darsi un tono dall'epoca attuale del darsi un tono.  
+Sarà capitato anche a voi di incontrare persone che, prima del darsi un tono, erano alla mano: magari ci si dava del "tu", ci si diceva "ciao" al posto del "buongiorno", o magari addirittura un "ciao" al posto dell'essere ignorati.
+
+E allora, quando trovi persone così, inizi a chiederti cosa cavolo sia cambiato, quale pastiglia magica abbiano preso. E io dov'ero quando è passata quell'infermiera con quel pastiglione magico?  
+Ma il top penso capiti negli uffici, quando i colleghi, prima tuoi pari, cazzoni come te, d'improvviso assumono toni fintamente confidenziali con i superiori e toni formali con i pari.  
+**EEE Scusa???** È passata anche qua l'infermierina con il carrello delle supposte magiche e io, fatalità, ero in ferie???
+
+E vediamo un po', se vi chiedessi qual è la parola misteriosa di sette lettere che matematicamente il collega colpito dal darsi un tono pronuncia alla richiesta di un suo pari o inferiore? Tic tac, tic tac... forza dai, sette lettere che iniziano per "O".  
+**OBERATO!!!**  
+Ebbene sì, incredibilmente tutti oberati. Pazzesco come i carichi di lavoro siano squilibrati in questo ufficio. Povero collega che non sa se riesce a trovare cinque minuti di tempo.  
+Ma fa sul serio?  
+**CRETINO!**
+
+Che poi, la controprova di tutto questo arriva non appena un fanta-superiore, o almeno colui che l'oberato ritiene valevole di attenzione++, gli fa una richiesta.  
+**Track**, richiesta esaudita!  
+Ma scusa, non eri oberato?
+
+Dai, tutte queste scenette per tornare al concetto dell'ambiente di lavoro tossico.  
+Concetto soggettivo: quello che per me è tossico, per altri potrebbe essere un ambiente ideale.
+
+Come sempre punti di vista.  
+Come sempre, meglio fermarsi un attimo, staccarsi dalle percezioni e provare a concentrarsi sul presente.
+
+Si chiude qui la dodicesima puntata di _InvisibilePerso_, un podcast indipendente con brevi riflessioni di vita, un giorno alla volta.  
+Segui il sito web indicato in descrizione per leggere tutti i testi e, se vuoi comunicare con me, scrivimi a **invisibileperso@posteo.com**.  
+Se ti è piaciuto, condividilo con i tuoi contatti. L'unico modo per far crescere _InvisibilePerso_ è quello del passaparola.  
+Grazie, a domani.`
+    },
 };
