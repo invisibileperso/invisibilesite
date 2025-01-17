@@ -676,4 +676,50 @@ Segui il sito web indicato in descrizione per leggere tutti i testi e, se vuoi c
 Se ti è piaciuto, condividilo con i tuoi contatti. L'unico modo per far crescere _InvisibilePerso_ è quello del passaparola.  
 Grazie, a domani.`
     },
+"13": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/76gDNRDjQBqo9OH6BAVuzG?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+        ### I luoghi sicuri
+
+Diciassette gennaio 2025
+Sono partito scrivendo la data in lettere perché la giornata non è partita al meglio.
+Sono abitudinario, sopporto piccole variazioni sul pezzo, ma a grandi linee le procedure devono essere quelle.
+Stamattina in effetti ci sono state un po' di variazioni sul pezzo.
+Una bimba, bé manca poco che mi prenda in altezza quindi tanto bimba non è, non sta bene ed è spaparanzata sul divano e poi boh, non lo so manco io, ma stamattina è difficile, molto difficile. Mi sono appena accorto di essermi messo le cuffie per isolarmi un po' senza aver fatto partire la solita musica top focus.
+Minchia quella che ho fatto partire ora fa veramente schifo! Skippoooo
+Ecco, questa mattina è così... salto da una cosa all'altra.
+Devo tornare a ieri, altrimenti che diario postumo sarebbe.
+
+Ieri giorno di smart working all'italiana, sì forse non ve l'ho ancora detto ma sono tra i privilegiati che ancora gode di questo lascito padronale per ben due giorni alla settimana. Detto questo, so già che penserete a quante paturnie mi faccia. Ho un lavoro, per ben due giorni posso lavorare da casa e son qui a frantumarvi gli zebedei con il mio malessere. È mai possibile che ci si debba sempre lamentare e non guardare ai lati positivi, quel mezzo bicchiere pieno?
+Ieri mi sono sforzato di guardare quel mezzo bicchiere pieno per essere attivo in alcune proposte che la signoria nostra ha suggerito di proporre.
+Ho pensato e agito per creare un qualcosa di nuovo, sempre se si possono definire nuove idee già forse vecchie ma abbellite da colori carini. Sì lo so, perle ai porci...
+Faccio un passo indietro.
+So bene che vi sono posizioni ben peggiori della mia, lavori usuranti, faticosi fisicamente e mentalmente senza aver in cambio nulla che non sia una retribuzione.
+Pensa a chi sta peggio, sante parole dei nostri genitori.
+Grazie mamma, grazie papà, ma se mi posso permettere quel modo di pensare valeva forse nel dopoguerra, dove c'era una ripresa, dove a volte veramente ci si poteva accontentare di quel qualcosa in più. Ora le dinamiche sociali sono cambiate alla velocità dei cambiamenti climatici, repentinamente. Le prospettive dei boomers erano allettanti, le prospettive della mia generazione X sono sempre state incognite e il disorientamento generazionale ha ricadute sulle nostre vite personali, chi più chi meno ne soffre, chi non ne soffre per nulla, chi manco se ne accorge di viverci.
+Mio papà era operaio, e operando ha costruito. Io, laureato, che faccio?
+L'inconsistenza dell'operato attuale è deleteria e credetemi, goccia dopo goccia è in grado di rendere tutto carsico, disciolto, scavato senza capacità di ritenuta. Tutto si lava via lasciando solamente il malessere del quotidiano lavorare.
+
+C'è una meditazione che amo particolarmente ed è quella del luogo sicuro.
+In pratica bisogna immaginare un luogo che può essere reale o immaginario dove ci si sente completamente al sicuro, tranquilli e rilassati. Un luogo positivo della nostra infanzia o della nostra vita attuale che amiamo ricordare e che associamo a una sensazione di benessere.
+Se volete provarla vi sono molte meditazioni guidate che vi porteranno lì.
+Ma tutto questo mi serve per introdurre e, alla tredicesima puntata, mi pare sia fin troppo tardi il senso di quel perso che trovate nel titolo.
+Quel perso è in riferimento ai luoghi. Non me ne vogliate, non è per piangermi addosso, ma è storia e consapevolezza che dopo di noi i luoghi si sono trasformati in click per attivare le indicazioni stradali, per trasportarci in una destinazione perdendo il transito.
+Sapete, geologo, terreno, luoghi...
+Un lavello bianco da esterno poggiato sopra due pile di mattoni. Un rubinetto sempre freddo che d'inverno rischiavi di rimanerci attaccato. Una spazzola in legno sempre umida con le setole di ferro per bruscare qualsiasi cosa. Era ed è sul retro della casa dei nonni, a fianco dell'entrata del laboratorio di riparazioni di mio zio. Appena oltre l'angolo l'albara, la nogara con le sue foglie grandi e le noci verdi spiaccicate per terra. E poi lui, il careson, che nel dialetto più signorile padovano sarebbe con la D, caredon, ma penso che careson sia la forma quotidiana della careza, la stradina a fianco del campo. Era dietro le spalle mentre si lavava qualcosa sul lavello, era lunghissimo, fiancheggiato dalle vigne sulla destra con l'erba tagliata dal passare quotidiano verso i campi in fondo. Era difficile farlo tutto di corsa e, all'estremità opposta, mi sentivo già in un altro mondo, quasi fuori confini, libero. A destra si andava all'albero amico, na serezara, un ciliegio, bé insomma meglio al femminile serezara, accogliente, ci costruimmo pure una casetta in cima, era mamma quell'albero.
+In fondo, all'estremità quasi irraggiungibile, altre albare, pioppi, alti, belli, proteggevano.
+Mio nonno scalzo, roncola in tasca, torna dal campo lungo quel careson.
+
+Luoghi sicuri
+
+Grazie, a domani.`
+    },
 };
