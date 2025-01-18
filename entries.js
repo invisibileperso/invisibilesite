@@ -722,4 +722,46 @@ Luoghi sicuri
 
 Grazie, a domani.`
     },
+"14": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/2Ci7sTXqjz8JTMUqWZJ1hA?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+### Maledette amicizie
+
+Diciotto gennaio duemilaventicinque.
+
+Anche oggi parto scrivendo la data per esteso.
+È come un mantra o una campana che segna l'inizio della meditazione.
+Dalla data in poi il mio schermo nero e la musica nelle cuffie.
+Ho scoperto che nell'App Store c'è l'aggeggio per usare la tecnica del pomodoro e allora vai, installa, setta a 45 minuti di attività e via. Ora segna già meno 41 minuti. Sbrigati!
+Sapete che funziona veramente mettersi un traguardo raggiungibile, un po’ come quando si inizia a correre o qualsiasi altra attività sportiva. Obiettivi raggiungibili, questo è il segreto per migliorare, non come quella volta che mi ero inventato di partecipare a un'ultrarace in bici allenandomi solo al mattino prima del lavoro. Risultato? Fuso completamente, corpo e mente da buttare nell'umido.
+Ho scelto una playlist su Spotify: Writing Inspiration, chissà se veramente mi ispirerà per chiudere degnamente questa settimana dai due volti.
+Mi ero appuntato di tornare sull'argomento dell'ambiente di lavoro tossico e forse non è il caso perché sono troppo inacidito dalla situazione attuale. Ho troppa rabbia per parlarne oggi. Sto cercando una parola che possa definirmi: livore, rancore. Sono talmente negative che non le voglio accettare, non mi sento di poter far crescere in me quei sentimenti, non li ho mai voluti provare e non voglio che stiano in me, ma porca vacca se sono incazzato, forse più con me stesso per essermi messo in questo imbuto, questo pozzo rinsecchito, per essermi adagiato in situazioni che forse non lo permettevano, per non aver voluto traguardare l'orizzonte oltre la linea di conforto. (Maledetta pubblicità di Spotify).
+Quando i rapporti tra colleghi sono sorretti da finte gentilezze, quando i sorrisini di circostanza nascondono ben altro, bé mettetevi la maschera antigas, quella seria, non le FFP2 perché la tossicità è già alle stelle.
+
+Ho provato la tecnica dell'osservare la mano per trovare la concentrazione. Basta sedersi comodi, alzare la mano all'altezza degli occhi e fissarla. Minchia, sapete che guardarsi per più di qualche secondo cambia di parecchio la nostra percezione? L'obiettivo sono ventuno minuti di concentrazione, figuratevi se ci sono riuscito. È anche vero che l'ho provata seduto a tavola mentre la ciurma guardava un cartone animato, ma sono arrivato a 3 minuti, dopodiché il mio cervello mi ha salutato e si è messo a sbrigare la lavastoviglie! Ci riproverò.
+
+Respiro profondo,
+non voglio rovinarmi questo weekend, so benissimo che i pensieri lavorativi mi rincorreranno come hanno fatto stamane durante la meditazione. Un branco di cavalli selvaggi non ha fatto altro che galoppare a destra e a sinistra nella mia testa mentre io tentavo di scacciarli con un fazzolettino bianco... su via, shò!
+Bé sapete che vi dico, mò fermo uno di quegli splendidi stalloni, ci salgo su e li guido io dove voglio!
+
+La mia settimana?
+Sono orgoglioso di aver portato a termine questa terza settimana di scrittura quotidiana. Mi do una bella pacca sulla spalla: bravo vecchio mio.
+Sono contento dei messaggi arrivati, alcuni mi hanno commosso, maledetti!
+Sapete, sto inviando il link del podcast ad alcuni contatti della rubrica. A proposito, prendetevi cinque minuti e scorrete l'intera lista di contatti che avete sul telefono. Quanti sconosciuti, quante facce che non riesco a contestualizzare e quanti nomi senza volto.
+Bé torniamo alla mia capillare diffusione del podcast. Una mia carissima amica, ex collega che ho sempre stimato per la sua intraprendenza, ammirato per la sua scelta di mollar tutto e andar in malga, ecco a lei non l'avevo ancora mandato perché in qualche modo avevo timore che mi mandasse a quel paese o che, non lo so, non mi considerasse in questo mio piagnisteo.
+Bé che cavoli, mi ha risposto subito facendomi commuovere!
+Maledette amicizie.
+
+Almeno a qualcosa sto podcast serve.
+
+Alla prossima settimana.`
+    },
 };
