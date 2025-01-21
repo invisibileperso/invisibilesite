@@ -824,5 +824,61 @@ Meglio che mi metta a contare i respiri
 
 A domani`
     },
+"16": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/1i3ENU6FmnIteMc0h5rlUb?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+        ### Vi ricordate il mio nome
+
+#16
+
+Avete presente l'ollie, scritto o l l i e?
+
+Benvenuti a InvisibilePerso, un podcast indipendente fatto di storie, emozioni e luoghi che ci accompagnano nella quotidianità. Qui esploriamo il lato nascosto delle cose, quei dettagli che sfuggono ma che danno senso ai cambiamenti e alla vita di ogni giorno. 
+
+Intendo quella manovra che si fa con lo skate per fare i saltelli.
+Non sono mai riuscito ad impararlo! È anche vero che non ho mai avuto un vero skate da trick, di quelli fighi. Nell'età giusta andavo con i roller a rovinare i bordi delle panchine e quindi questo ollie mi è sempre stato di traverso.
+Ci si mette con i piedi circa paralleli sulla tavola, il destro leggermente verso il centro, il sinistro sul nose, si piegano le ginocchia e poi con un salto verso l'alto prima si dà pressione al piede sul nose e si alleggerisce l'altro alzando la punta dello skate. In questo frangente si striscia la scarpa del piede destro nel mio caso verso la punta per far tornare parallela la tavola. Semplice no?
+Ovviamente in età adulta non è che mi potessi comprare uno skate da trick, bensì una bella tavola surfer per carvare tipo californiaaaa.
+Mamma, papà mi piacerebbe ricevere uno skate.
+Ma certo figlia mia! 
+Mi sono messo in giardino con lo skate della rebbi a provare l'ollie.
+Diciamo che i ricordi di mobilità non combaciano precisamente con la velocità d'azione delle mie articolazioni.
+Ma non mollo miei cari, entro quest'anno vi comunicherò che l'ollie sarà mio!
+La stessa figlia osa dire:
+Audio Rebbi
+
+Mi sono ritrovato in una riunione di quelle che si svolgono in ambienti che per arrivarci devi passare bussole di sicurezza e le targhette degli uffici finiscono tutte in zia...
+Vabbè, in teoria si sarebbe dovuto parlare di dati, ma mi è stato subito chiaro dal numero di cravatte presenti che i discorsi avrebbero preso una piega ben lontana dal pratico.
+Discorsoni, paroloni, tutti ...oni...
+Finché arriva lo special guest. Un noto politico di vecchia data. Non chiedetemi nomi, non li farò manco sotto tortura!
+Ossequi, genuflessioni, leccate più o meno evidenti, orecchie piene d'acqua e tutti in silenzio ad ascoltar la predica del monsignor politico.
+Tutto questo per inquadrare la situazione. 
+In realtà questa riunione cade a fagiolo per il tema che volevo affrontare oggi e che mi son segnato mentre correvo domenica prima di abbassare l'audio del telefono: ricordate?
+L'autore diceva che la difficoltà di ricordarsi il nome di persone sconosciute, per esempio quelle che si incontrano in una riunione, è legato al fatto che spesso, poniamo il noi prima degli altri. 
+La mancanza di memoria in quel frangente sarebbe legata, secondo quanto riferiva il podcaster, alla priorità imposta di non sfigurare, di stare attenti all'immagine che si dà di sé, piuttosto che all'aprirsi e prestare attenzione agli altri.
+Vacca miseria, lì per lì, ma anche dopo, mi sono proprio sentito una cacchina visto che io i nomi non me li ricordo manco sotto torturaaaaa! e due...
+Vorreste dirmi che sono così egocentrico da non prestare attenzione alle parole altrui, concentrato come sono a dare una buona immagine di me stesso?
+In realtà sembra che le sante parole del podcaster non trovino particolari riferimenti bibliografici.
+Tiè! 
+È vero che potrebbe trattarsi di scarsa attenzione in quel preciso momento che potrebbe essere figlia di un mancato interesse nella conoscenza e in qualche modo legato ad un proprio tornaconto nel decidere se occupare o meno uno slot di memoria con quella informazione.
+Il Dr Rob Jenkins, del Dipartimento di Psicologia dell'Università di York, ha condotto una ricerca per cercare di stabilire se siano più difficili da ricordare i nomi o i volti.
+I risultati hanno mostrato che i partecipanti hanno ottenuto punteggi costantemente più elevati nel ricordare i nomi rispetto ai volti, riconoscendo solo il 64% dei volti e fino all'83% dei nomi nei test.
+Eeee sinceramente pensavo il contrario.
+Ma infine è vero che di tutte le persone alle quali ho stretto la mano oggi, non mi ricordo un nome che sia uno. 
+È anche vero che non trovavo alcun interesse nel conoscere quelle persone, perché mai avrei dovuto ricordare il loro nome?
+E se avesse proprio ragione quel podcaster?
+Cercando un po' di più si scoprono fattori come l'ansia sociale e quindi l'essere preoccupati per il giudizio altrui, le teorie sull'auto consapevolezza, Self Awareness Theory, fonte di eccessiva attenzione a sé o una scarsa capacità all'ascolto attivo come fattori che ci rendono poco empatici e permettetemi "efficienti" nella vita sociale.
+Mannaggia sapevo di essere orso, ma io in fondo le facce me le ricordo!!!
+PS: domani smetto di seguire quel podcast...
+`
+    },
 
 };
