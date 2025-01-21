@@ -764,4 +764,65 @@ Almeno a qualcosa sto podcast serve.
 
 Alla prossima settimana.`
     },
+ "15": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/53rfceI4XTVvnAMCVgefNQ?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+        ### Il lato positivo
+
+#15
+
+Lunedì sera del venti gennaio.
+La mia settimana da fanta scriba inizia sul tavolo della cucina appena sbrigato. 
+Apparentemente è un momento prolifico, forse mi conviene aspettare un attimo che finiscano di saltare sul divano...
+Sei ore più a est dal fuso Roma un personaggio da cartoni animati con un ciuffo biondo incredibile è appena ri-diventato presidente degli Stati Uniti d'America sparando supercazzole che manco ciccio pasticcio al bar Centrale oserebbe sparare.
+Poi mi dicono di stare qui nel presente...ma io scappo col primo razzo per marte!
+A no aspetta, il primo razzo per Marte con ogni probabilità lo farà l'amico furbo del ciuffo...
+Siamo in trappola.
+Non sono proprio in forma e far lavorare il cervello cercando di mettere insieme qualcosa che abbia più senso di una dichiarazione di rivincita di Panama e conquista della Groenlandia è alquanto faticoso ma ce la farò perchè l'obiettivo è di sconfiggere le armate rosse e distaccarmi da questa ossessione transamericana.
+
+Com'è stato il vostro weekend? 
+He, il mio è partito con un messaggio di lavoro su wapp che ha scatenato reazioni a catena tipo camion strapieno di mentos innaffiato a mò di grisù con frizzante coca cola. 
+La schiuma che innonda l'intero globo è neanche minimamente paragonabile all'ira scatenata in me. Scemo io! Risposta partita istantaneamente, altra risposta cancellata qualche frazione di secondo prima dell'invio esplosivo, ritiro in trincea fino alla riunione di lunedì mattina.
+Da quel messaggio è partito un mind wandering estremo. In due giorni sono diventato campione intergalattico di pensieri a caso con lo solo scopo di sfinire le energie mentali e alzare il livello di cortisolo a limiti che manco la diga più alta del mondo sarebbe riuscita a trattenere.
+Che fatica, che fatica!
+Un continuo riportarmi a quello che stavo facendo mentre la mente continuava ad andare a quel messaggio, a quello che c'era dietro quel messaggio a cosa mai avrà voluto dire, alla necessità di quel messaggio a...
+Se volete prendervi due minuti, provate anche voi a pensare a quanto naviga il vostro pensiero, bè ovviamente ora no perchè ho l'immane capacità di catturare la vostra attenzione con le mie ammalianti parole, ma se vorrete farlo potete farlo ora attraverso una brevissima meditazione.
+Se non vi va, fai attenzione che oggi ci sono i capitoli in questo episodio per facilitarti il salto del canguro al capitolo successivo.
+
+E' una meditazione semplice, non serve nulla di speciale, altrimenti non sarebbe meditazione no?
+Siediti fieramente dove più ti piace, personalmente non amo la meditazione sdraiata e sconsiglio poltrone e sedie troppo comode. Schiena dritta, spalle rilassate e abbassate.
+Inizia a respirare normalmente
+Quando il tuo respiro si è normalizzato, inizia a contare i respiri fino a 10, ti puoi aiutare con le dita della mano.
+Fra due minuti sentirai una campa. Se vorrai potrai continuare da solo.
+
+Domenica mattina scendo già vestito, mi metto le scarpe, guardo fuori eeee PIOVE!
+Dovevo fare un lunghetto, almeno per me, un'oretta di corsa a caso ascoltando podcast rivali. In realtà amo ascoltare podcast di materie che ignoro totalmente, tipo finanza, design e simili.
+Vabbè piove, porca...
+Non è possibile, ma mettevano pioggia per oggi? Guardo il telefono ed effettivamente mettono pioggia. Bene, fermatevi un attimo e riascoltate cosa ho appena detto. 
+Ho guardato fuori, il mio cervello ha validato quanto osservato dai miei occhi e sentito dalle mie orecchi e mi ha comunicato che stavano scendendo dal cielo gocce d'acqua. Non contento ho cercato conforto nelle informazioni di un servizio meteo. Forse non sono stato chiaro e conviene riascoltare l'assurdità di questo atteggiamento. 
+Ma porca zozza, se fuori piove, l'asfalto è bagnato, cosa mai ti servirà avere la conferma o meno di un servizio meteo? 
+Immagino di non essere l'unico a comportarsi in maniera assurda come su indicato...pensiamoci.
+Vabbè, cambiato ero cambiato, aspetto che smetta.
+Dopo due ore, smette e gli incastri stellari fan si che possa uscire ed esco.
+Non ho più tempo per fare il lunghetto ma farò il solito giretto...
+"Primo chilometro, ritmo, 6 minuti e 25 secondi, 89 chilocalorie consumate, ritmo totale 6 minuti e 25 secondi. Occhio che piove!"
+Ecco si piove! che fare, torno indietro e in qualche modo abortisco questo allenamento o proseguo?
+Fuck mr rain proseguo!
+Non so che podcast stia passando il telefono, tolgo l'audio e corro sotto la pioggia. Mi è sempre piaciuto fare sport sotto la pioggia. Ricordo vivamente l'odore del paltano nei campi da calcio ma soprattutto le pedalate sotto la pioggia, quella si che è magia, quella si che è meditazione. 
+
+Ma non vorrete che chiuda il tutto senza aggiornarvi sulla riunione oggetto del messaggio.
+E' andata bene, mmm bene? Bò si le idee proposte hanno centrato l'obiettivo. Bene, si bene...
+Meglio che mi metta a contare i respiri
+
+A domani`
+    },
+
 };
