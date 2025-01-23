@@ -826,7 +826,7 @@ A domani`
     },
 "16": {
         spotify: `<iframe style="border-radius:12px" 
-            src="ttps://open.spotify.com/embed/episode/23mH3yYAUJTCgoTcUkpLXq?utm_source=generator" 
+            src="https://open.spotify.com/embed/episode/23mH3yYAUJTCgoTcUkpLXq?utm_source=generator" 
             width="100%" 
             height="152" 
             frameBorder="0" 
@@ -883,7 +883,7 @@ PS: domani smetto di seguire quel podcast...
 
 "17": {
         spotify: `<iframe style="border-radius:12px" 
-            src="ttps://open.spotify.com/embed/episode/23mH3yYAUJTCgoTcUkpLXq?utm_source=generator" 
+            src="https://open.spotify.com/embed/episode/2yxwOuOSgUuCEBkDBJY6Ul?utm_source=generator" 
             width="100%" 
             height="152" 
             frameBorder="0" 
