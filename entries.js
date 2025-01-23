@@ -826,7 +826,7 @@ A domani`
     },
 "16": {
         spotify: `<iframe style="border-radius:12px" 
-            src="https://open.spotify.com/embed/episode/1i3ENU6FmnIteMc0h5rlUb?utm_source=generator" 
+            src="ttps://open.spotify.com/embed/episode/23mH3yYAUJTCgoTcUkpLXq?utm_source=generator" 
             width="100%" 
             height="152" 
             frameBorder="0" 
@@ -878,6 +878,62 @@ E se avesse proprio ragione quel podcaster?
 Cercando un po' di più si scoprono fattori come l'ansia sociale e quindi l'essere preoccupati per il giudizio altrui, le teorie sull'auto consapevolezza, Self Awareness Theory, fonte di eccessiva attenzione a sé o una scarsa capacità all'ascolto attivo come fattori che ci rendono poco empatici e permettetemi "efficienti" nella vita sociale.
 Mannaggia sapevo di essere orso, ma io in fondo le facce me le ricordo!!!
 PS: domani smetto di seguire quel podcast...
+`
+    },
+
+"17": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="ttps://open.spotify.com/embed/episode/23mH3yYAUJTCgoTcUkpLXq?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+        ### Ennesimo raffreddore
+
+#17
+
+Questa mattina va così, scusatemi per la voce distrutta ma l'ennesimo raffreddore mi sta affondando. Il bello del viaggio giornaliero è anche questo no?
+
+Benvenuti a _InvisibilePerso_, un podcast indipendente fatto di storie, emozioni e luoghi che ci accompagnano nella quotidianità. Qui esploriamo il lato nascosto delle cose, andiamo a fondo in una profonda crisi lavorativa e osserviamo quei dettagli che sfuggono ma che danno senso ai cambiamenti e alla vita di ogni giorno.
+
+Tornando al raffreddore, questa stagione invernale segna il mio personale record di produzione di muco. Sì, l'immagine non è idilliaca ma quest'anno è veramente clamoroso.  
+Sapete, mi sto convincendo che il contorno conti e che questa condizione stressante trovi sfogo nello starnutire. Sembra esser proprio così, visto che numerosi studi scientifici mettono in relazione lo stato di stress mentale e fisico che influisce direttamente sul sistema immunitario e il raffreddamento. Pure se si sconfina nella psicosomatica tutto porta alla stessa origine.  
+Sarà un caso che i primi sintomi li ho avuti lunedì dopo un weekend passato a rimuginare su quel simpatico messaggio wapp?
+
+Il mercoledì è sempre particolare. Giornata a metà che separa la vita pendolare dalla vita smart.  
+Da quando faccio questa vita, il mercoledì is the new venerdì.  
+È come uno scavallare, un piccolo respiro di sollievo perché tutto quello che avverrà giovedì e venerdì si potrà affrontare con atteggiamento leggermente diverso.  
+A volte mi chiedo come faccio a dirmi stanco del lavoro o quali siano le autodiagnosi per auto-convincersi che c'è qualcosa che non va. Forse il più evidente è proprio questo e cioè che quello che prima si spalmava in una settimana ora si concentra in tre giorni, ma attenzione, gli altri due non è che siano relax. Talvolta è ancor più difficile essere al lavoro a casa piuttosto che in ufficio. Capitemi, non baratterei mai un giorno di lavoro da casa con uno in ufficio, ma quando raggiungi un livello tale per cui sei talmente avulso dalle attività che devi fare che il luogo di svolgimento non ti cambia nulla, il grado di incompatibilità tra te e il lavoro che svolgi è tendenzialmente molto alto, direi critico.  
+Certo che a casa non hai la rottura di sentir voci fastidiose e sopportare comportamenti che ti mandano in bestia, ma, quanti ma... Talvolta basta una mail, un messaggio insulso sull'app di messaggistica, tutto diventa pesantissimo.  
+E allora come andare avanti quando arrivi a queste condizioni?  
+Molla tutto, cambia e fai quello che ti fa star bene!  
+Sì bravo, eccallà il genio della lampada.  
+Se potessi farlo su due piedi, non l'avrei già fatto?  
+Ecco il solito che non prende il coraggio a due mani, schiavo di questa mentalità lavoratrice che piuttosto di esser felice vuole avere il portafoglio gonfio.  
+Ma vedi de andartene...  
+Intanto il portafoglio gonfio non l'ho mai avuto e penso mai lo avrò.  
+Ma dai che quando c'è l'amore e la salute... Sì oook annamo bbbene.
+
+Nel 2009 **Elizabeth Blackburn**, **Carol Greider** e **Jack Szostak** hanno vinto il **Premio Nobel per la Medicina** per le loro ricerche su un enzima chiamato telomerasi.  
+In pratica, i telomeri, che sono sequenze di DNA ripetitive, si trovano agli estremi dei cromosomi e la loro funzione è quella di proteggere il materiale genetico: sono una specie di cappuccio protettivo dei cromosomi. In breve, i telomeri sono fondamentali per mantenere l'integrità genetica, regolare il ciclo cellulare e influenzare sia l'invecchiamento sia lo sviluppo di malattie.  
+Successivamente, Elissa Epel, collaboratrice della Blackburn, ha approfondito le relazioni tra funzioni dei telomeri e invecchiamento evidenziando che:
+
+1. **Lo stress cronico accorcia i telomeri:** Le persone sottoposte a stress prolungato tendono ad avere telomeri più corti, segno di invecchiamento cellulare accelerato.
+2. **La telomerasi può essere influenzata da fattori esterni:** Un'alimentazione sana, attività fisica regolare, meditazione e gestione dello stress possono attivare la telomerasi, rallentando l'accorciamento dei telomeri.
+3. **Benessere psicofisico e longevità:** Il suo lavoro ha integrato biologia e psicologia, mostrando come il miglioramento dello stile di vita possa avere effetti diretti sull'invecchiamento a livello cellulare.
+
+Oltre a tutto ciò, si sono accorti che anche la percezione del nostro stress fa una grande differenza sull'accorciamento dei telomeri.  
+Stabilito che alcune fonti di stress non possono essere eliminate, è sicuro che il nostro approccio allo stress ci può allungare o diminuire l'aspettativa di vita.
+
+Spero ben che questo invisibile perso mi allunghi la vita di un bel po'!
+
+Hai ascoltato _InvisibilePerso_, il diario in parole di un cammino tra emozioni e trasformazioni. Se ti va di approfondire, trovi tutto sul sito in descrizione. Per domande, pensieri o semplici saluti, scrivimi a invisibileperso@posteo.com. Aiutami a far conoscere questo progetto: condividilo con chi potrebbe apprezzarlo. Grazie per essere stati con me, ci sentiamo domani!
+
+Ciao
 `
     },
 
