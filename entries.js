@@ -937,4 +937,53 @@ Ciao
 `
     },
 
+"18": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/3HPJa3CxamP6uCb0gKAVBM?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+        ### Ventole, ideali e vecchi amici
+
+
+#18
+
+OK voce ancora da buttare..
+Oggi venerdì 24 gennaio 2025, il mio pc di lavoro ha deciso di restare con le ventole accese a tutta forza. Che faccio? lo butto dalla finestra o spengo e riaccendo come nelle migliori tradizioni informatiche?
+
+Benvenuti a _InvisibilePerso_, un podcast indipendente fatto di storie, emozioni e luoghi che ci accompagnano nella quotidianità. Qui esploriamo il lato nascosto delle cose, ci avventuriamo in una profonda crisi lavorativa e osserviamo quei dettagli che sfuggono ma che danno senso ai cambiamenti e alla vita di ogni giorno. 
+
+Tranquilli, ho deciso per il lancio dalla finestra.
+E voi siete windows o apple? hehe che domandona vero?
+Partiamo con leggerezza. 
+Io sono sempre stato winzoz un pò perchè i floppy di Monkey Island sul mac mica si potevano mettere, un pò perchè le prime sperimentazioni con alcuni software usati all'università giravano meglio sotto winzoz o linux. 
+Apple mi stava semplicemente sulle balle con quell'aurea da fighetti, per non parlare degli adulatori di Steve Jobs....uuuu 
+Mai e poi mai mi sarei piegato all'acquisto di un prodotto Apple! Come se winzoz fosse il bene assoluto e Bill Gates il profeta di chissà cosa.
+Insomma sono cresciuto con questa divisione ferrea e la visione bicromatica, bianco o nero, per molti anni della mia vita. Dividevo tutto in giusto, sbagliato, bello, brutto, si, no.
+Per molte cose sono ancora così, vedi per questioni politiche dove non accetto i si, ma... i vabbè però... No fanculo, i principi ai quali credere sono quelli e stop, il resto non si giustifica. Non ho scritto Ideali perchè sai, qualcuno potrebbe offendersi. Parlare di Ideali nel 2025...altro che utopista! Se parli di ideali sei completamente fuori dal mondo! Daiii come fai a parlare di ideali nel 2025 quando la scienza, la tecnica governano tutto, quando tutto è compromesso e opportunismo, daiii svegliati!
+Ma ero partito da una questione ben più semplice, come cavolo sono finito a scrivere di ideali pigiando tasti su un computer Apple?
+A si giusto, si cresce, si smussano gli angoli, si intravedono punti di vista nuovi, o si accettano compromessi, si scoprono opportunità che non sempre sono distinguibili dall'opportunismo.
+I confini si fanno frastagliati in età adulta.
+Si ma che cavolo, eri partito dalla diatriba winzoz vs apple, mica tra lotte nei massimi sistemi.
+Bè massimi sistemi lo sono, o no? Tra gli schierati supini vi era anche Tim Cook che ha appena promesso gran bei investimenti negli States al ciuffone, mentre il Bill ha preferito una cenetta intima per parlare di investimenti sulla salute...Filantropi!
+E quindi? 
+Quello che è semplice oggetto, strumento di lavoro, alla fine si carica di una narrazione di visioni del mondo che traspaiono dalle mosse dei loro "padroni" influenzandone l'uso. 
+Ok il raffreddore fa brutti scherzi, ma vi sono ricerche in campo filosofico, sociale, di design che approfondiscono questi aspetti. 
+Marshall McLuhan filosofo, sociologo e teorico della comunicazione canadese ha profondamente influenzato la comprensione del rapporto tra tecnologia e società nel XX secolo.
+McLuhan per esempio è quello del "villaggio globale" riferendosi a come i media avrebbero abbattuto distanze, MaLuhan definì l'oggetto come estensione del corpo umano e approfondì il concetto secondo il quale ogni volta che creiamo un nuovo strumento, trasformiamo noi stessi, il nostro modo di percepire e di vivere. Quel famoso telefono, in questo senso, non è solo un telefono, ma una nuova forma di essere umano tecnologicamente potenziato.
+Insomma tutto è molto più complesso, il bianco e nero bicromatico, bene e male, mal si adatta a meno di non spalmare tutte le gradazioni dal bianco al nero.
+A, comunque non tornerei mai più a winzoz...
+
+Serata con vecchi amici, compagni di tante avventure e partite all'ultimo gol, compagni d'uscita con le prime morosette, compagni delle prime trasgressioni. Ci siamo ritrovati attorno ad un tavolo per una pizza in compagnia con le solite immancabili cazzate sparate per strappare una risata. Ognuno vive la propria vita con più o meno deviazioni dalle proprie aspettative, ma ognuno è rimasto quello che era. Sapete, era un ritrovo di incognite quasi risolte, un tavolo di adulti della generazione X con molto più grigio tra i capelli: sfumature.
+
+Hai ascoltato _InvisibilePerso_, il diario in parole di un cammino tra emozioni e trasformazioni. Se ti va di approfondire, trovi tutto sul sito in descrizione. Per domande, pensieri o semplici saluti, scrivimi a invisibileperso@posteo.com. Aiutami a far conoscere questo progetto: condividilo con chi potrebbe apprezzarlo. Grazie per essere stati con me, ci sentiamo domani!
+
+Ciao
+`
+    },
 };
