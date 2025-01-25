@@ -986,4 +986,49 @@ Hai ascoltato _InvisibilePerso_, il diario in parole di un cammino tra emozioni 
 Ciao
 `
     },
+"19": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/4qBfIqfS1GyL3q3YJprGXd?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+        #18
+
+### Lezioni di sport
+
+Venticinque gennaio duemilauno, scritto tutto in lettere.  
+Scrivere la data, ve l'ho già detto, è come un mantra per entrare nella modalità scrittura.  
+Timer partito, musica guitar lofi pure.  
+Voce rotta anche oggi e nessun intro, no, oggi non ci sta.
+
+Lo schermo è completamente nero.  
+Non ho preso alcun appunto per oggi, un po' perché la settimana è stata difficile a causa dell'ennesimo raffreddore che annebbia la mente e rende i ragionamenti più complicati.  
+Oggi va un po' meglio, ma non sono certamente in forma.
+
+Nonostante non abbia segnato alcun argomento per oggi, da qualche giorno penso a oggi come a un giorno giusto per tirare un po' di somme di queste prime quattro settimane di _Invisibile Perso_: qualche numero, qualche impressione di questo viaggio quotidiano.
+
+Oggi l'editing sarà tranquillo, non accorcerò i tempi tra una frase e l'altra. Lascerò ampio spazio alle pause e la musica in sottofondo sarà così.
+
+Ma più del tirare le somme, l'invisibile questa settimana si è palesato più volte e quindi parto proprio con loro: le emozioni.  
+Per molti saranno cose ridicole, ma ultimamente mi capita spesso di emozionarmi per le imprese sportive. A dire il vero, mi sono sempre emozionato, fin troppo, per le storie di sport. Ma questa settimana mi sono ritrovato in tre occasioni ad avere quel rospetto in gola che non va né su né giù, e ti viene da mandarlo a quel paese, maledicendo chi ti ha scatenato quell'emozione.  
+Rimpianti? Ma no, non penso sia questione di rimpianti. Il mio l'ho fatto, certo in altre circostanze... vabbè, ma qui si entra nel campo di un'altra vita che sconfina nella fantasia pura.
+
+Nel mezzo dell'Atlantico vi è un gruppo di marinai, velisti solitari che stanno concludendo il giro del mondo senza scalo, in solitaria e in completa autonomia. A dire il vero, i primi l'hanno terminato dieci giorni fa, dopo 65 giorni di regata tra Atlantico, Indiano e Pacifico. Il grosso del gruppo è ancora a cavallo dell'equatore durante la risalita dall'America del Sud. Questa settimana è arrivato il quarto e, ad ogni arrivo, vado a vedermi il video, se riesco la diretta live, dell'entrata della barca nel porto di Les Sables-d'Olonne, a nord del golfo di Biscaglia.  
+Tutta la città in festa abbraccia con ali di folla il velista e la sua barca che fanno ritorno. Non li conosco i velisti, non sono esperto di vela. Penso di non esser mai salito a bordo di una barca a vela, ne capisco il giusto, mi intrippo sulle condizioni meteo, ma mi innamoro dell'audacia, della mitologia che quelle persone incarnano. I primi ci mettono 65 giorni quando le condizioni meteo sono favorevoli, ma per esempio Giancarlo Pedote, unico italiano in gara, ha ancora più di duemila miglia all'arrivo e, con ogni probabilità, toccherà gli 80 giorni di navigazione in solitario. Pazzesco! Quanta caparbietà e volontà per sopportare tutto quello che può essere avverso in una navigazione estrema. E penso che di avverso ci sia molto. Stare lì, momento per momento, in istanti interminabili, sia quando fuori c'è la burrasca sia quando c'è calma piatta. Accettare quello che il mare decide di darti, fare il meglio in quel presente con quello che puoi permetterti. E poi quel rientro alla base scortati da centinaia di barche, l'esaltazione del ritorno, l'emozione di rivedere le persone amate.  
+E poi mi sono trovato con il groppo in gola, tipo ora che scrivo. Ho attaccato al PC un secondo monitor per vedere come andava la finale femminile agli Australian Open. Mi è sempre piaciuta come tennista, più per il comportamento, per il fare giusto, modesto, orgogliosa della sua buona educazione. Prodigio da giovane, poi si è smarrita, navigando non sempre nelle prime posizioni della classifica. Passano gli anni e i successi non sempre arrivano finché quest'anno decide di cambiare strumento: vi ricordate ieri lo strumento come estensione umana teorizzato da McLuhan?  
+Bè, per una tennista la racchetta cos'è se non l'estensione del proprio corpo e della propria mente? Torna in fiducia, che strane cose, e cacchio, arriva in finale battendo la giovane tennista polacca che fino al giorno prima aveva lasciato briciole alle avversarie. E già lì il groppo, ma oggi, ora, ha appena vinto il suo primo Slam battendo la numero uno al mondo!  
+Potrei passare da ingenuo e superficiale: emozionarsi per persone milionarie che fanno quello che più gli piace, mentre il mondo va a rotoli.  
+Ma lo sport è o non è maestro di vita in tutti i suoi livelli?  
+Sì, cacchio, sì! La costanza e la fatica per raggiungere gli obiettivi nel rispetto degli avversari, cacchio, sì.  
+Come questo _Invisibile Perso_ che lotta contro pesi massimi della comunicazione per portare piccoli messaggi, piccole emozioni, per magari dare una voce a chi arriva a un momento della propria vita dove non capisce più quale sia la strada giusta.  
+Oggi ve l'ho detto: va così, alla ricerca delle piccole emozioni e dei sogni da inseguire.
+
+Tranquilli, non mi comprerò una barchetta per iniziare a navigare, né tantomeno cercherò la vittoria al prossimo torneo di tennis de noialtri. Ma cacchio, l'ollie con lo skate non me lo scordo. E lasciatemi un attimo riposare, per recuperare le forze e ritrovarsi lunedì con nuovi pensieri e nuova voglia di trovare il bello in quello che siamo.
+`
+    },
 };
