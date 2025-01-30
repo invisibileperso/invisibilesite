@@ -1032,4 +1032,156 @@ Oggi ve l'ho detto: va così, alla ricerca delle piccole emozioni e dei sogni da
 Tranquilli, non mi comprerò una barchetta per iniziare a navigare, né tantomeno cercherò la vittoria al prossimo torneo di tennis de noialtri. Ma cacchio, l'ollie con lo skate non me lo scordo. E lasciatemi un attimo riposare, per recuperare le forze e ritrovarsi lunedì con nuovi pensieri e nuova voglia di trovare il bello in quello che siamo.
 `
     },
+"20": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/7IVTusLgyZjsCeCyC6iuWI?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+        
+**Ventotto gennaio duemilaventicinque**  
+**Puntata #20**  
+**Conto tondo.**
+
+Ben ritrovati.
+
+Ieri era proprio una brutta giornata: umida, ventosa, a tratti fredda. Non una tipica giornata di fine gennaio, quando il ghiaccio dovrebbe farla da padrone e la merla dovrebbe stare attenta a non alzare troppo le temperature.  
+Ieri abbiamo salutato un nostro caro, il fratello di mio papà.  
+Ecco un’altra cosa che si deve affrontare con il passare degli anni.  
+Ci si abitua? Forse sì. Alla fine il tempo pialla tutto, come i famosi agenti atmosferici che ammorbidiscono le cime delle montagne. Da aguzze, frastagliate e impervie a dolci colline. Da dolore profondo a sospiro. Il tempo serve.
+
+Là in fondo rimane il dolore del distacco, ancor più se non c’è stato l’ultimo saluto, l’ultimo sguardo. Quello rimane. Ma si impara a far un sospiro, ad alzare lo sguardo e a guardare avanti, con meno cattiveria verso quel modo ingiusto di andarsene.  
+Si va in cerca di ricordi.  
+Si sfoglia di tutto, alla ricerca di qualcosa che ci faccia ricordare la persona che abbiamo salutato, e l’impressione è sempre che qualcosa non si sia salvato. Ma quella foto, dove sarà?  
+In questo momento storico, in cui siamo invasi da media di ogni tipo e ci scambiamo quotidianamente mille messaggi e mille cavolate, alla fine non riusciamo a fissare nulla.
+
+Ci troviamo in crisi all’idea di eliminare i profili social, perché siamo convinti che dentro vi siano emozioni condivise con vecchi amici, mentre quelle emozioni sono già state trasformate in profitto dai burattinai. Siamo convinti di aver detto qualcosa, di averlo scritto; cerchiamo tra i messaggi, quando magari basterebbe dirlo a voce, di persona.  
+Non voglio sembrare più arrogante di quanto possa già essere, ma non sono mai stato legato alle cose, se non per il loro servizio, finché sono sufficienti per quello. Tanto meno ai miei profili social, che non curo e che in parte ho già eliminato.
+
+Il prossimo passo, penso, potrebbe essere quello di eliminare le applicazioni di messaggistica. Sono convinto che un ritorno al minimalismo funzionale nella comunicazione tra di noi possa essere un valido punto di partenza. Quante volte ci nascondiamo, io per primo, dietro un messaggio o un’emoticon?  
+Ci diamo una data? Entro fine mese?  
+Provateci, provate solo a pensarci. Vi vengono i brividi, vero?  
+In fondo, basta fare una telefonata, no? Basta aspettare, se non è urgente, no?  
+Quanto è utile o quanto è futile? Ci serve veramente quell’intrattenimento?  
+Lo so, è difficile. Mille gruppi a cui non possiamo dire di no, ma penso che sarebbe un’ottima cosa per tutti.
+
+In una certa misura, abbiamo delegato la memoria. Quell’estensione del corpo ha ricevuto la delega alla memoria: ci pensa lui a salvare e a farci ricordare. Ma provate a pensare: provate a richiamare alla mente un ricordo di una persona che non c’è più, oppure un ricordo piacevole con le persone della vostra famiglia, con un amico, magari un ricordo lontano.  
+Fermatevi un attimo a pensare, respirate, chiudete gli occhi e portate la memoria a quel ricordo.  
+Cacchio, che differenza, no?  
+Quel ricordo scrollato dal successivo in rampa di lancio è nulla rispetto al ricordo romanzato dalla nostra memoria, ma sedimentato in noi, ancorato ai sensi, ancorato a quel sapore, a quei colori, a quel contatto.
+
+C’è una cosa che manca, almeno a me: la voce.  
+Sarà anche per questo che sto portando avanti questo pazzo progetto: perché la memoria senza voce è mancante.  
+La voce guida. Sono le frequenze che hai amato a riportarti lungo i giusti binari, a riappacificare il tuo stato d’animo. Bastano pochi secondi di una voce ritrovata per far rinascere emozioni.  
+Usare la memoria come esercizio per trovarsi, come calmante nel momento del distacco, come forza per alienarsi dalle memorie fisiche che ingannano, che non ci servono, ma che ci distraggono.  
+Ricordiamoci i momenti, i volti, i colori, le sensazioni. Riscopriamo l’empatia nei ricordi.
+
+Hai ascoltato **_InvisibilePerso_**, il diario in parole di un cammino tra emozioni e trasformazioni.  
+Se ti va di approfondire, trovi tutto sul sito in descrizione. Per domande, pensieri o semplici saluti, scrivimi a **invisibileperso@posteo.com**.  
+Aiutami a far conoscere questo progetto: condividilo con chi potrebbe apprezzarlo.  
+Grazie per essere stati con me, ci sentiamo domani!
+
+Ciao`
+    },
+"21": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/5iZkvXwkYAE4t3PUgm9Ut8?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+        
+#21
+
+**21:30 di martedì 28**  
+Devo abbozzare la puntata che pubblicherò domani.  
+Ok, andiamo a vedere gli appunti:  
+flusso, Dharana, salti di consapevolezza, intelligenza emotiva...  
+Manca una parola, che dovrebbe stare in cima a tutto. Dai, potete indovinarla, è facile.  
+Collegate l'ora che vi ho appena detto, una giornata di lavoro pendolare, cena preparata, due stendini che mi guardavano e che ho sistemato per le feste, tavola sparecchiata e pentole pulite... Dai su, forza, che ce la potete fare. Inizia per S e finisce per A, 10 lettere...  
+**STANCHEZZA!**
+
+Benvenuti nell'invisibile, dove le parole diventano ponti tra ciò che siamo e ciò che potremmo essere. Un podcast di riflessioni non filtrate, alla ricerca di quei luoghi dell'anima che il tempo non può cancellare.  
+Aiutami a far conoscere questo progetto indipendente condividendolo con un tuo contatto.  
+Forza, prendi il telefono, clicca sui tre puntini, condividi l'episodio e... grazie!
+
+Tornando a Jos Visser, due delle principali cause che portano un dipendente a essere un underperformer sono la mancanza di stimoli e la disorganizzazione interna o mala gestione lavorativa. Bene, sappiate che in giornate come questa è come attraversare la Manica a nuoto, solamente che al posto delle fredde acque atlantiche si nuota in un mare di mala gestione, con navi cargo che continuamente incrociano la tua rotta, piene di stimoli. Peccato che non riesci mai ad assaltare una di quelle navi.
+
+Provando ad approfondire un attimo, la mancanza di stimoli penso sia una delle condizioni peggiori. Sappiate che ho un paio di lauree honoris causa proprio in lavori senza motivazioni, quindi ne parlo con cognizione di causa e senza timore di smentita.  
+Generalmente le dinamiche sono così: ti viene assegnato un compito in apparenza interessante e che pensi di poter assolvere con successo, mettendo in mostra le tue capacità. L'esperienza ti fa storcere un po' il naso perché magari non capisci bene le motivazioni di quell'assegnazione, ma arrivato a quel punto, ti scrolli di dosso quel briciolo di pessimismo e inizi a pensare a come portare a compimento nel migliore dei modi quel lavoro. Parti di slancio fino a...  
+Fino a che non mostri i primi risultati, l'impostazione del lavoro innovativa, che magari potrebbe portare dei vantaggi per tutti, e infine ti illudi pure chiedendo un feedback.  
+Bene, sappi che quel feedback non arriverà mai, se non dopo molteplici insistenze.  
+Se sei cintura nera di mancanza di stimoli, manco ti arrovelli per richiedere una risposta. Mandi tutto direttamente a fanculo. Il problema, sapete qual è?  
+Che prima o poi qualcuno verrà a chiedere se abbiamo finito quel lavoro, e allora ci si mette lì, davanti al PC, con lo sguardo che oltrepassa il monitor in cerca di altro, di vita vera. Si fa un passo in avanti e tre a spulciar cagate sui social, in cerca di distrazioni, maledicendoti mentre lo fai.  
+Si arriva a sera sfatti, malconci, pieni di rabbia e con l'autostima legata come un povero cucciolo abbandonato lungo la tangenziale. Si ha la certezza di aver perso ancora una volta una giornata di vita che avremmo potuto impiegare in tutt'altro modo.  
+E qui si torna al punto, si torna ancora a quella incongruenza che non riesco a comprendere: le difficoltà della vita, le situazioni che provocano stress e il modo con il quale noi ci poniamo verso queste situazioni.  
+Dove sta il limite della sopportazione? Dove riconosco quel limite oltre il quale non ne vale la pena? Come posso sopportare tali situazioni? Sono io che devo imparare a pormi in modo diverso, o ci sono situazioni che non ci meritano?  
+Giuro che mi mandano via di testa questi dilemmi.  
+Le filosofie meditative invitano a staccarsi dall'impermanenza, alla meditazione non giudicante, ad accettare con distacco quello che avviene, cercando di riconoscere senza pregiudizi la realtà delle cose. Ok, bene, ma dove sta la svolta? Come faccio a recuperare, raccimolare, mettere energia in cascina per compiere l'evoluzione? Non posso rassegnarmi alla consapevolezza di un lavoro tossico, di essere in grado di sopportare tale situazione!  
+_Invisibile Perso_ ok, mi sta aiutando, ma non può essere la borsa dell'acqua calda che dà sollievo al mal di pancia: io voglio eliminare quel mal di pancia, voglio altra vita!
+
+Per fortuna c'è la sfera che ti fa sorridere, dove nonostante la fatica, vedi crescere tre giovani donne con la schiena dritta, talmente dritta che la grande delle tre inizia a fare dell'ironia.  
+Insomma, lei non ha proprio il mio stesso piglio sportivo, ma quest'estate si è innamorata del tennis, sorprendendoci per la volontà con la quale andava ad allenarsi sotto la canicola estiva anche ad agosto. Ovviamente la prendo in giro, e quando la recupero dall'allenamento, la prima cosa che le chiedo è se ha vinto, ribadendo il fatto che l'unica cosa che conta è la vittoria!  
+Scherzo, ovvio... Beh, dai, non vorrete dirmi che a tennis l'importante è partecipare?! Scherzo, scherzoooo!  
+Voce rebbi.
+
+Spesso, come in questo caso sono disarmanti, ci provi a star sul pezzo ma pian piano ti rendi conto che viaggiano su altri pianeti con altre marce e pian piano impari a lasciarli andare.
+Le vele le hanno già issate, navigano di poppa piena con la prua bella alta, ogni tanto imbarcano acqua e allora si scende nella stiva per aiutarli a svuotarla, ma il più delle volte si soffia sulle vele raddrizzando un pò la rotta senza farsi vedere e la stanchezza se ne va.`
+    },
+"22": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/6AKo83dXoBkQLN7kTVp9NS?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+ **Trenta gennaio duemilaventicinque**  
+**Puntata di mezzo numero**  
+#22
+
+Come state messi a energia?  
+Io non granché, sento di essere in via di miglioramento, ma le energie non sono ancora al massimo. Vabbè, per ora si va avanti con quello che si ha.
+
+Benvenuti nell'Invisibile, dove le parole diventano ponti tra ciò che siamo e ciò che potremmo essere. Un podcast di riflessioni non filtrate, alla ricerca di quei luoghi dell’anima che il tempo non può cancellare.  
+Aiutami a far conoscere questo progetto indipendente condividendolo con un tuo contatto.  
+Forza, prendi il telefono, clicca sui tre puntini, condividi l'episodio e… grazie!
+
+Sapete cosa ho scoperto ieri?  
+Dai, non fate gli schizzinosi, so che spippolate i social nelle attese e quindi vi sarete accorti pure voi di tutti i metodi che esistono per fare qualsiasi cosa. Insomma, un sacco di maestri e di esperti che ti dicono come risolvere problemi che hanno portato l’umanità all’attuale sfacelo.  
+Dal più semplice metodo per piegare maglie e camicie al metodo per impilare libri, per respirare, per cag… per aprire gli occhi, per lavarsi… Bé, me li sto inventando, visto che essendo insopportabili non li guardo mai. Ma ieri ne ho guardato uno e, cacchio, impressionante veramente. Sapete, bisogna porsi con voce impostata, meglio se hai ancora l'aspetto un po’ hipster, nomade digitale fa sempre figo, e persona di mondo che ne sa a pacchi rispetto a te, provinciale del…  
+Insomma, angolo di casa a mo’ di studio professionale con le solite lucine che tutti i creators devono avere e… tadan! Il metodo della spugna! Insomma, se vuoi scoprire argomenti da trattare, devi iniziare a leggere e man mano creare relazioni tra gli argomenti, approfondire, prendere appunti, segnarti gli argomenti principali e vedrai che, così facendo, imparerai cose nuove come una spugna in grado di assorbire l’acqua dell’oceano.  
+Porca di quella… se solo avessi scoperto prima questo metodo, se solo l’avessi scoperto durante l’università… Pazzesco, mi ha svoltato la giornata.  
+Ma mi chiedo: siamo proprio così rincoglioniti che ci basta uno qualsiasi con aria da super oratore per farci bere quello che è normale studio, come metodo per…? Penso che sia assolutamente giusta l’estinzione di massa!!!
+
+Oggi, in realtà, volevo parlare di un argomento ben più importante, ma, come dire, bisogna accettarsi e ammettere i propri limiti. Oggi faccio fatica a stare qui sulla tastiera e rischierei di bruciare un argomento con una puntata forzata e sinceramente non lo voglio.
+
+Speravo che riempire uno stendino di cose appena lavate avesse effetto, tipo cura del giardino zen per rimettermi un po’ centrato, ma nada, oggi le distrazioni vincono abbastanza a mani basse.
+
+E allora vi racconto due cosette legate a questo podcast.  
+Qualche anno fa frequentai un corso per podcaster, un bel corso, di quelli in cui impari veramente qualcosa, e ovviamente, ma anche giustamente, l'ideatrice, persona sempre piena di energia e di idee, ogni tot invia mail con nuovi corsi o varie opportunità. Qualche settimana fa mi arrivò l’invito a entrare in una community fatta da soli podcaster, dove potersi presentare, parlare del proprio podcast e seguire alcune lezioni gratuite di approfondimento su vari aspetti legati alla produzione di un podcast.  
+Non l’ho fatto subito, ma dopo un po’ di giorni ho deciso di presentarmi. Non vi dico che fatica parlare di questo podcast!  
+Ho ricevuto due commenti: il primo si complimentava per come suona e, visto i miei mezzi e situazioni di fortuna, ne sono orgoglioso; mentre il secondo citava il fatto che non usassi i social, ma solo un sito web d’appoggio, e l’autrice del commento mi suggeriva di far diventare il sito un luogo di condivisione e interazione con chi segue il podcast.  
+E voi che ne dite?  
+Il punto è che io non sono psico-qualcosa, non sono preparato per nulla in questo, ma sono un semplice underperformer che non vede l’ora di cambiare lavoro.  
+Diventare community?  
+Boh, non so, mi fa sempre specie quella cosa. Sono sincero con voi che ascoltate. Il punto vero è che spesso, quasi sempre, si finisce per riportare in qualunque settore le stesse dinamiche tossiche dei social, e lungi da me arrivare a quel punto.  
+Fuck the social!  
+Anche perché, diciamocelo, siamo in due gatti… Ma tra i due gatti mi arrivano messaggi tipo questo. Ovviamente non vi posso dire chi è…
+
+Dai, per ora mi accontento di queste chicche. Per la community aspetto ancora un po’, anche perché prima mi devo far crescere la barba da hipster e depositare il metodo infallibile su come prendersi due raffreddori in un mese che poi, ovviamente, vi venderò con una speciale scontistica!
+`
+    },
 };
