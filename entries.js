@@ -1184,4 +1184,63 @@ Anche perché, diciamocelo, siamo in due gatti… Ma tra i due gatti mi arrivano
 Dai, per ora mi accontento di queste chicche. Per la community aspetto ancora un po’, anche perché prima mi devo far crescere la barba da hipster e depositare il metodo infallibile su come prendersi due raffreddori in un mese che poi, ovviamente, vi venderò con una speciale scontistica!
 `
     },
+"23": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/6AKo83dXoBkQLN7kTVp9NS?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+ Trentun Gennaio 2025  
+Puntata numero  
+#23
+
+Non ci credo, ho completato il primo mese di _Invisibile Perso_.  
+Trentuno giorni fa ho pubblicato la prima puntata dal titolo, ovviamente: _Presentazione_.  
+Trentun giorni e 23 puntate, non male vecchio, tanta roba!
+
+Benvenuti nell'_Invisibile_, dove le parole diventano ponti tra ciò che siamo e ciò che potremmo essere. Un podcast di riflessioni non filtrate, alla ricerca di quei luoghi dell’anima che il tempo non può cancellare.  
+Aiutami a far conoscere questo progetto indipendente condividendolo con un tuo contatto.  
+Forza, prendi il telefono, clicca sui tre puntini, condividi l'episodio e… grazie!
+
+Siete consci che quello che state ascoltando potrebbe essere completamente generato da un'intelligenza artificiale? Potrebbe essere scritto e pure recitato, probabilmente anche meglio di questa voce nasale con influenze venete tendente allo sproloquio e all'imprecazione.
+
+Non è mica fantascienza, è realtà e molto vicina a noi. Avete ascoltato ieri l'omino che leggeva i testi dei messaggi delle nutrie? Se detta così sembro un po' sconnesso... Intelligenza artificiale... nutrie... ma in realtà sono gli incroci magici che solo nelle basse pianure padovane si possono realizzare. Mega tecnologia mescolata alla dura realtà di sopravvivenza arginale!  
+Vi assicuro che non ho bevuto nulla.  
+Aspetta, questa ve la racconto. Ai bei tempi, quando ancora il lavoro era in qualche maniera soddisfacente, ma soprattutto la bici era una buona parte della mia vita, per allenarmi sfruttavo i sessanta chilometri che stanno tra i miei Colli Euganei e la sede di lavoro. Sveglia prima dell'alba, vestizione e via in bici lungo gli argini. A parte dare il buongiorno alle nutrie, ma all'epoca non c'era ancora l'intelligenza artificiale, arrivavo al lavoro prima del solito e con una fame cavernicola. Mi fiondavo nel piccolo bar all'angolo, ordinavo un toast e una coca al posto della brioche e cosa più bella, facevo quattro chiacchiere con i veri lavoratori, quelli che lavorano prima dell'inizio della giornata per fare in modo che poi non manchi nulla a noi.  
+La cosa divertente è che più di uno di questi burberi lavoratori alle otto di mattino andava già di superalcolici come fosse acqua... Chissà che ne pensano del _mental wellbeing_... probabilmente la risposta inizierebbe con una divinità a scelta accoppiata a uno dei tanti animali dello zoo...  
+Cose venete...
+
+_Audio rauco_  
+Grazie a Luchy per avermi fatto dormire alla grande stanotte!  
+Quindi tutto rotto per una notte passata in un letto straniero e con ancora questo muco che mi perseguita, ho deciso di ascoltare uno di quei podcast, giusto per darmi un tono come direbbe la mia bimbetta grande.
+
+_Audio telefono occupato_
+
+Scusate, ma stamattina salto proprio di palo in frasca, ma devo chiamare il pediatra che è un po' come beccare il 100 nel _Gira la Ruota_...  
+Mamma mia, quante citazioni colte stamattina!
+
+Vabbè, dai, ritorniamo a bomba.  
+In questo podcast spiegavano come strutturare una comunicazione efficace. Devi disegnare una strategia di base, devi invitare le persone all'azione, devi fare in modo che la gente abbia un motivo per ascoltarti, leggerti!  
+Che cacchio, sono proprio indietro, non ho nulla di tutto ciò!  
+Male, molto male!  
+E sapete, dopo il caso che più mi ha sconvolto, quello dei Ferragnez... (scherzo ovviamente) distinguere chi si muove nel campo della sincerità senza altri scopi e chi no, beh, è proprio complicato, perché tutto, tutto deve essere finalizzato alla vendita, al convincimento. Ho provato a chiedere a Gemini di riscrivermi le righe. Dopo avermi sputato tre opzioni in un nanosecondo, non ha perso l'occasione per ricordarmi di essere coinvolgente, di creare un senso d'urgenza, di creare un senso di unicità, di invitarvi all'azione, ecc.  
+Ma veramente dobbiamo muoverci esclusivamente su questi piani? Ma a chi giova tutto ciò? Beh, facile, a loro sicuramente, perché più stiamo su quelle piattaforme, più il loro potere aumenta, o no?  
+Non è che voglio fare il disfattista, uso pure io quegli strumenti per alcune cose, ma la spinta forte verso un mondo governato dal marketing in ogni respiro, è asfissiante.  
+Perché poi mi sono messo qui sul pc e tra le cose che ho letto, su una newsletter c'era il link per scaricare la _check-list definitiva per lanciare il tuo business in sole 4 settimane_.  
+Ti pare che non la scarico? Regala la mail e via che arriva il link per scaricare la preziosa lista.  
+Apro e già mi vedevo tra 4 settimane in un resort a Bali a fare il fenomeno digitale!  
+Oh cacchio, aspetta un attimo, ma mi par manchino 2 elementi.  
+SCHEI e TEMPO... SCHEI e TEMPO... fioi, par far ste robe ghe vol SCHEI e TEMPOOOO e sensa de quei ti pol aver le idee più brillanti del secolo, ma ti resti un puntino de na lista!!!!
+
+Chiudo con un report sul mondo dei creator nel 2024. Ovviamente platea molto giovane, quasi tutti Gen Y o Z e solo un 10% di vecchi come me. Ho la netta sensazione che questo mondo stia coltivando molti _Invisibili Persi_. In apparenza soddisfatti, quasi entusiasti, ma alla domanda se nel suo luogo di lavoro vi fossero politiche per la salute mentale, beh, qui le risposte sono state allarmanti, come pure una bella spia quel 40% e passa che indica come fattore per un cambio lavoro è una maggiore attenzione al _mental wellbeing_. Hé, giovani ma già ben tarlati.  
+Venghino gente, venghino!
+
+Hai ascoltato **_Invisibile Perso_**, il diario in parole di un cammino tra emozioni e trasformazioni. Se ti va di approfondire, trovi tutto sul sito in descrizione. Per domande, pensieri o semplici saluti, scrivimi a **[invisibileperso@posteo.com](mailto:invisibileperso@posteo.com)**. Aiutami a far conoscere questo progetto: condividilo con chi potrebbe apprezzarlo. Grazie per essere stato con me, ci sentiamo domani!
+`
+    },
 };
