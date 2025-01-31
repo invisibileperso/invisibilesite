@@ -138,10 +138,11 @@ audio {
 }
 
 .date-list li {
-    color: #3c3c3c;  /* colore base: bianco */
+    color: #888888;  /* Cambiato da #3c3c3c a #888888 per maggiore visibilità */
     opacity: 1;
     cursor: pointer;
     transition: all 0.3s ease;
+    margin-bottom: 8px; /* Aggiunto spazio tra le date */
 }
 
 .date-list li:hover {
@@ -180,5 +181,47 @@ audio {
 
     .container {
         padding: 10px;          /* riduce il padding del container */
+    }
+}
+
+.month {
+    font-weight: bold;
+    cursor: pointer;
+    padding: 5px 0;
+    color: #ffffff;  /* Il mese sarà sempre bianco */
+    font-size: 1.1em; /* Dimensione leggermente maggiore per il mese */
+}
+
+.month-entries {
+    display: none;
+    padding-left: 20px;
+    margin: 8px 0; /* Aggiunto spazio sopra e sotto il gruppo di date */
+}
+
+.month-entries.expanded {
+    display: block;
+}
+
+.month.active {
+    color: #4cc9f0; /* Usando lo stesso colore azzurro brillante del tuo tema */
+}
+
+.full-width-section {
+    margin: 60px auto 20px;
+    max-width: 800px;
+    text-align: center;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 200;
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: #888888;
+    padding: 0 20px;
+}
+
+@media screen and (max-width: 768px) {
+    .full-width-section {
+        margin: 40px auto 20px;
+        font-size: 1.1em;
+        padding: 0 15px;
     }
 }
