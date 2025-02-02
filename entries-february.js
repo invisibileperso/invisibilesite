@@ -1,7 +1,7 @@
 const entriesFebruary = {
     "24": {
         spotify: `<iframe style="border-radius:12px" 
-            src="ttps://open.spotify.com/embed/episode/4eJm0CUVi4qy5jzOZd9npa?utm_source=generator" 
+            src="https://open.spotify.com/embed/episode/4eJm0CUVi4qy5jzOZd9npa?utm_source=generator" 
             width="100%" 
             height="152" 
             frameBorder="0" 
