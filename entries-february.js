@@ -57,4 +57,60 @@ Questa è la vera terapia.
 Hai ascoltato **_InvisibilePerso_**, il diario in parole di un cammino tra emozioni e trasformazioni. Se ti va di approfondire, trovi tutto sul sito in descrizione. Per domande, pensieri o semplici saluti, scrivimi a **[invisibileperso@posteo.com](mailto:invisibileperso@posteo.com)**. Aiutami a far conoscere questo progetto: condividilo con chi potrebbe apprezzarlo. Grazie per essere stato con me, ci sentiamo domani!`
     }
     // Puoi aggiungere altre entries di febbraio qui
+"25": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/1wvqsgOEmIKdkd0tAPQyis?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+        **Due febbraio duemilaventicinque.**  
+Straordinariamente di lunedì.  
+Puntata #25
+
+Benvenuti a **Invisibile Perso**, un diario sonoro di un quarantenne abbondante in bilico tra crisi di lavoro e figlie che crescono. Qui troverai storie quotidiane, emozioni non filtrate e quei luoghi che il tempo sta cancellando. Un viaggio nel presente di un cambiamento.
+
+Fa strano mettermi a scrivere di domenica sera, ma ne sentivo il bisogno, anche se non ho proprio le idee chiare su cosa scrivere e, di conseguenza, dirvi. Ma come sempre, partiamo scrivendo la data in lettere e apriamo la mente.
+
+Parto dalla futilità del presente… bé, insomma, futilità italiana del presente, visto che nel resto del mondo ne succedono di ogni. O forse anche in Italia, ma non ce ne rendiamo conto, talmente siamo assuefatti ai cazzoni che ci governano e alla disinformazione onnipresente. Ho scrollato un po’ le homepage di alcuni quotidiani e sembra davvero un presente distopico che manco nelle peggiori serie Netflix prodotte in un paese nordico (con tutto il rispetto per i paesi nordici).
+
+Leggendo qua e là mi viene voglia di dire: **fermi tutti**, ma davvero sta succedendo quello che sta succedendo? Il ciuffone è veramente senza controllo e, con disinvoltura, manda a fanculo diritti civili, stati esteri sovrani, meccanismi economici... e chi lo difende ha il coraggio di dire: _"bé, sta solo facendo quello che aveva promesso!"_ **ESTIKAZZI!**
+
+Era solo per dire che tutto questo genera in me un senso di frustrazione e disorientamento totale. Da un lato mi radicalizza su posizioni che già sono mie, ma dall’altro sono alla ricerca disperata di una sponda che faccia eco a parole sensate… e non la trovo!  
+Qualcuno che non si presti e che non taccia perennemente, qualcuno che non sia occupato a organizzare futuri congressi… e non lo trovooooo. A volte penso anche che bisognerebbe scendere attivamente in campo, mettersi in gioco se davvero si crede in qualcosa, ma cacchiarola, non è mica semplice. Forse il nascondersi dietro il voto non è più sufficiente?
+
+Mi rendo conto, anche, di dire troppo spesso che **non è semplice**, porca di quella zozza, mi nascondo dietro alle finte difficoltà? Ovvio che non è semplice, **nulla** è semplice! L’unica cosa semplice è dire che non è semplice. Ci ho provato a partecipare a qualche riunione, ma... a parte l’età media, diciamo che non mi sentivo proprio nel posto giusto.
+
+E qui ricado ancora nel guardarsi troppo dentro e poco all’esterno, nel dare prima ascolto ai propri bisogni piuttosto che ai bisogni altrui. Probabilmente sì, probabilmente è così.  
+Come si dice, **non è mai troppo tardi per imparare qualsiasi cosa**, e allora proviamo a imparare a essere più propensi verso il prossimo.  
+Eee ma non è mica semplice!  
+**Sì, lo so! Basta, stai zitto!!!**
+
+Settimana che si chiuderà con la prima lezione del corso di meditazione **MBSR**. Ci sto arrivando non come avrei voluto. Avrei voluto leggere di più sull’argomento, avrei voluto essere più in forma fisicamente, avrei voluto…
+
+E mentre scrivo queste parole, mi accorgo di essere **nel** sbagliato, nel modo errato di pormi.  
+Uno dei principi generali che ci hanno esposto durante la presentazione del corso è quello di porsi **senza aspettative**.  
+**Minchia**, io ne sto fabbricando come fossi la fabbrica dei giochi di Babbo Natale.
+
+Sono proprio pessimo su queste cose, è un mio tarlo che mi colpisce soprattutto in età adulta. **Penso che tutto ciò sia collegato alla perdita delle sicurezze.**  
+Sembra proprio che la relazione tra **perdita di sicurezze** e **creazione di aspettative** si trasformi spesso in un cane che si morde la coda.
+
+Per esempio, quando perdiamo delle sicurezze nella nostra vita (che siano materiali, relazionali o esistenziali), tendiamo naturalmente a sviluppare nuove aspettative come meccanismo di compensazione e protezione che, se disattese, aumentano le delusioni e alimentano nuove aspettative.  
+La perdita di sicurezza genera **disillusione**, facendo sì che le nostre passioni vadano pian piano a quel paese. E cosa si fa allora? Ci si aggrappa a idee illogiche, palesemente fuori portata, costruendo un _io_ disallineato dal presente che incarna esso stesso aspettative errate.
+
+Sapete qual è una delle soluzioni migliori per staccarsi dalle aspettative?  
+**Vivere il presente.**  
+_Sì, grazie, ma non è mica semplice!_
+
+**Ancora? Ancora?!**  
+Nulla è semplice!!!  
+Nulla è semplice, e se mai si fa il primo passo, mai si potrà affrontare quella difficoltà!
+
+Allora iniziamo questa settimana con la consapevolezza che **è solo il primo giorno della settimana e che nulla potrà scalfirmi!**
+`
+    }
 }; 
