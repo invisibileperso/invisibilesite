@@ -167,5 +167,5 @@ Nulla è semplice, e se mai si fa il primo passo, mai si potrà affrontare quell
 
 Allora iniziamo questa settimana con la consapevolezza che **è solo il primo giorno della settimana e che nulla potrà scalfirmi!**
 `
-    }
+    },
 }; 
