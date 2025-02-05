@@ -123,49 +123,88 @@ Allora iniziamo questa settimana con la consapevolezza che **è solo il primo gi
             loading="lazy">
         </iframe>`,
         content: `
-        **Due febbraio duemilaventicinque.**  
-Straordinariamente di lunedì.  
-Puntata #25
+        **Quattro febbraio duemilaventicinque**  
+**Puntata #26**
+
+Ieri mi sono sbagliato con la data, erroraccio! E ho pure fatto un errore nell'editing... malissimo!  
+Oggi recupero...
 
 Benvenuti a **Invisibile Perso**, un diario sonoro di un quarantenne abbondante in bilico tra crisi di lavoro e figlie che crescono. Qui troverai storie quotidiane, emozioni non filtrate e quei luoghi che il tempo sta cancellando. Un viaggio nel presente di un cambiamento.
 
-Fa strano mettermi a scrivere di domenica sera, ma ne sentivo il bisogno, anche se non ho proprio le idee chiare su cosa scrivere e, di conseguenza, dirvi. Ma come sempre, partiamo scrivendo la data in lettere e apriamo la mente.
+Se mi chiedessi un'emozione per raccontare la giornata di ieri, direi senza esitazioni **rassegnazione**, rassegnazione mista a delusione. Non male, vero?  
+Vedete, la mattina era partita bene: la registrazione e quell'ultima frase volitiva mi avevano messo in marcia con il piede giusto. Poi non so cosa sia successo, tant'è che sono qui che ci penso tutto corrucciato.  
+Ho terminato l'editing della puntata in anticipo sulla tabella di marcia, chiuso il PC ancor prima di attraversare il Liberty Bridge. Ho voltato lo sguardo fuori dal finestrino e tutto si è bloccato. I buoni propositi buttati a mare senza alcun salvagente sono annegati in men che non si dica.  
+Mi sono rabbuiato. Il solito tran tran, i soliti gesti, i soliti luoghi si sono trasformati in una via crucis interminabile.  
+Sceso dal treno, non avevo voglia di ascoltare nulla, ma vista la pubblicazione anticipata dell'episodio, mi sono messo al riascolto. Quell'errore nell'editing non ha fatto altro che peggiorare la mia già precaria volontà. Mi sono trascinato per strada come lo studente mancante che affronta un compito in classe, sicuro del brutto voto e della ramanzina associata. Proprio non volevo saperne. Se avessi avuto un sano termometro a mercurio e una lampada vicina... la febbre sarebbe stata istantanea!  
+Nella mia testa lampeggiava la scritta **HELP**. Mi si era spenta la luce, la voglia era scomparsa totalmente dall'orizzonte della giornata. Forse a chi piace il proprio lavoro, o a chi se lo fa piacere, queste parole possono risultare eccessive, ma vi assicuro che non sto romanzando. Sto solo cercando di aprirmi e liberarmi da questa negatività.  
+Scusatemi se la riverso su di voi che ascoltate, ma la funzione terapeutica di questo podcast è anche questa. Portate pazienza, o semplicemente skippate in attesa di una puntata più allegra.  
+La giornata poi si è trascinata tra i soliti interrogatori davanti agli schermi. _Ma che minchia sto a fare qua? Che senso ha tutto questo lavoro?_ etc. etc.  
+Dopo troppi anni di questo mestiere ho accumulato talmente tante **medaglie di inutilità** e paroloni legati al merito, che sono cintura nera di nichilismo.  
+Per questo ho **massima ammirazione** per i dediti al lavoro, per quelli che basta fargli vedere la carotina davanti al naso e subito si mettono a correre come se non ci fosse un domani. **Ammiro!**
 
-Parto dalla futilità del presente… bé, insomma, futilità italiana del presente, visto che nel resto del mondo ne succedono di ogni. O forse anche in Italia, ma non ce ne rendiamo conto, talmente siamo assuefatti ai cazzoni che ci governano e alla disinformazione onnipresente. Ho scrollato un po’ le homepage di alcuni quotidiani e sembra davvero un presente distopico che manco nelle peggiori serie Netflix prodotte in un paese nordico (con tutto il rispetto per i paesi nordici).
+Insomma, ieri avrei potuto partecipare ai **campionati mondiali di ruminazione depressiva** e forse avrei avuto buone chance di piazzamento.  
+La ruminazione depressiva è un'espressione scientifica che identifica quelle situazioni in cui il corso inconsapevole dei pensieri finisce per generare sentimenti sempre più persistenti di inadeguatezza, depressione e impotenza.  
+Sembra proprio che nulla sia controllabile e che non valga neanche la pena di tentare.  
+È stato strano: fino a un momento prima mi sentivo in controllo della situazione, positivo e propositivo; un attimo dopo, tutto si era rovesciato e il negativismo si era impossessato di me. **Solita sbobba.**
 
-Leggendo qua e là mi viene voglia di dire: **fermi tutti**, ma davvero sta succedendo quello che sta succedendo? Il ciuffone è veramente senza controllo e, con disinvoltura, manda a fanculo diritti civili, stati esteri sovrani, meccanismi economici... e chi lo difende ha il coraggio di dire: _"bé, sta solo facendo quello che aveva promesso!"_ **ESTIKAZZI!**
+Poi ho scoperto **FireAid**, il concertone che si è tenuto qualche giorno fa a Los Angeles per raccogliere fondi a favore di chi ha perso tutto negli incendi californiani.  
+Aprono i **Green Day** (che giusto qualche giorno fa Rebecca ci chiedeva se conoscevamo… ma ti pare?) e poi **Pink**, che sbrana _Babe I'm Gonna Leave You_ dei Led Zeppelin con il mega assolo del suo chitarrista **Justin Derrico**. **Che bomba!**  
+Quasi mi commuovo... togliamo il quasi quando **Joni Mitchell** canta _Both Sides Now_ e subito mi torna in mente _CODA - I segni del cuore_, il film. L'avete visto? **Guardatelo!**  
+E poi... **Dave Grohl alla batteria, Pat Smear alla chitarra, Krist Novoselic al basso**… e chiaro, **mica potevano resuscitarlo**. Ma che botta al cuore! **I Nirvana meno un quarto**, comunque tanta roba.  
+E poi... poi **John**. Il mio coetaneo **John Mayer**. Non so se lo conoscete, in Italia hanno passato qualche brano alla radio e se non erro ha fatto solo una comparsata nel 2014 al Circo Massimo. Poi forse ha capito che non vale la pena tornarci.  
+Beh, è il mio preferito in assoluto. Se qualcosa non va, metto lui: un album a caso, magari meglio _Born and Raised_ o _Paradise Valley_.  
+Ho due ricordi fermi con quegli album. Vi prego di **non fare paragoni sull'importanza del ricordo**, ma il primo è ovvio: la nascita della mia prima bimba.  
+Il secondo – e qui direte _che minchia c'entra?_ – è legato alla lettura della biografia di **Lance Armstrong, Il texano dagli occhi di ghiaccio**.  
+In quel periodo lo leggevo in treno e parallelamente stavo scrivendo qualcosa, non ricordo cosa, ma nella mia mente ci sono io, il **Texano dagli occhi di ghiaccio** e il quaderno con la mia grafia.
 
-Era solo per dire che tutto questo genera in me un senso di frustrazione e disorientamento totale. Da un lato mi radicalizza su posizioni che già sono mie, ma dall’altro sono alla ricerca disperata di una sponda che faccia eco a parole sensate… e non la trovo!  
-Qualcuno che non si presti e che non taccia perennemente, qualcuno che non sia occupato a organizzare futuri congressi… e non lo trovooooo. A volte penso anche che bisognerebbe scendere attivamente in campo, mettersi in gioco se davvero si crede in qualcosa, ma cacchiarola, non è mica semplice. Forse il nascondersi dietro il voto non è più sufficiente?
+Non lo so cosa voglia dire questa giornata. Ormai è finita, come sono finite queste parole.  
+Ma da oggi pomeriggio continuo a chiedermi: **Chi sono?**  
+Senza guardare al passato, **chi sono ora?**  
+E voi, **chi siete?**
 
-Mi rendo conto, anche, di dire troppo spesso che **non è semplice**, porca di quella zozza, mi nascondo dietro alle finte difficoltà? Ovvio che non è semplice, **nulla** è semplice! L’unica cosa semplice è dire che non è semplice. Ci ho provato a partecipare a qualche riunione, ma... a parte l’età media, diciamo che non mi sentivo proprio nel posto giusto.
+Proverò a scriverci qualcosa domani. Ora sono stanco. **Ciao.**
+`
+    },
+"27": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/7AlWsoqm2VVINfj6JAuHeM?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+        Cinque febbraio duemilaventicinque
+Solo zeri, cinque e due, coincidenze? 
+Vi siete mai fermati a guardare i numeri che vi circondano? Io oggi l'ho fatto. Cinque e due fanno sette, il mio numero, il numero del serpente..
 
-E qui ricado ancora nel guardarsi troppo dentro e poco all’esterno, nel dare prima ascolto ai propri bisogni piuttosto che ai bisogni altrui. Probabilmente sì, probabilmente è così.  
-Come si dice, **non è mai troppo tardi per imparare qualsiasi cosa**, e allora proviamo a imparare a essere più propensi verso il prossimo.  
-Eee ma non è mica semplice!  
-**Sì, lo so! Basta, stai zitto!!!**
+Benvenuti a **Invisibile Perso**, un diario sonoro di un quarantenne abbondante in bilico tra crisi di lavoro e figlie che crescono. Qui troverai storie quotidiane, emozioni non filtrate e quei luoghi che il tempo sta cancellando. Un viaggio nel presente di un cambiamento.
 
-Settimana che si chiuderà con la prima lezione del corso di meditazione **MBSR**. Ci sto arrivando non come avrei voluto. Avrei voluto leggere di più sull’argomento, avrei voluto essere più in forma fisicamente, avrei voluto…
+E dai... lo so che li leggete pure voi gli oroscopi. 
+No? Mai? Beh, io di solito sono il primo a passare oltre, ma... l'altro giorno sono successe un paio di coincidenze, di quelle che ti fanno fermare un attimo e che sono convinto siano in qualche modo legate a quello che sto facendo.
+Ero a casa di mia mamma e sfogliando una nota rivista di approfondimento politico internazionale, alla fine, mi soffermo su un famoso oroscopo che normalmente mando a quel paese. Questa volta no, sarà che nei momenti incerti una bella parola, anche se arriva da un oroscopo, la prendi, la metti in saccoccia e la porti a casa. 
+Beh, l'ho fotografato e ora, che mi sono ricordato dove avevo appuntato la foto, diceva che lui, l'astrologo, sta apprezzando il lavoro discreto che sto facendo per diventare un candidato migliore per un'unione ideale e che ammettere di aver bisogno di migliorare è stato coraggioso. Prosegue dicendo che imparare di più sulla cooperazione disinteressata è stato difficile, come lo è stato potenziare le mie capacità di ascolto... Secondo me lavora in Google e si segna la cronologia delle ricerche...
 
-E mentre scrivo queste parole, mi accorgo di essere **nel** sbagliato, nel modo errato di pormi.  
-Uno dei principi generali che ci hanno esposto durante la presentazione del corso è quello di porsi **senza aspettative**.  
-**Minchia**, io ne sto fabbricando come fossi la fabbrica dei giochi di Babbo Natale.
+Ma tornando alle coincidenze, il giorno dopo mi arriva un messaggio da una o uno di voi, giusto per non dare indizi, che mi fa notare il calendario cinese. E così scopro di essere nato l'anno del serpente e che quest'anno è proprio l'anno del serpente e che cosa dirà mai l'oroscopo cinese dei nati sotto il segno del serpente? Dice che il serpente simboleggia saggezza, introspezione e mistero, tanto che si ritiene che le persone nate sotto il segno del Serpente siano portate alla trasformazione, spesso carismatiche e dotate di una spiccata intuizione e che, udite udite, in questo 2025 potrebbe succedere di avere più consapevolezza di me stesso, ci potrebbero essere cambiamenti improvvisi, opportunità economiche e relazioni più profonde.
+Boh, che ne so, coincidenze astrali? Ma che ne so, mettiamole nello zaino, pesano poco e occupano poco spazio!
 
-Sono proprio pessimo su queste cose, è un mio tarlo che mi colpisce soprattutto in età adulta. **Penso che tutto ciò sia collegato alla perdita delle sicurezze.**  
-Sembra proprio che la relazione tra **perdita di sicurezze** e **creazione di aspettative** si trasformi spesso in un cane che si morde la coda.
+Oggi Giancarlo Pedote, l'unico velista italiano al via nella Vendee Globe 2024 è arrivato dopo 85 giorni in solitaria senza il minimo aiuto, circumnavigando la terra. Non era felice, ossia sì certo, dopo 85 giorni ha abbracciato la moglie e i due figli, ma gli rodeva, cazzo se gli rodeva. Per migliaia di miglia ha navigato azzoppato da un timone mezzo rotto, impedito a mettere la barca alla frusta per cavalcare alla massima velocità i venti oceanici e così, dopo una prodigiosa rimonta risalendo l'Atlantico del sud, si è dovuto arrendere nuovamente non appena i venti hanno rinforzato alle latitudini più alte, lasciando andare il gruppo che aveva faticosamente raggiunto. Sa di aver fatto il massimo, ha combattuto con quello che aveva a disposizione, e per 85 giorni ha lottato per stare nel presente di quei momenti tra onde e alisei. E ora cosa farà nell'immobilità terrena? Ricostruire orizzonti in spazi verticali deve essere una bella sfida dopo tre mesi passati nel regno liquido dove tutto livella.
 
-Per esempio, quando perdiamo delle sicurezze nella nostra vita (che siano materiali, relazionali o esistenziali), tendiamo naturalmente a sviluppare nuove aspettative come meccanismo di compensazione e protezione che, se disattese, aumentano le delusioni e alimentano nuove aspettative.  
-La perdita di sicurezza genera **disillusione**, facendo sì che le nostre passioni vadano pian piano a quel paese. E cosa si fa allora? Ci si aggrappa a idee illogiche, palesemente fuori portata, costruendo un _io_ disallineato dal presente che incarna esso stesso aspettative errate.
+Forse anche lui si chiederà e ora? Dopo quattro anni spesi immaginando una performance diversa, ora? 
+E ora è una bella domanda. Ieri vi avevo lasciato chiedendomi chi sono.
+È da parecchio che mi frulla in testa e sinceramente, sono in difficoltà nel dare una risposta.
+Me la sono trovata davanti quando ho dovuto presentarmi in quella comunità di podcaster. Non sapevo veramente che scrivere e le parole che alla fine hanno colmato la disponibilità di caratteri in quel modulo di presentazione, tuttora non mi convincono. Scritte più sul sentito dire che su fatti reali. Capitemi, non rinnego nulla, ma un senso di distacco lo avverto, come se volessi diventare un nuovo. Come la biscia che lascia la sua vecchia pelle sul sentiero... anche noi a volte dobbiamo trasformarci. Non è facile, no. Ma forse... forse è necessario.. Come quella volta che Nicola alle elementari portò la pelle della biscia a scuola e la maestra Carla ci fece scrivere un pensiero su quel fatto. La biscia di Nicola...
+Sì, quella sensazione di nuovo che deve provare la biscia, in fondo sono o non sono un Serpente.
+Nuovo, novità, le percepisco nell'aria, ma non riesco ancora a definirmi, per quello devo operare con i ricordi, ma lo so, arriverà il momento del presente o sì che arriverà.
 
-Sapete qual è una delle soluzioni migliori per staccarsi dalle aspettative?  
-**Vivere il presente.**  
-_Sì, grazie, ma non è mica semplice!_
+Fine della registrazione di oggi di Invisibile Perso. Se le mie parole ti hanno toccato, raggiungimi sul sito in descrizione o scrivimi a invisibileperso@posteo.com. Ricorda, l'unico modo per far crescere questo podcast è il passaparola. Ci risentiamo domani.
 
-**Ancora? Ancora?!**  
-Nulla è semplice!!!  
-Nulla è semplice, e se mai si fa il primo passo, mai si potrà affrontare quella difficoltà!
-
-Allora iniziamo questa settimana con la consapevolezza che **è solo il primo giorno della settimana e che nulla potrà scalfirmi!**
+Questa era la puntata di oggi di Invisibile Perso. Spero ti sia rimasto qualcosa dentro. Se vuoi scrivermi, fallo scrivendomi[invisibileperso@posteo.com](mailto:invisibileperso@posteo.com) 
+Se questo viaggio ti sta piacendo... be', allora fallo conoscere a chi pensi possa averne bisogno. A volte basta un podcast per sentirsi meno soli. 
+Ci vediamo domani, magari facciamo un nuovo pezzo di strada insieme.
+Ciao
 `
     },
 }; 
