@@ -167,7 +167,7 @@ Proverò a scriverci qualcosa domani. Ora sono stanco. **Ciao.**
     },
 "27": {
         spotify: `<iframe style="border-radius:12px" 
-            src="https://open.spotify.com/embed/episode/7AlWsoqm2VVINfj6JAuHeM?utm_source=generator" 
+            src="https://open.spotify.com/embed/episode/3nqJla85cCtVtgTfi8Oy9A?utm_source=generator" 
             width="100%" 
             height="152" 
             frameBorder="0" 
