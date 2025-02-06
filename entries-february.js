@@ -207,4 +207,68 @@ Ci vediamo domani, magari facciamo un nuovo pezzo di strada insieme.
 Ciao
 `
     },
+"28": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/7aJDeOrczWtwLVLArJunry?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+         "Sei gennaio duemilaventicinque,
+oggi niente numerologia,
+puntata #28
+
+
+Oggi vi porto tra circuiti neuronali, errate percezioni e qualche solita cavolata... Ma soprattutto, parliamo di esperti. O meglio... di sedicenti esperti. 
+Vi è mai capitato di sentirvi giudicati da qualcuno che si crede il guru supremo di qualcosa? 
+
+Benvenuti a **Invisibile Perso**, un diario sonoro di un quarantenne abbondante in bilico tra crisi di lavoro e figlie che crescono. Qui troverai storie quotidiane, emozioni non filtrate e quei luoghi che il tempo sta cancellando. Un viaggio nel presente di un cambiamento.
+
+Sapete, ho una confessione da farvi... Sono stato da entrambe le parti della barricata. E oggi vi racconto come è andata.
+
+Visto che in teoria non sapete chi sono, partiamo da qui: vi faccio una panoramica del mio passato nel mondo ciclistico. 
+No, non sono mai stato un professionista - intendiamoci, c'è solo un ciclismo che conta ed è quello che parte dalle squadre giovanili fino al professionismo. Tutto il resto? Un circo di amatori sovrastimati e tanto, tanto "cielolunghismo" - sapete, quella malattia che provoca tassi di autostima che manco l'inflazione argentina.
+
+La mia forza nel ciclismo? La tenacia. Duro a morire, non mollo, staccarmi da ruota è difficile. Tant'è che un mio caro amico definì il ghigno del... eh no, il mio nickname ciclistico resta un segreto!
+
+Mi innamorai delle lunghe distanze, iniziai a esplorare percorsi arginali e da lì... beh, da lì iniziai a organizzare eventi ciclistici che all'epoca quasi nessuno conosceva. Non temo smentite se vi dico che sono stato tra i primi organizzatori di eventi gravel in Italia. Ho annusato possibilità del territorio che nessuno ancora aveva intuito. Vabbè, acqua passata...con i se e con i ma si fa poca storia
+
+Ad un certo punto della vita ti senti esperto di qualcosa, detentore della sacra saggezza. E la cosa più facile da farsi e quella di giudicare i "pivelli".
+Cose successe da sempre, ma c'è una nuova variabile che ha cambiato quei rapporti non scritti tra novizie ed esperti, che ha spazzato via quel senso di rispetto per chi era già arrivato o per lo meno era più avanti.
+
+Questo è il punto interessante. Dal ciclismo ai social media il passo è più breve di quanto pensiate. Sapete perché? Perché entrambi hanno a che fare con la stessa cosa: l'ego umano. L'ego umano e quell'uso insensato dei nuovi mezzi di comunicazione, in un baleno hanno cancellato quel senso di rispetto e quella famosa gavetta che aveva un suo perchè.
+Forse, ma azzardo, quella minchiona di generazione X è stata l'ultima a provare la sana riverenza e il rispetto verso i più grandi, più istruiti, più saggi. 
+Poi tutto si è appiattito, troppo forse.
+
+Ed eccoli che arrivano quindi : fuffaguru e giovani esploratori rampanti, capaci di perdersi lungo una ciclabile e di generare negli "esperti" conati di vomito. E parte il commento classico: "Ai miei tempi saltavo i fossi par longo!"
+
+Ma fermiamoci un attimo... In un'epoca dove le nozioni sono alla portata di tutti, dove chiunque può diventare "esperto" di qualsiasi cosa in dieci minuti... non è che forse stiamo esagerando? Magari pure io in questo blaterare.
+
+Non vorrei di certo passare per quello che ha scoperto lo stress lavorativo a quasi mezzo secolo e ora fa lo sbruffone. 
+Questo podcast non sarà né il primo né l'ultimo dei diari personali, ma è il mio. 
+E sapete qual è la verità? È terapeutico. Funziona. Almeno per quel tempo che passo con le dita sulla tastiera... e forse anche un po' oltre.
+
+Lo vedete ovunque, no? Esperti del miglioramento della vita che spuntano come funghi. Tutti pronti a insegnarci a fare cose... senza realmente insegnarcele. Sparano definizioni, creano categorie così generiche che ci si ritrova per forza in una o nell'altra.
+
+E il trucco qual è? Se ti riconosci in una categoria... tada! La ricetta del miglioramento è servita! Certo, è piacevole sentirsi dire che possiamo migliorare, che è solo questione di volontà... Ma la realtà? La realtà la scopri solo quando intraprendi veri percorsi di cambiamento, con persone realmente preparate.
+
+E allora, che cosa ci portiamo a casa oggi? Se mai posso permettermi di lasciarvi un messaggio.
+Che forse, più che di guru e influencer del cambiamento, abbiamo bisogno di ascoltare storie vere. Storie che possono essere come la mia, o  come la vostra. Intendo storie di persone che stanno semplicemente cercando di capirci qualcosa.
+
+Non cercherò di darvi consigli, non è qui che si impara il cambiamento. Ma magari un pò di conforto si. Il riconoscersi in situazioni simili, una parola amica, sensazioni che possono spingerci ad approfondire... questo penso di poterlo offrire
+
+Se anche voi avete una storia simile da raccontare, fatevi sentire. Scrivetemi, raccontatemi la vostra esperienza. Perché forse il vero cambiamento inizia proprio così: condividendo le nostre storie, senza pretese di essere esperti di nulla.
+
+Questa era la puntata di oggi di Invisibile Perso. Spero ti sia rimasto qualcosa dentro. Se vuoi scrivermi, fallo scrivendomi[invisibileperso@posteo.com](mailto:invisibileperso@posteo.com) 
+Se questo viaggio ti sta piacendo... be', allora fallo conoscere a chi pensi possa averne bisogno. A volte basta un podcast per sentirsi meno soli. 
+
+A domani, gente. Sempre qui, sempre alla stessa ora, più o meno sempre... Invisibile Perso."
+
+Ciao
+`
+    },
 }; 
