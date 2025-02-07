@@ -271,4 +271,34 @@ A domani, gente. Sempre qui, sempre alla stessa ora, più o meno sempre... Invis
 Ciao
 `
     },
+"29": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/01IgGGceaWDulQuOesCcCD?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+         Sette febbraio duemilaventicinque 
+puntata #29 
+il ventinove nella smorfia napoletana è il padre dei bambini che stranezze, lo capirete dopo un luogo del cuore, forse domani.
+
+Benvenuti a **Invisibile Perso**, un diario sonoro di un quarantenne abbondante in bilico tra crisi di lavoro e figlie che crescono. Qui troverai storie quotidiane, emozioni non filtrate e quei luoghi che il tempo sta cancellando. Un viaggio nel presente di un cambiamento.
+
+Oggi niente pipponi, Il sole sta sorgendo alle mie spalle, oltre l'autostrada. Che strani punti di riferimento. Pensateci un attimo, ormai i punti di riferimento non sono più i cardini dell'orientamento, i luoghi naturali, ma cose costruite da noi come il centro commerciale, beh quello ormai è diventato la stella polare del nostro navigare. Ma anche il centro commerciale sta oramai, anche qua in provincia, sta oramai per essere soppiantato dai Mac. Sono un nuovo fungo velenoso che cresce nel sottobosco della finta ricchezza e che come uno dei suoi famosi predecessori, l'Amanita muscaria, attira per i suoi colori e talvolta per i suoi odori. Crea assembramenti di genti e regala a basso costo felicità ingannevole per i sensi. Mi ero promesso niente pipponi... vabbè Oltrepassiamo per un attimo i punti di riferimento, sapete, deformazione professionale, avendo a che fare con dati e coordinate...
+
+Il luogo del cuore è quel luogo dove ci sentiamo sicuri e non deve per forza essere un luogo reale, può essere anche una nostra fantasia, un luogo della e nella nostra mente.
+
+Oggi vi porto con me in un mio luogo del cuore. Un luogo fisico della mia infanzia che esiste ancora, spero. L'avete già scoperto in parte, quando vi parlai del tennis. La vita d'adolescente si svolgeva principalmente in un raggio di 500m da casa. Poggiolo, scale, sotto il poggiolo il garage che dava sul cortile interno, asfaltato e la stradina che portava alla scuola elementare che faceva da collettore di amicizie. Il portone del garage, basculante con il suo rumore da basculante, anche se il nostro garage aveva il suo rumore, insomma se papà tornava e apriva il garage si capiva benissimo che era il nostro e non un garage qualsiasi. Aveva frequenze precise che il cervello riconosceva come le voci dei genitori. Per arrivare al cortile interno circondato su tre lati da pareti di condominio e su tre quarti del quarto lato da una fila di garage con sopra un'enorme terrazza piastrellata con quelle piastrellette rossicce che per loro natura non riescono a stare incollate al sottofondo. Le avete presenti? Talmente sottili e a basso costo che alla prima gelata, sbam, saltavano via. C'era una scala per andare su quella terrazza e un cancello. Sempre chiuso, inagibile, territorio mai esplorato. Il terzo quarto mancante per chiudere il cortile interno era il varco d'accesso, immagino ampio, ossia all'epoca mi sembrava enorme, ci passavano contemporaneamente parecchie bici appaiate. Quel varco sulla sinistra aveva un'aiuola, un giardinetto rialzato con delle enormi piante che producevano fiori enormi, almeno così mi sembravano. A pensarci ora quel minuscolo giardino sembrava un pezzo di foresta pluviale e a perderci il pallone dentro, non era mai piacevole. Poco più indietro una buca. Non ho mai visto il vialetto senza quella buca. Era in mezzo, mica una buca causata dal passaggio, no non credo, penso una buca per sprofondamento del sottofondo. Era quasi circolare, più profonda sul lato verso il cortile e quasi invitante nel lato opposto. Era stronza perché il lato più profondo era bordato da una sponda quasi verticale. Prima della bmx bianca e celeste, Atala con le ruote a razze bianche, di plastica, il manubrio a triangolo con il salsicciotto per non sbatterci i denti, ero fiero possessore di una saltafossi, che non era proprio una saltafossi perché non aveva i mollettoni. Aveva la sella lunga, stile california, con gli steli per tenerla su che si agganciavano vicino al mozzo della ruota posteriore. Aveva le marce tipo automobile con la leva appoggiata sui due tubi che dallo sterzo scendevano verso il tubo della sella. Le ruote piccole e un manubrio ampio. Ora prendete tutto con le pinze, forse c'è molta immaginazione e qualche spunto di verità, ma andò proprio così. Le buche in fondo erano anche un banco di prova, superarle era un vanto, tanto più se su quelle buche ci si faceva qualche acrobazia. Partii deciso in direzione buca bastarda, peso tutto indietro, colpo di pedali deciso, trazione con le braccia sull'ampio manubrio, mani che scivolano sulle ruvide manopole, ruota che accenna ad alzarsi...ma sbaglio il tempo, centro in pieno con la piccola ruota anteriore la scogliera che chiudeva il margine sud della buca, la ruota si toglie e mi sfracello a terra. Ho un buco sul seguito, non ricordo gli effettivi danni, forse solo spavento. Da quel giorno non ho memoria manco della bici tipo California. Ricordo benissimo la buca, la bastarda, quella sì.
+
+Questo era uno dei miei luoghi del cuore che ricordo con affetto. Pensieri liberi che staccano per un po' dal presente per farci stare in pace ma che al tempo stesso focalizzano la mente su quel punto, liberandoci dalla frenesia del pensiero continuo.
+
+Pensate ad un vostro luogo del cuore e provate a navigarci ora, ad esplorare le sensazioni di allora per riportarle qui nel presente.
+
+A domani, gente. Sempre qui, sempre alla stessa ora, più o meno sempre... Invisibile Perso.
+`
+    },
 }; 
