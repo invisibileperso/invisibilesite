@@ -301,4 +301,124 @@ Pensate ad un vostro luogo del cuore e provate a navigarci ora, ad esplorare le 
 A domani, gente. Sempre qui, sempre alla stessa ora, più o meno sempre... Invisibile Perso.
 `
     },
+"30": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/194ZzYWBxqsmDojeAJHEmC?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+         10 febbraio 2025
+
+Settima settimana di Invisibile Perso.
+Come avrete visto, la settimana scorsa ho cambiato programmazione pubblicando le puntate dal lunedì al venerdì, lasciando libero il sabato. Poco male, avrete la compagnia di Invisibile Perso per sempre 5 giorni alla settimana.
+
+Benvenuti a **Invisibile Perso**, un diario sonoro di un quarantenne abbondante in bilico tra crisi di lavoro e figlie che crescono. Qui troverai storie quotidiane, emozioni non filtrate e quei luoghi che il tempo sta cancellando. Un viaggio nel presente di un cambiamento.
+
+Non so da dove iniziare, ho un sacco di cose che mi frullano per la zucca.
+Ma partiamo con leggerezza.
+Vi racconto del mio fantozziano inizio corso MBSR (Mindfulness-Based Stress Reduction) di sabato mattina.
+La parola d'ordine era quella di non crearsi aspettative e, a dire il vero, non mi sembrava di essermi sovraccaricato di chissà quali progetti e visioni, anche se la mia dolce metà mi assicura che non ero proprio rilassatissimo.
+
+Prendo il treno, il solito da Bologna, ma dell'ora dopo e soprattutto di sabato, giorno non lavorativo, e quasi quasi non mi sentivo a mio agio. Ho scoperto qualche volto conosciuto ma non era il mondo pendolare, era fatto da turisti occasionali, era fatto da rientri o partenze per lunghi periodi viste le enormi valigie presenti nei corridoi. 
+
+Arrivo a Padova, scendo e mi incammino lungo il Corso in cerca di un bar per un caffè. Mi dirigo verso la sede, l'ipotetica sede che dista solo pochi minuti di cammino dalla stazione. Individuo il numero civico ma mi resta ancora il caffè in sospeso. 
+
+Buon caffè in un bar sconosciuto, sono ancora in largo anticipo ma mi dirigo ugualmente verso la sede del corso. Suono il campanello e nulla. Solito dubbio sul funzionamento del citofono. Ripremo con forza più a lungo, nulla di nulla. Provo la maniglia ma ovviamente è tutto chiuso. Entrano un paio di persone, ma è evidente che non hanno niente a che fare con il mio corso.
+
+Aspetto, passano i minuti e non arriva nessuno. I dubbi iniziano a salire. Riapro la mail, rileggo la mail, leggo e rileggo ma non vi è nessun cenno alla sede. 
+Qualcosa non va di sicuro. È impossibile che sia solo io l'iscritto al corso.
+Chiamo la segreteria... e mi risponde la segreteria...
+Accidenti, che faccio!
+
+Mi salta in mente di guardare nel sito dell'associazione, spulcio e scopro che il corso in presenza si tiene vicino al Prato della Valle, praticamente dall'altra parte della città.
+Mancano 8 minuti all'inizio del corso...
+
+Torno di corsa verso il corso, dietro di me intravedo la sagoma del metrobus, entro di corsa in un tabacchino cinese che non capisce l'italiano. "Avete i biglietti per il metrobus?" Per fortuna dopo uno sguardo di incomprensione, una collega del tabaccaio mi dice di sì. Mi dà il biglietto, le do 5 euro, tira fuori la calcolatrice - muoviti! - mi dà il resto, esco di corsa con il metrobus che corre a qualche decina di metri dai miei talloni. Corro fino alla fermata, mi volto, si aprono le porte e salgo. Come un qualsiasi turista con il telefono in mano, Google Maps attivato, cerco di capire quale sia la fermata che mi porta più vicino alla sede del corso. Scendo, corro, suono il campanello, tolgo le scarpe, il giubbotto, mi siedo e benvenuto al corso.
+
+Il resto magari ve lo racconto più avanti ma vi dico solamente che ho scoperto gentilezza e persone che soffrono.
+
+Nella puntata di venerdì avevo accennato al padre con i figli.
+Ok, magari voi non siete tutti genitori e quindi il luogo dove vi porterò ora non lo conoscete, ma rimanete a bordo, penso ne valga la pena.
+Cosa capita normalmente in questo periodo? Ovvio, influenze, tossi etc.
+
+In una settimana sono stato per due volte dal pediatra. Nulla di che, ma quelle visite necessarie per capire come curare la tossaccia. 
+Ovviamente non si riesce a prenotare e quindi? Quindi si va dalle 12:30 in poi nell'orario libero e chi prima arriva meglio alloggia. 
+
+Sala d'attesa strapiena e qui viene il bello. Diciamo che ho una certa esperienza, la mia dolce metà forse qualcosa in più, ma almeno per il numero di anni sul groppone, come padre che va ancora dal pediatra, posso ritenermi tra i matusa e fa strano vedere i giovani genitori perché si vedono tutte le generazioni in mezzo. 
+
+C'è la mamma sempre tirata, magari appena uscita dall'ufficio, generalmente telefono in mano, figlia fotocopia, stesse sciccherie ai piedi, stesso taglio fashion. Poi i nonni, pochi fronzoli, spesso annoiati e stanchi, generalmente con i nipoti grandicelli, poi le coppie sempre insieme anche per un raffreddore, e poi quelle che ammiro, le mamme sfatte.
+
+Stanche, le vedi che non ne possono più e che vorrebbero una settimana fuori dal mondo, il piccolo in braccio, magari un secondo figlio appresso perché non saprebbero a chi affidarlo. Non sono appena uscite dall'ufficio, probabilmente sono a casa per curare il figlio da giorni, sono così e se ne fregano dell'aspetto. Amano i loro figli, anche se ogni tanto sale quel aaaaarrrrr.
+
+Era un po' così anche la mamma di giovedì, il piccolo in braccio, ammalato, con il dito in bocca mentre con le dita dell'altra mano attorcigliava i capelli della mamma. Sulla sedia in fianco il figlio più grande, sano. Sicuramente userò termini sbagliati, non me ne vogliate, ma il bimbo sano aveva sicuramente problemi nel parlare e il suo viso lo raccontava. La mamma lo guardava con amore incondizionato, lo capiva di certo e io lì con la mia nana in braccio ho pensato che a volte abbiamo troppo, che siamo viziati, che veramente non apprezziamo quello che abbiamo. Pure io che per mandare a farsi benedire un lavoro che non sopporto, mi fingo scrittore, mi invento un podcast, mi carico di problematiche che agli occhi di molti, giustamente, potrebbero sembrare cavolate assurde. Ma questo è successo giovedì.
+
+Sabato mattina invece, mi sono reso conto che non è proprio così, sì sono qui fortunatamente seduto ad una scrivania con un pc sotto le dita, ma in questo periodo siamo in tanti ad avere qualcosa che non va dentro, può essere semplicemente qualcosa che non ci fa apprezzare l'apprezzabile, ma c'è ed è giusto riconoscerlo e magari trovare il modo per rimetterlo al proprio posto.
+
+Questa era la puntata trenta di Invisibile Perso. Spero ti sia rimasto qualcosa dentro. Se vuoi scrivermi, fallo scrivendomi [invisibileperso@posteo.com](mailto:invisibileperso@posteo.com). Se questo viaggio ti sta piacendo... be', allora fallo conoscere a chi pensi possa averne bisogno. A volte basta un podcast per sentirsi meno soli.
+
+A domani, gente. Sempre qui, sempre alla stessa ora, più o meno sempre... Invisibile Perso.
+`
+    },
+"31": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/01IgGGceaWDulQuOesCcCD?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+         Undici febbraio duemilaventicinque
+Puntata #31
+
+Questa volta vi va bene, in apparenza non vi sono grandi cose da dire sul 31, manco sportivi famosi, non vi resta che ascoltare la nuova puntata tra contatori intoccabili e istanti che se ne vanno.
+
+Benvenuti a **Invisibile Perso**, un diario sonoro di un quarantenne abbondante in bilico tra crisi di lavoro e figlie che crescono. Qui troverai storie quotidiane, emozioni non filtrate e quei luoghi che il tempo sta cancellando. Un viaggio nel presente di un cambiamento.
+
+Vi ricordo che Invisibile Perso è un podcast totalmente indipendente, scritto e prodotto dal sottoscritto e che l'unico modo per farlo crescere è grazie alla vostra condivisione.
+Grazie!
+
+Devo tenere la barra dritta, si dice così no? 
+Insomma devo tenere il timone bello saldo, non devo farmi fregare dalle sirene che in realtà voglio in qualche modo combattere.  Si lo so sono un pò Don Chisciotte contro i mulini a vento. Per fare questo però, dovete aiutarmi!
+Le sirene maligne sono lì che continuano a chiamarmi verso una deriva irreale, mentre no, cacchio no, sono partito con l'intento di scrivere in primo luogo per me e devo rimanere in questo solco, il solco dell'autenticità.
+
+Tutte queste frasi criptiche per dire cosa? Beh niente di ecclatante, ma guardando un po' i podcast esistenti, beh "esistenti" è una parola grossa, meglio dire i podcast in classifica, è pieno zeppo di "istruzioni per una navigazione migliore"... mindfulness, meditazione de 'sti... E io qua nel mio piccolo che me la canto e me la suono. Guardate che è tremenda 'sta cosa, l'avevo già detto che tutto è fatto, cioè fanno di tutto per catturarti per metterti in modalità venditore, per farti cadere nella trappola, ma resisto! Fanc... Beh almeno per ora... hehehe
+
+A parte gli scherzi, sto pensando a una piccola campagna pubblicitaria come si faceva nell'era pre-social. Stickers da lasciare in libreria, bar ecc... una crescita local a chilometro zero, un podcast sostenibile che evita spargimenti di CO₂... 
+Minchia, spumeggiante oggi.
+Sarà che sto scrivendo queste righe dopo una meditazione bella lunga dove ho fatto una fatica bestia e forse ora i neuroni si stanno sbracando, lasciandosi andare alla deriva.
+
+Beh, ieri mattina scene dai bei anni passati, che forse non sono proprio così passati.
+Non è che vi dico dove cacchio è il mio ufficio ma sappiate che è dentro a un palazzo del mistero con una sillaba in più. Dovete sapere che è un mondo a sè, gli orologi sono indietro di un decennio su per giù, e ovviamente tutto procede con calma. Fatto sta che da venerdì pomeriggio nessuno si era ancora preso la briga di alzare i salvavita in un quadro elettrico per ridare energia ai preziosi PC. E quindi? Beh, la tipica scena dove tutti starnazzano, dove tutti imprecano, chi se ne stralava le mani, chi fa finta di occuparsene senza muovere un dito. Finché arriva il responsabile con il prezioso mazzo di chiavi e si scopre che in realtà bastava aprire la finestrella del quadro elettrico perché era già aperta. Ora prendete tutto con le pinze, potrebbe esserci un po' di romanzo in tutto questo e non è certo mia intenzione farvi intendere che l'apparato statale e o parastatale non sia efficiente. Lungi da me!
+
+Ok dai, torno serio per un attimo.
+Oggi penso che la puntata sarà un po' più corta (non sarà così). In realtà le ultime sforavano di brutto le mie originali intenzioni. Vabbè, quante parole inutili, girandole su me stesso per dirvi cosa, visto che ho premesso di voler tornare serio.
+Ok ci sono.
+Se vi dico "adesso", cosa vi passa per la mente?
+Se vi dicessi anche "ora", o "in questo istante".
+Sono tre modi di identificare un tempo presente che hanno in loro sfumature che ne declinano significati in archi di tempo differenti. 
+L'adesso è qualcosa di non istantaneo, un momento che si estende che si pone nella consapevolezza del presente. Adesso sei vivo, mentre ora, ora generalmente fai, ora è legato all'esecuzione, all'azione, sembra quasi un pezzetto di tempo tangibile, sembra quasi che l'ora si possa cogliere, che sia più facile non sprecarlo.
+Infine l'istante è una frazione, infinitesimo arco temporale. L'attimo senza vita apparente, talmente breve che non può esserci un passato e un futuro nell'istante.
+L'istante è quel lampo che hai visto e che non sei riuscito a fermare con la macchina fotografica, o quella scia della stella cadente che non sei riuscito a catturare. E' sfuggente ma pieno di vita vera, non quella che ci raccontiamo, o quella che continuiamo a pianificare.
+
+E generalmente ce li perdiamo quei cacchio di istanti perchè continuiamo a rimuginare su quelli appena passati o a pensarci in quelli che verranno, ma ogni tanto cacchiarola li becco, sto imparando ad acchiapparli e a dire il vero non è manco giusto acchiapparli ma starci dentro.
+
+Vivere nel presente è un'utopia, sfido chiunque, pure quelli con le istruzioni facili, ma provarci ogni tanto è fattibile, metterci l'intenzione è il minimo che possiamo fare. 
+
+E allora prendi l'unità di misura che vuoi, ma pensa a come lo stai vivendo. Fermati veramente un istante, ora e adesso prova a dirti come lo stai vivendo.
+Vi assicuro che non è fuffa, fermarsi, magari sdraiati, indifesi con gli occhi chiusi, e provare a vivere istante per istante. O anche lì dove sei ora, fermati un istante e pensa a come l'hai vissuto, guardati attorno, scoprirai sicuramente dettagli nuovi. 
+Di sicuro quell'istante non tornerà indietro, spero che tu non l'abbia sprecato ma che almeno tu abbia provato a starci dentro.
+
+Questa era la puntata trentuno di Invisibile Perso. Spero ti sia rimasto qualcosa dentro. Se vuoi scrivermi, fallo all'indirizzo invisibileperso@posteo.com. Se questo viaggio ti sta piacendo... beh, allora fallo conoscere a chi pensi possa averne bisogno. A volte basta un podcast per sentirsi meno soli.
+
+A domani, gente. Sempre qui, sempre alla stessa ora, più o meno sempre... Invisibile Perso.
+`
+    },
 }; 
