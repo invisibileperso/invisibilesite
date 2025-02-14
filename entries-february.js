@@ -421,4 +421,245 @@ Questa era la puntata trentuno di Invisibile Perso. Spero ti sia rimasto qualcos
 A domani, gente. Sempre qui, sempre alla stessa ora, più o meno sempre... Invisibile Perso.
 `
     },
+"32": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/1hPTZTeBvZqQjcVQQFkq7n?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+         #32
+Ieri ho camminato ricurvo, con la testa china.
+Guardavo avanti ma non troppo, tra i piedi e qualche metro più in là. 
+Del percorso non mi son curato, i miei piedi andavano sicuri controvoglia nella direzione programmata. Lentamente, quasi con un senso di sommersa ribellione. 
+Sbuffi controvoglia non ascoltati dal senso del dovere che imponeva la rotta.
+Sembravo l'uomo di Jack London, un essere senza immagine.
+
+Nel mio andare a lavorare l'atto del camminare è sempre stato parte integrante. 
+Spesso una parentesi di libertà tra un orario lavorativo e un orario da rispettare per tornare. Spesso una libertà costretta, affrettata, ansimante, vogliosa di tornare.
+Ieri non c'era nulla di questo, non vi era libertà nel procedere passo dopo passo, non vi era un cammino d'esplorazione, una ricerca spirituale, un mezzo per liberarsi dalle costrizioni sociali e abbracciare la natura come potrebbe pensare Thoreau, ma costrizione e pesantezza. 
+
+L'incedere lento, quasi meditativo, l'intento di rimanere su quei passi nonostante la mente navigasse tra pensieri anche loro privi di quella freschezza e quella libertà che l'avanzare con le proprie gambe dovrebbe generare.
+È troppo tempo che il camminare non lo associo alla libertà dell'esplorazione, forse dovrei ricollegare le due cose. Di certo questa congiunzione non è avvenuta ieri.
+
+A pensarci bene, quale libertà potrebbe essere privata a un uomo che cammina libero? Quale motivo potrebbe spingerlo a impedire una svolta? Basterebbe una volta, un giro su se stesso, un cambiare orizzonte rimanendo sullo stesso piano senza fermare il movimento avanzante. 
+Quello che era un procedere forzato si trasformerebbe immediatamente in andare verso, non un tornare, ma un andare altrove. 
+
+Invece no, costrizioni, pesi sociali, responsabilità, vincoli ci obbligano a stare su solchi prestabiliti. Quello che ieri era il solco delle cazzate, oggi si trasforma nel solco approfondito dal ripassare di uomini semi-liberi obbligati ad accontentarsi, a cercare il bello tra nere reti dalle maglie sempre più fitte. Accontentati, questa è la parola d'ordine. In un mondo così, accontentati.
+
+E mentre cammino ricurvo cercando di stordirmi con una musica che mi liberi da questa pesantezza, penso a quel popolo in cammino per tornare verso nord in cerca di resti di vita. 
+Siamo orribili, sì, siamo tutti orribilmente indifferenti, maledettamente indifferenti. Un popolo cammina ricurvo, oppresso da volontà non sue, distrutto in tutto e noi al massimo cambiamo canale. Immagini terribili nel loro significato di un esodo. Cazzo, non è intelligenza artificiale, non è un video fake per quei social che ci governano. 
+
+No, lì ci sono vite che vogliono rivivere, riappropriarsi di una loro identità, vite che non hanno più nulla, neanche un briciolo di terra per rigermogliare. 
+Vite che migrano, vite costrette, vite in balia di trattati, di accordi tra genti ignobili.
+Vite piccole, magari già disperate, vite vecchie annientate nella loro memoria. 
+Che disperazione.
+
+E io qui, appesantito, ricurvo sotto il peso dei miei pensieri che cerco di ritrovare frammenti di me e di noi in questo cammino che non osservo. 
+
+Oliviero Toscani in una delle sue ultime interviste affermò che non avrebbe voluto niente in più di quello che già aveva, il suo bisogno principale era quello di non aver bisogno.
+Vorrei pure io non dover aver bisogno di questo cammino perché è un cammino sterile, apatico, oppressivo che non porta da nessuna parte. Un cammino che non genera pensieri, Nietzsche si troverebbe in difficoltà ad essere in mia compagnia. E pure il già citato Thoreau potrebbe rifiutare il mio cammino. Ammorbidito e ammansito dagli schemi sociali non sono di certo un aiuto nel suo camminare come emancipazione sociale, così come lo riproponeva il mio ammirato Sylvain Tesson, secondo cui il camminare diventa un atto di resistenza contro quella che lui chiama "la dittatura della velocità moderna". Ecco, che delusione che sarei per Tesson, il mio camminare lento non è quello che lui definisce un atto politico in un mondo ossessionato dalla velocità. La mia fatica mentale di certo non serve a nulla visto che fisicamente non provo alcuna emozione.
+
+Il camminare come ribellione, il camminare per riprendersi una vita.
+Ci proverò passo dopo passo alleggerendo lo zaino.
+
+Oggi è andata così, niente fronzoli.
+A domani,
+Ciao 
+Invisibile Perso
+`
+    },
+"33": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/6n7GHPuaiIrDEAsXrn3EAT?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+         Tredici febbraio duemilaventicinque
+puntata #33
+vabbè qui il numero è facile no, per la nostra cultura l'associazione è banale.
+Oggi vi porterò a spasso lasciando aperta la porta della fantasia e dei ricordi per collegare i pensieri, un pò come in quel gioco dove devi dire una parola che inizi con la sillaba finale della parola appena detta, un pò come l'associazione banale con il numero 33...
+
+Benvenuti a _InvisibilePerso_, un podcast indipendente fatto di storie, emozioni e luoghi che ci accompagnano nella quotidianità. Qui esploriamo il lato nascosto delle cose, andiamo a fondo in una profonda crisi lavorativa e osserviamo quei dettagli che sfuggono ma che danno senso ai cambiamenti e alla vita di ogni giorno. 
+
+Trentatrè è.... Larry Bird!
+Dai non ditemi che non vi era venuto in mente Larry.
+Cacchio, il 33 dei Celtics.
+Prima tutte le sfide con the Magic, Magic Johnson e i suoi Lakers commentate da Dan Peterson, hei mamma butta la pasta!
+Per finire poi contro quell'altro vestito di rosso con una decina in meno sulla maglia.
+Si ritrovarono tutti in squadra in quella cosa sovrannaturale del Dream Team che partecipò per la prima volta alle Olimpiadi del '92 a Barcellona. Con loro c'era anche Scottie Pippen, Patrick Ewing e altri campioni leggendari.
+Che ricordi!
+Che poi in quelle Olimpiadi cosa successe di clamoroso?
+Erano anni magri per il medagliere italiano, ricordo un epico torneo di pallanuoto nella piscina all'aperto nel parco del Montjuïc con la vittoria sulla Spagna nella sue acque. 
+Ma c'è una medaglia che quest'anno verrà ricordata più di altre. 
+Un ventiduenne comasco vinse l'oro nel ciclismo su strada. Era Fabio Casartelli.
+
+Purtroppo verrà ricordato perché sono trent'anni che ci ha lasciato. Quel pomeriggio ero ovviamente lì che guardavo, come sempre luglio, come sempre caldo e strade francesi che si scioglievano sotto la canicule. Erano partiti da poco, stavano affrontando la discesa del Portet d'Aspet, uno di quei valichi in mezzo ai Pirenei. Quei paracarri fatti da blocchi di cemento erano come sempre lì a bordare quelle discese pirenaiche. Una caduta e Casartelli sbatte violentemente la testa su uno di quei blocchi. All'epoca non c'erano caschi, non c'era nulla di nulla. Ricordo quella sua posizione fetale e quei rigoli rossi che solcavano quel maledetto tornante.
+Ricordo benissimo che mi alzai, dissi fanculo, i giornalisti tentennavano non avendo notizie certe, ma cazzo, era evidente che non ci sarebbe stato nulla da fare.
+Oggi c'è una stele in sua memoria e un figlio che non ha mai conosciuto il padre.
+
+Oggi, sarò in uscita, un giorno fuori dall'ufficio, dovrei fare i salti di gioia, no?
+E invece mica tanti salti di gioia. 
+"Si ma non ti va mai bene niente!"
+Cacchio, hai anche ragione, ma ora te lo spiego con parole semplici. 
+Hai presente che ci sono quelli ai quali non piace il formaggio?
+Ecco sì, no.
+Bene, normalmente il formaggio più odiato è il grana, parmigiano, fai te.
+"E perché?"
+Perché ha un odore insopportabile e perché, probabilmente, da piccoli sono stati bullizzati dalle signore della mensa che spolveravano a volontà quella neve odiosa su qualsiasi pietanza.
+Ecco, prova a immedesimarti in uno di questi pazzi che odiano il formaggio.
+"Ok dai ci provo."
+Questa è la scena: sei seduto nella tua trattoria/pizzeria preferita, arriva il piatto che desideri più di ogni altra cosa, con le papille gustative a bomba e mentre stai per prendere le posate in mano, passa un simpatico cameriere che con quelle formaggere del cazzo scatena una bufera di formaggio grattugiato sopra il tuo piatto preferito. 
+In un istante, mentre imprechi collegando le figure divine sulla sinistra con gli animali sulla destra, il tuo piatto preferito diventa una merda. 
+"Porca vacca hai ragione, che schifo!"
+Ecco, vedi, poi ci provi, tappandoti il naso a togliere quelle odiose scaglie puzzolenti, ma poi ti arrendi e mandi a quel paese trattoria e cameriere!
+"Mi sono spiegato?"
+"Sì, capito, ti capisco."
+"Grazie."
+Quindi oggi esco, faccio volare il drone, faccio due foto, un paio di video e buona notte al secchio.
+
+Mentre camminavo ricurvo mi dicevo una cosa per cercare di allungare lo sguardo oltre quel paio di metri: ma cosa vorresti fare, cosa ti piacerebbe fare?
+
+[Audio bimbe]
+
+Senza vincoli, senza ostacoli, cosa vi piacerebbe fare? Se poteste scegliere qualsiasi cosa, cosa fareste?
+Beh io questo, farei questo.
+Mi iscriverei a qualsiasi corso per imparare a scrivere, per migliorare, mi prenderei tutto il tempo possibile per leggere e per studiare.
+Mi prenderei pomeriggi interi per disegnare, sì anche questa ve la spiegherò un giorno, e magari per finire quei corsi online che ho in sospeso.
+Partirei a piedi o in bici da casa per un giro senza meta.
+Mi prenderei giornate intere per sollevare da qualsiasi incombenza l'altra metà.
+Ora come ora non mi interessa viaggiare più di quello che la bici e i piedi mi consentono. Sento di dover riordinare le cose in un perimetro abbastanza ristretto, prima di potermi concedere il lusso di allargarlo.
+Questo mi piacerebbe fare.
+È un semplice gioco di fantasia, ma alla fine ci si sente meglio. No?
+
+Questa era la puntata trentatré di Invisibile Perso. Spero ti sia rimasto qualcosa dentro. Se vuoi scrivermi, fallo all'indirizzo invisibileperso@posteo.com. Se questo viaggio ti sta piacendo... beh, allora fallo conoscere a chi pensi possa averne bisogno. A volte basta un podcast per sentirsi meno soli.
+
+A domani, gente. Sempre qui, sempre alla stessa ora, più o meno sempre... Invisibile Perso.
+
+Ciao
+`
+    },
+"34": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/2UKxdYydDfnm5ZhrVQmHuC?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+         Quattordici febbraio 2025
+puntata #34
+e con questa finisce anche la settima settimana, pazzesco.
+Sta' cosa mi sorprende sempre di più
+e ieri sera ho portato un po' di stickers di Invisibile Perso in libreria, chissà.
+
+Benvenuti a "Invisibile Perso", un podcast indipendente che vi accompagnerà in un viaggio attraverso il tempo e lo spazio. 
+Non è un semplice diario, ma un'esplorazione profonda di ciò che non si vede ma esiste e di ciò che si sente ma non si tocca. 
+Un percorso di ricerca di quell'invisibile che abbiamo perso, o forse, che non abbiamo mai saputo di avere.
+
+È un pezzo che non uso questo stratagemma, cioè quello di definire la giornata in poche parole utilizzando emozioni provate.
+Ci provo: scampoli di serenità e brandelli di frustrazione.
+Ok seguitemi, cercherò di esplicitare quanto suddetto, tutto attaccato con due D.
+
+Partiamo dai brandelli di Frustrazione.
+Siamo fatti proprio male, cioè non è che siamo fatti male, è che siamo profondamente masochisti, ci piace farci del male e poi siamo talmente abili che ci prendiamo in giro da soli senza rendercene conto per trovare soluzioni inutili.
+La prendo alla larga raccontandovi brevemente la storia di uno scampolo di territorio.
+In principio era acqua, poi iniziarono a sbadilare fango per renderla edificabile, poi ci fu un evento catastrofico e cosa succede generalmente dopo gli eventi catastrofici? Nuova legge, tutti fermi. Così quelle sbadilate di fango iniziarono a indurirsi e formare delle specie di isolotti.
+Terre abbandonate, che dovevano essere capannonizzate ma che per fortuna loro rimasero a cielo aperto. 
+Aree selvagge, buone per cacciatori disobbedienti.
+Poi arrivò una piante nemica, invasiva capace di soffocare tutto il resto, cioè arrivò...nel senso c'è qualcuno la portò e poi lei fece il resto.
+Ora l'homo sapiens sapiens che fa?
+Individua quelle sbadilate di fango, dimenticate per decenni, e s'accorge che quella pianta invasiva ha incredibilmente invaso buona parte di quelle sbadilate. 
+Eeee no no non va mica bene così!
+Bisogna ripristinare l'habitat naturale! 
+Naturale?
+Mo' aspetta, naturale per chi? e dopo quanto possiamo dire che delle sbadilate di fanghiglia destinate a quell'altra specie invasiva Capannonensis diventa naturale, da preservare, addirittura da ripristinare?
+Daiii non fare il solito
+Sono azioni necessarie, che chiede l'europa! Dobbiamo conservare questo terra cacchio!
+Dobbiamo conservare? A favore di chi? Un'area dimenticata da Dio dove la natura sta facendo il suo corso, o forse non ti piace quel corso che sta facendo? Forse tu sapiens sapiens ritieni più utile un altro corso? Quello più figo ai tuoi occhi, con gli uccellini svolazzanti e le caprette pascolanti? 
+O aspetta...non è che ci sono soldi da buttarci sopra a quelle sbadilate di fango?
+Aaaa ecco, poi magari ci piantate qualche cartello giusto? 
+Ma scusami, non è per fare il disfattista, mo' ti dico una cosa. Qua vicino a casetta mia c'è un orrore ambientale che occupa parte di un territorio all'interno di un parco. Quell'orrore perché non viene demolito e lì si è fatto un ripristino ambientale? Dici che è più complicato vero? La specie invasiva è un po' più facile da estirpare giusto? E pure il cartello è più facile da piantare vero?
+E senti un po', se quelle centinaia di migliaia di euro spesi per estirpare, venissero impiegati per seminare cultura dell'ambiente? A giusto, ma poi ci mettete il cartello...
+
+Scusate per il pippone, ma dopo anni dove il mio antagonista lotta contro storture tra politica e farsa, bè insomma, oramai due parole per identificare la stessa cosa, ogni tanto sbotto e accattateville!
+
+Nonostante ciò la lunga passeggiata infestante ha fatto qualcosa, mi ha rilassato un peletto, un pochetto lo ammetto. Quel riconnettersi con la natura serve veramente. Ma come siamo presi male però. Ci siamo veramente complicati la vita, un po' come con le specie infestanti.
+Se di là è nato tutto quello che gira attorno al paesaggio, al ripristino ambientale, di qua è nata la ecopsicologia. 
+Insomma recenti studi hanno confermato l'esistenza di una rapporto tra natura e benessere psicofisico e tutto ciò è appunto studiato dall'ecopsicologia e dalle neuroscienze.
+
+Sapete cosa mi dà fastidio di questo periodo storico, mi danno fastidio tante cose, ovvio, brontolone come sono, ma da uomo di scienza, ecco questo sì cambierei forse nella mia vita, non sopporto quando si leggono cose tipo: "ma solo negli ultimi decenni la ricerca scientifica ha iniziato a documentare sistematicamente gli effetti benefici dell'esposizione alla natura sulla salute mentale e fisica." La supremazia scientifica, se lo dice la scienza allora esiste. Da uomo di scienza Fottiti! 
+Ma torniamo all'ecopsicologia e alle neuroscienze.
+Le neuroscienze hanno acclarato attraverso studi condotti utilizzando la risonanza magnetica funzionale (fMRI) che anche una breve esposizione a scenari naturali attiva aree cerebrali associate al rilassamento e alla regolazione emotiva, in particolare:
+
+- La corteccia prefrontale mostra una ridotta attivazione nelle aree associate allo stress
+- L'amigdala, centro delle emozioni, presenta una diminuzione dell'attività legata all'ansia
+- Si registra un aumento dell'attività nelle aree cerebrali legate al benessere e alla calma
+
+In tutto ciò si inserisce il "Forest Bathing" 
+Forest Bathing che? 
+Cioè dovrei farmi il bidet nel bosco?
+Ma noooo è l'immersione nel bosco!!! Daiii cacchio
+Anche questo è scientificamente provato, quindi potete farlo senza timore, sappiatelo!
+Se andate nel bosco potreste incorrere in una:
+
+- Riduzione significativa dei livelli di cortisolo, l'ormone dello stress
+- Diminuzione della pressione sanguigna e della frequenza cardiaca
+- Potenziamento del sistema immunitario attraverso l'aumento delle cellule NK (Natural Killer)
+- Miglioramento della qualità del sonno
+
+Volete che vi dica cosa ne pensa l'ecopsicologia?
+Pensate un po', propongono una visione integrata psiche-natura e già questo ha del rivoluzionario e a detta degli ecopsicologi, il nostro distacco dalla natura provocherebbe il disagio psicologico che ci colpisce (in effetti è qualche mese che non taglio l'erba del prato).
+Occhio alla prossima affermazione:
+L'ecopsicologia sostiene che il benessere umano e quello dell'ecosistema siano interdipendenti. 
+Ma guarda un po', quindi non più una visione antropocentrica, ma quasi quasi che dovremmo metterci sullo stesso piano nel complesso ecosistema?
+Porca trotaccia vacca, spiazzante!
+Sentite un po' che paroloni ora che ci propongono per sederci con il culetto magari in un campo bagnato dalla rugiada a vedere l'alba, occhio:
+- Wilderness therapy: esperienze immersive in natura
+- Mindfulness outdoor: pratiche meditative in ambiente naturale
+- Ecoterapia: sessioni terapeutiche condotte all'aperto
+- Green exercise: attività fisica in contesti naturali
+
+Occhio che ne arrivano altre:
+
+Attenzione Rigenerativa
+La teoria dell'attenzione rigenerativa (ART) di Kaplan suggerisce che gli ambienti naturali permettono il recupero delle risorse attentive attraverso una forma di attenzione spontanea e non faticosa, contrapposta all'attenzione diretta richiesta negli ambienti urbani.
+
+Biofilia e Connessione Evolutiva
+La teoria della biofilia proposta da E.O. Wilson sostiene che gli esseri umani abbiano una predisposizione innata a rispondere positivamente agli ambienti naturali, frutto della nostra storia evolutiva.
+
+Vi rendete conto? Vi rendete conto che quel mio nonno che camminava a piedi nudi lungo el careson era docente di ecopsicologia!!! E mo'? Mò vai ai corsi, studi, diventi teorico dei benefici della natura sull'essere umana... Ma vattene a ...
+Mò i politici, gli urbanisti, gli architetti si intrippano di queste cose per costruire una società migliore. Ma zio treno, dov'è stato l'errore? Dove e quando abbiamo troncato il fusto che ci collegava alle radici? 
+Mal messi siamo!
+
+Chiudo in bellezza
+Cuoricini, cuoricini
+Pensavi solo ai cuoricini, cuoricini
+Stramaledetti cuoricini, cuoricini
+
+E con questo, chiudo il capitolo San Valentino e San Remo!
+Ah no, nota a margine..
+Di che anno sono Brunori Sas e Cristicchi?... hehe Generazione X
+Variabili di peso.
+
+Questa era la puntata trentaquattro di Invisibile Perso. Spero ti sia rimasto qualcosa dentro. Se vuoi scrivermi, fallo all'indirizzo invisibileperso@posteo.com. Se questo viaggio ti sta piacendo... beh, allora fallo conoscere a chi pensi possa averne bisogno. A volte basta un podcast per sentirsi meno soli.
+
+Alla prossima settimana, gente. 
+Ci ritroviamo Lunedì sempre qui, sempre alla stessa ora, più o meno sempre... Invisibile Perso.
+
+Ciao
+`
+    },
 }; 
