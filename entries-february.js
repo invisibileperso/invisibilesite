@@ -784,4 +784,73 @@ Ci ritroviamo sempre qui, sempre alla stessa ora, più o meno sempre… _Invisib
 Ciao.
 `
     },
+"37": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/6HqowHBLKxkdhcOUssM1Hx?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+         **Diciotto febbraio duemilaventicinque**
+#36
+Ciao, bentornati.  
+Riduciamo ancora di più i fronzoli, in barba alle leggi comunicative.
+
+Acoustic blues partito in sottofondo e io nuovamente qui con la tastiera sotto le dita, alla fine di questo lunedì iniziato con la richiesta di un caffè d’aiuto.  
+Sapete quelle mattine in cui pensate che sarà un successo arrivare a sera? E mentre lo pensate, vi arriva un messaggio da parte di una persona presa peggio di voi.  
+Che fare in quel caso? Buttare il carico e affossare la situazione o cercare di vedere il bicchiere mezzo pieno e magari farlo vedere anche alla persona in difficoltà?  
+Tiro la monetina eeee… No dai, sono andato deciso sul bicchiere mezzo pieno!
+
+Sto acoustic blues fa proprio c...  
+Fireside acoustic… proviamo.
+
+Beh, come va con il lavoro?  
+Che vi posso dire… quando mi faccio questa domanda, o quando me la sento…  
+Fireside, pessimo… another change.  
+Ultimo album dei Lumineers.
+
+Insomma, quando me la sento dire, beh, mi trasformo in un adolescente appena uscito da scuola con il papà pronto a chiedere: “Com’è andata? Verifiche? Voti?”  
+La risposta la sapete tutti, perché in un ruolo o nell’altro vi siete per forza trovati nella vostra vita.
+
+E così mi ritrovo, dopo un mese e mezzo dall’inizio di questa avventura terapeutica, a non riuscire a formulare e disegnare un quadro definito della situazione lavorativa che mi ha portato qui. Scappare dalle sponde scivolose di un pozzo senza fondo che mi stava inghiottendo.  
+Va meglio?  
+Non so. Mi sforzo di vedere delle migliorie, ma le cerco tenendo gli occhi semiaperti, per schivare facilmente le cose che non voglio vedere.
+
+La cosa che più mi mette in crisi è la mia proiezione da qui a dieci, quindici anni, quando la data di nascita si farà veramente lontana dalla futura attualità. Non riesco a vedermi a dipendere da un qualsiasi, non ci riesco proprio, e questo rode, come un’onda che continua a spazzare la costa e a portar con sé granelli di sabbia.
+
+Questo podcast… benedetto il giorno che ho deciso di farlo. E non lo dico per la gloria che mi sta portando – che, a pensarci bene, manco un’amica Gloria c’ho – ma perché mi sta generando sanità mentale. Mi sta occupando nel senso di liberare spazio nella RAM, di dissipare calore del processore. Ma da qui alla svolta… eh cari miei, difficile sarà.
+
+E questo podcast?  
+Questo podcast, per ora, rimane così com’è.  
+Mi sono già accorto di come cambia: scrivere intimamente per me, scrivere per il mio ego o scrivere per chissà quale ascoltatore o lettore.  
+Vi assicuro che mettersi ogni giorno qui e mettere in fila i pensieri mi fa sentire un po’ Jack London, che scriveva almeno mille parole al giorno, o Stephen King, che ancora oggi si siede quotidianamente alla sua scrivania per macchiare con l’inchiostro fogli bianchi.  
+Vabbè, ne ho citati due proprio piccoli e insignificanti, ma se uno deve mirare a qualcuno, almeno che punti in alto, no?
+
+Penso che prima o poi cercherò di valorizzare in qualche modo tanto sforzo, sempre che abbia un senso e un valore. Altrimenti mi darò una pacca sulla spalla e mi dirò: bravo vecchio.
+
+Parallelamente, un progetto sul lungo periodo, pieno di incognite, che ho appena iniziato. E, come chi – scottato da cotte brucianti – inizia un nuovo rapporto andando con i piedi di piombo, così io mi sto muovendo con cautela per cercare di capire se quella è proprio la traccia giusta.
+
+Questo inizio sta già facendo molto. Mi sento meglio nel mio io, ma torno facilmente nella mia regione conflittuale se metto sullo stesso piano l’essere consapevole e la voglia di cambiamento.  
+Le vedo ancora come entità antagoniste: una volta all’accettare passivamente (so che sbaglio), l’altra alla foga del cambiamento, talvolta istintivamente errata.
+
+Ci sono altri piccoli progetti satelliti che, cavolo, non sempre ho le energie per spingerli a volare. Ci vuole inerzia, e spesso ho bisogno io stesso di una spinta esterna per avanzare, che pensare ad altro proprio non mi viene facile.  
+Sto imparando – e questo mi inebria di gioia – a gestire i picchi che prima mi prosciugavano le energie: picchi tra furori energetici, quando mi innamoro di un futuro più o meno utopistico, e stasi totali, passivamente desolanti, sulla poltrona dell’ufficio.
+
+Ecco, ora riesco a livellare un po’ le situazioni con maggiore distacco, con maggiore spazio al mio interno. Consapevolezza.
+
+Questa era la puntata 36 di _Invisibile Perso_.  
+Spero ti sia rimasto qualcosa dentro.  
+Se vuoi scrivermi, fallo all’indirizzo **invisibileperso@posteo.com**.  
+Se questo viaggio ti sta piacendo… beh, allora fallo conoscere a chi pensi possa averne bisogno. A volte basta un podcast per sentirsi meno soli.
+
+A domani.  
+Ci ritroviamo sempre qui, sempre alla stessa ora, più o meno sempre… _Invisibile Perso_.
+
+Ciao.
+`
+    },
 }; 
