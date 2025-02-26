@@ -795,55 +795,51 @@ Ciao.
             loading="lazy">
         </iframe>`,
         content: `
-         **Diciotto febbraio duemilaventicinque**
-#36
-Ciao, bentornati.  
-Riduciamo ancora di più i fronzoli, in barba alle leggi comunicative.
+ Diciannove febbraio duemilaventicinque
+#37
 
-Acoustic blues partito in sottofondo e io nuovamente qui con la tastiera sotto le dita, alla fine di questo lunedì iniziato con la richiesta di un caffè d’aiuto.  
-Sapete quelle mattine in cui pensate che sarà un successo arrivare a sera? E mentre lo pensate, vi arriva un messaggio da parte di una persona presa peggio di voi.  
-Che fare in quel caso? Buttare il carico e affossare la situazione o cercare di vedere il bicchiere mezzo pieno e magari farlo vedere anche alla persona in difficoltà?  
-Tiro la monetina eeee… No dai, sono andato deciso sul bicchiere mezzo pieno!
+Non ricordo l'anno, poco importa.
+Andavo in bici, facevo i chilometri che mi permettevo di fare.
+Sempre qualcosa in meno di quello che avrei potuto fare, sempre qualcosa in più di quello che avrei dovuto fare.
 
-Sto acoustic blues fa proprio c...  
-Fireside acoustic… proviamo.
+Ero lungo l'argine del Po. La giornata era tiepida e i chilometri sulle gambe erano già sufficienti per essere contenti, ma quel giorno era un giorno di test.
+Avevo in programma di lì a qualche settimana la partecipazione a un evento ciclistico che prevedeva seicento chilometri in autonomia attorno al Veneto. 
+Dovevo mettermi alla prova, dovevo misurare il mio grado di sopportazione tra asfalto e pensieri.
 
-Beh, come va con il lavoro?  
-Che vi posso dire… quando mi faccio questa domanda, o quando me la sento…  
-Fireside, pessimo… another change.  
-Ultimo album dei Lumineers.
+Seicento chilometri sono la distanza che separa i Colli Euganei dal Vesuvio, corpi vulcanici di diversa misura ma che, messi lungo una retta, rendono quei seicento chilometri lunghi una vita. Culture, modi di fare, dialetti, temperature, ricette, tutto diverso. Non dovevo raggiungere la città partenopea, solamente circumnavigare la mia regione, ma altrettanto, che la retta sia retta o che la curva sia curva, sempre culture, modi di fare, dialetti, temperature, ricette sarebbero stati i cippi di confine tra province, comuni, contrade, campanilismi che ritagliano il nostro paese.
 
-Insomma, quando me la sento dire, beh, mi trasformo in un adolescente appena uscito da scuola con il papà pronto a chiedere: “Com’è andata? Verifiche? Voti?”  
-La risposta la sapete tutti, perché in un ruolo o nell’altro vi siete per forza trovati nella vostra vita.
+Pedalavo su una bici blu in acciaio, ma anche questo è solo un dettaglio, l'importante era pedalare e spostarsi in continuazione da un punto all'altro. Non avevo una meta precisa, su per giù una foce del grande fiume italiano e poi rimettere i Colli Euganei nel mirino, magari costeggiando il fratello minore che scorre poco a nord delimitando tra i due una terra che già il nome non le rende giustizia: Basso Polesine.
+Da lì il ritorno verso casa sarebbe stato abbastanza facile.
+La brezza in quel tratto a favore di corrente lungo la sponda ferrarese era amica e i pioppeti golenali in un qualche modo raddrizzavano il corso comunque tortuoso della ciclabile arginale.
+Era mattino presto e la fatica per avanzare era compensata dalla felicità di farlo. 
 
-E così mi ritrovo, dopo un mese e mezzo dall’inizio di questa avventura terapeutica, a non riuscire a formulare e disegnare un quadro definito della situazione lavorativa che mi ha portato qui. Scappare dalle sponde scivolose di un pozzo senza fondo che mi stava inghiottendo.  
-Va meglio?  
-Non so. Mi sforzo di vedere delle migliorie, ma le cerco tenendo gli occhi semiaperti, per schivare facilmente le cose che non voglio vedere.
+Senza saperlo avevo già attivato i processi che mi avrebbero portato in uno stato mentale mai provato prima di allora. 
+La mente si era messa all'opera attivando la corteccia prefrontale e tutti i meccanismi necessari ad aumentare l'attenzione. 
+I chilometri passano, le golene pure, l'aria sa sempre più di salsedine e il mio andare sembra in simbiosi con il fluire delle acque del fiume che scorrono al mio fianco. 
+In tutto questo mi accorgo di essere sempre più un tutt'uno con il mezzo e che le gambe lavorano senza sforzo apparente. 
+La dopamina inizia a circolare aumentando il focus, mentre un'altra sostanza, l'anandamide, riduce la sensazione di non farcela.
+Ci sono già dentro, quando la terza fase inizia a mia insaputa.
+Il default mode network (quello che ci fa pensare al passato e immaginare il futuro) riduce la sua attività; la corteccia prefrontale da un lato diminuisce l'attività riducendo l'autocoscienza, dall'altro mi aiuta migliorando il controllo dell'azione.
 
-La cosa che più mi mette in crisi è la mia proiezione da qui a dieci, quindici anni, quando la data di nascita si farà veramente lontana dalla futura attualità. Non riesco a vedermi a dipendere da un qualsiasi, non ci riesco proprio, e questo rode, come un’onda che continua a spazzare la costa e a portar con sé granelli di sabbia.
+Piccoli segnali d'allarme, piccoli segnali di cedimento con la mente che si rimette a costruire nuovamente un futuro incognito, ma a questo punto il corpo sta già rilasciando serotonina per stabilizzare l'umore, e a far circolare endorfine per ridurre la sensazione di fatica.
 
-Questo podcast… benedetto il giorno che ho deciso di farlo. E non lo dico per la gloria che mi sta portando – che, a pensarci bene, manco un’amica Gloria c’ho – ma perché mi sta generando sanità mentale. Mi sta occupando nel senso di liberare spazio nella RAM, di dissipare calore del processore. Ma da qui alla svolta… eh cari miei, difficile sarà.
+Riprendo a pedalare con vigore e il tempo sembra proprio non passare. Lo scorrere dell'asfalto sotto le ruote si fa ipnotico e mi confondo con le ruote che, nonostante continuino a girare su se stesse, mi permettono di avanzare nello spazio. 
+E avanzando diminuisce l'ansia, l'amigdala la sta tenendo sotto controllo, mentre la memoria si fa solida grazie all'attività dell'ippocampo. 
+Il tutto si automatizza, movimento fisico e capacità mnemoniche che ancora a distanza di anni mi fanno rivivere quegli istanti come fossero anni fantastici della mia vita. 
+Altra dopamina viene rilasciata in vista di successi parziali, rafforzando sensazioni positive.
 
-E questo podcast?  
-Questo podcast, per ora, rimane così com’è.  
-Mi sono già accorto di come cambia: scrivere intimamente per me, scrivere per il mio ego o scrivere per chissà quale ascoltatore o lettore.  
-Vi assicuro che mettersi ogni giorno qui e mettere in fila i pensieri mi fa sentire un po’ Jack London, che scriveva almeno mille parole al giorno, o Stephen King, che ancora oggi si siede quotidianamente alla sua scrivania per macchiare con l’inchiostro fogli bianchi.  
-Vabbè, ne ho citati due proprio piccoli e insignificanti, ma se uno deve mirare a qualcuno, almeno che punti in alto, no?
+Vedete, tutto questo era già stato teorizzato e studiato negli anni '70 da uno psicologo ungherese emigrato negli States dal nome impronunciabile, ma io ne ero totalmente ignaro. 
 
-Penso che prima o poi cercherò di valorizzare in qualche modo tanto sforzo, sempre che abbia un senso e un valore. Altrimenti mi darò una pacca sulla spalla e mi dirò: bravo vecchio.
+Non lo sapevo mentre lo provavo, non ci si rende conto di provarlo, in quegli istanti si è in qualche modo estranei all'essere che in realtà è presente nella sua interezza senza condizionamenti nel massimo della consapevolezza.
 
-Parallelamente, un progetto sul lungo periodo, pieno di incognite, che ho appena iniziato. E, come chi – scottato da cotte brucianti – inizia un nuovo rapporto andando con i piedi di piombo, così io mi sto muovendo con cautela per cercare di capire se quella è proprio la traccia giusta.
+Non ricordo l'anno, poco importa. Ricordo però quella sensazione di essere completamente presente e al tempo stesso altrove. Essere una cosa sola con la bici e tutto quello che mi stava attorno. Non pedalo sulle lunghe distante da tempo, ma ho riscoperto quelle sensazioni in altre situazioni. Non serve cercarlo, arriva quando siamo pronti a perderci per ritrovarci.
 
-Questo inizio sta già facendo molto. Mi sento meglio nel mio io, ma torno facilmente nella mia regione conflittuale se metto sullo stesso piano l’essere consapevole e la voglia di cambiamento.  
-Le vedo ancora come entità antagoniste: una volta all’accettare passivamente (so che sbaglio), l’altra alla foga del cambiamento, talvolta istintivamente errata.
+A volte mi capita anche qui, quando le parole escono fluide senza ostacoli. 
 
-Ci sono altri piccoli progetti satelliti che, cavolo, non sempre ho le energie per spingerli a volare. Ci vuole inerzia, e spesso ho bisogno io stesso di una spinta esterna per avanzare, che pensare ad altro proprio non mi viene facile.  
-Sto imparando – e questo mi inebria di gioia – a gestire i picchi che prima mi prosciugavano le energie: picchi tra furori energetici, quando mi innamoro di un futuro più o meno utopistico, e stasi totali, passivamente desolanti, sulla poltrona dell’ufficio.
+Buon flow anche a voi.
 
-Ecco, ora riesco a livellare un po’ le situazioni con maggiore distacco, con maggiore spazio al mio interno. Consapevolezza.
-
-Questa era la puntata 36 di _Invisibile Perso_.  
-Spero ti sia rimasto qualcosa dentro.  
+Questa era la puntata 37 di _Invisibile Perso_.  
+Spero di averti dato almeno una piccola emozione.  
 Se vuoi scrivermi, fallo all’indirizzo **invisibileperso@posteo.com**.  
 Se questo viaggio ti sta piacendo… beh, allora fallo conoscere a chi pensi possa averne bisogno. A volte basta un podcast per sentirsi meno soli.
 
@@ -851,6 +847,386 @@ A domani.
 Ci ritroviamo sempre qui, sempre alla stessa ora, più o meno sempre… _Invisibile Perso_.
 
 Ciao.
+`
+    },
+
+"38": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/0VSkYBPDiK3lAnqm5ZfnaS?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+         Venti febbraio duemilaventicinque 
+#38
+
+Scusate ma ogni volta che scrivo il numero dell'episodio mi sorprendo di quello che sto facendo, e questo è già tanta cosa! 
+
+Ieri mercoledì, rabbia! Rabbia più con me stesso per non aver previsto la situazione e non essere poi stato pienamente all'altezza della sfida, un po' con Trenitalia che guarda caso ogni qual volta serve un loro sforzo in più decide di accorciare i treni e un po' con quei cavolo di turisti travestiti che invadono, per cosa poi! il mio treno del ritorno. 
+
+Se mi chiedessero qual è il periodo dell'anno che elimineresti dal calendario, risponderei senza ombra di dubbio: questo! 
+
+
+Non so se anche per voi è così, se anche voi avete una paura che vi portate dentro fin da bambini, ma visto che siamo nel campo della confidenza vi svelo la mia. 
+Avete presente il momento machista del "facciamo mucchio!!!"? 
+Quell'atto di prepotenza che il maschietto in apparenza alpha fa nei confronti dell'individuo che ritiene più facile da conquistare, o banalmente quell'atto di festa non voluta che compagni ignari fanno per dimostrare un non voluto atto di affetto? Insomma quando ti si buttano addosso sommergendoti con i loro corpi come in una mischia rugbistica disordinata? 
+Beh, era il mio incubo, non le ho mai sopportate allenando tattiche per svincolarmi il più in fretta possibile. Odiavo quelle situazioni di pericolo e il mio enorme istinto di sopravvivenza le bollava come minacce dalle quali stare alla larga. E gli abbracci non voluti? Quelle strette odiose dalle quali svincolarsi come in un contratto telefonico oppressivo. Per non parlare dello stanzone per le nanne all'asilo. 
+Ricordo vivamente certe scene nella pubertà per poi saltare a una maledetta sagra paesana in età adolescenziale. 
+Folla immensa, almeno ai miei occhi, vicolo stretto, oppressione e mancanza di spazi vitali. 
+Mi rifugiai nello stipite di una porta come un sommozzatore in crisi che trova una salvifica bolla d'aria. Ricordo ancora gli sguardi dei miei amici mescolati alla folla che mi guardavano con fare interrogativo. Ricordo ancora il mio conflitto tra la vergogna per non essere in grado di superare quella situazione e la voglia di restare li immobile cercando la salvezza. 
+Ho sempre evitato le folle, per me la pogata al concerto è off limits, peggio di un plotone d'esecuzione, a me serve aria, spazio, solitudine, distanze con gli altri esseri viventi bipedi e senzienti.
+
+Tornando per un attimo a quegli incastri magici che lo scorrere della vita fa succedere, ieri sera scappati a mangiarsi una pizza perché il fornello si era trasformato in un famelico diavolo...
+mia figlia maggiore che dicesi aver preso molto da me, subito dopo la mia ordinazione, ovviamente la solita pizza che prendo da almeno vent'anni in quel posto...
+
+[Audio Rebbi]
+
+Come all'uscita post motogp al Mugello, aggrappato alle reti con lo sguardo inquadrato dal buco della rete. Per fortuna c'era già la mia altra metà che mi diede supporto, ma che stress immenso! 
+Per questo odio i mezzi pubblici e fatalità cosa devo usare per andare al lavoro? 
+Uno stramaledetto treno. 
+
+Tutto ciò negli anni è via via peggiorato portandomi a vere e proprie crisi di panico che nei casi estremi risolvo con la fuga alla prima fermata utile. 
+Me ne infischio delle scene causate, il mio istinto di sopravvivenza me lo ordina e io eseguo! 
+
+In questo ultimo periodo, attraverso auto stratagemmi, sono riuscito a controllarmi e a superare momenti che in altri tempi mi avrebbero visto sconfitto, mi avrebbero visto in attesa del treno successivo al binario uno. 
+
+Pezzi immancabili del mio kit di sopravvivenza sono: acqua, per mantenere la bocca umida e avere qualcosa di familiare a cui aggrapparmi; caramelle, che mi aiutano a concentrarmi su una sensazione piacevole quando l'ansia sale; un quaderno e penna per scrivere, il mio modo per trasformare il panico in parole e dare un senso al caos che mi circonda. Scrivere mi ancora al presente, mi ricorda che posso descrivere e quindi in qualche modo controllare quello che mi sta succedendo.
+
+Ma ieri sera non sono serviti, ho osato cambiare l'ordine delle cose. 
+
+E allora non ce l'ho fatta, mi sono alzato, ho cercato posti più ariosi, ma è come cercare l'ago in un pagliaio, incagliandomi in un'altra situazione critica, riseduto, rialzato, respirando, scrivendo messaggi sul telefono, facendo finta di non vedere quella folla a me ostile che spesso si trasforma in una squadra di lottatori di sumo che si mette tra me e la via di fuga.  
+
+Sono arrivato a casa senza scendere, in orario, ma il mio io era ferito pesantemente. Non me l'aspettavo che quell'istinto riuscisse ancora a prendersi gioco di me, a sconfiggere i miei trucchi per tenerlo calmo. 
+
+E allora cosa serve tutta questa meditazione! Un forte senso di mandare tutto all'aria, di rifiuto di prendere ancora una volta il treno, una voglia irrefrenabile di cambiare vita! 
+Quando succedono queste cose, il livello energetico torna a zero. 
+Il primo passo sceso dal treno si trasforma in un pulsante che libera le energie marce accumulate in quei maledetti momenti di stress, ansia, panico, ma con quelle energie se ne vanno anche quelle positive.
+
+Ci si sente svuotati, vivi ma indifesi. 
+Si è consapevoli di aver in qualche modo vinto, ma anche perso. 
+Ho in parte imparato a non denigrarmi a non sentirmi una merdaccia. Degli sguardi della gente non me ne preoccupo, cosa volete che siano in confronto al mio istinto di sopravvivenza.
+Ma è come fare un piccolo passo indietro, noi che siamo sempre focalizzati sul fare passi in avanti, come se i piedi non fossero sufficienti anche per fermarsi.
+Ecco che bisogna rallentare, rallentare le emozioni, ritrovarsi un attimo per fare i conti nella maniera giusta.
+
+Come le precedenti sere, poi, tornati dalla pizzeria, mi sono messo a meditare. 
+Ero teso, tremori nervosi lungo la gamba destra, il respiro sospeso nella parte alta, la testa che continuava a vagare, che fatica! 
+Ho resistito per tutti i quarantacinque minuti, lasciando passare treni carichi di pensieri spesso nocivi, sono rimasto lì disteso cercando di dialogare con le varie parti del corpo, lottando con la voglia di smettere e rialzarmi. 
+
+Ho vinto contro l'istinto. 
+Alla fine forse, girando attorno alle cose, cambiando prospettiva, ieri ho vinto due a zero. 
+Sono arrivato a casa in orario e ho meditato, a fatica ma ho meditato. 
+Ho lottato contro quel pugile che mi voleva far scendere dal treno e contro quel lottatore di sumo che mi spingeva fuori dal tappetino. 
+
+Non male, no? 
+Pensare che all'inizio di queste parole l'umore era contrario, mi sentivo abbattuto, affranto. 
+
+Ancora una volta Invisibile Perso. 
+Ancora una volta vince il far vedere il sole alle emozioni che nascondiamo. 
+In fondo è proprio questo il senso di essere 'invisibili persi': non è solo sentirsi persi nella folla, ma anche perdersi nei propri pensieri invisibili agli altri.
+E poi ritrovarsi, passo dopo passo, respiro dopo respiro, parola dopo parola. 
+
+Questa era la puntata 38 di Invisibile Perso, dedicata a tutti quelli che si sentono invisibili nelle loro battaglie quotidiane, ma continuano a combattere."
+
+Questa era la puntata 38 di _Invisibile Perso_.  
+Se hai emozioni che vuoi raccontare, scrivimi all'indirizzo **[invisibileperso@posteo.com](mailto:invisibileperso@posteo.com)**.  
+Se questo viaggio ti sta piacendo… beh, allora fallo conoscere a chi pensi possa averne bisogno. A volte basta un podcast per sentirsi meno soli.
+
+A domani.  
+Ci ritroviamo sempre qui, sempre alla stessa ora, più o meno sempre… _Invisibile Perso_.
+
+Ciao.
+`
+    },
+"39": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/4o4Zmwyb0UvAy9ODS5HaK4?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+         Ventun febbraio duemilaventicinque
+#39
+
+Ciao, bentornati
+Oggi faccio uno strappo alla regola del giorno precedente parlandovi di oggi.
+Bè oggi è proprio una di quelle giornate NO, di quelle giornate dove non ho voglia di fare nulla.
+Avete presente la scena, quel meme, del dipendente che prende a bastonate il pc, che lo fa svolare via dalla scrivania? 
+A dire il vero manco quello, non ho manco la voglia di pigliarmela con il pc.
+Mi sa che siamo in tanti oggi a sentirci così. Tu? Ti è mai capitato? Sarà che è venerdì, sarà che è una di quelle giornate... ma oggi proprio non ci siamo.
+Sarà che stamattina ho dato fondo alle energie positive per far tornare il sorriso alla nanetta.
+Dopo una settimana a casa con la medicina preferita, divano e tv, ora non perde mattina per ricordarci che lei all'asilo non ci vuole andare. E ci credo! Chi non preferirebbe ozio e attenzioni.
+E quindi mi sono messo a cantare i pigiamini sulle note dei tre porcellini, ho fatto il gioco della scarpa che non vuole entrare nel piedino... e l'ho presa in braccio facendola volare e insomma è entrata in classe senza mugugni.
+Insomma oggi è proprio una di quelle giornate prosciuganti, dove ogni atto consuma energie da un serbatoio non proprio pieno pieno.
+Non penso sia pigrizia, la mia intendo, ma probabilmente la ricerca di una situazione di ricarica. 
+Diciamo che sul mio display è comparsa la notifica di attivazione del risparmio energetico.
+
+Apatia, abulia, anedonia… tre parole difficili per dire, in fondo, la stessa cosa: mancanza. Mancanza di voglia, di iniziativa, di piacere. Insomma, il trittico perfetto per una giornata NO. Se sei psicologo e mi stai ascoltando, perdonami, so che sono concetti distinti… ma nella vita reale spesso viaggiano insieme, e oggi sono tutti qui con me.
+
+A pensarci l'ultima volta che mi è successo, non me lo ricordo, ovvio ma generalmente arrivano per colpa delle solite cose: l'umore ballerino, un periodo di stress prolungato, in seguito a momenti di ansia o dopo esperienze traumatiche. Se ci pensate bene sono tutte azioni che prosciugano le nostre energie interne.
+
+E allora vi porto nel 1774 a Parigi a casa di Antoine Lavoisier, vi ricordate cosa fece in quell'anno?
+Definì una delle più importanti leggi universali: la legge della conservazione della massa. 
+Nulla si crea, nulla si distrugge ma tutto si trasforma. 
+Qualcuno potrebbe obiettare che non siamo solo materia, si certo giusto, giustissimo, ma anche le nostre energie interne, le energie che provocano emozioni o le energie provocate da particolari stati d'animo non vengono dal nulla. 
+Come in fisica dove per ogni trasformazione serve energia, per ogni cambio di stato serve energia, anche per cambiare il nostro stato d'animo, il nostro porci serve energia.
+Se abbiamo il serbatoio vuoto, se in apparenza ci sentiamo vuoti e senza la necessaria benzina, in realtà quell'energia sta già dentro di noi ma è utilizzata per generare stati d'animo negativi.
+Si ok, ci sta benissimo essere in una giornata no, come oggi per esempio, ma sapere che abbiamo già tutto dentro di noi, sempre ogni giorno, può essere un piccolo spunto per provare ad innescare un cambiamento.
+Talvolta quelle energie le bruciamo per la troppa attività, spesso inutile e malamente focalizzata, e allora andiamo in riserva, il motore rallenta, funziona male, si ingolfa, ha bisogno di nuova aria per riattivare la combustione.
+Rallentare, rallentare sembra essere il segreto per molte cose. L'apatia la voglia di far nulla, sono un segnale della necessità di rallentare e ritrovarsi nella consapevolezza, sono un segnale che ci avverte di riposizionare le energie nei giusti canali. Quello che ci serve è dentro di noi, lo diceva anche Quelo no? Si è vero, lui erroneamente diceva che sono dentro di noi ma sono sbagliate, ma in realtà non è così. Quello che ci serve è già dove deve essere, magari ha sopra mille altre cose. Allora rallentare serve proprio per fare pulizia, spolverare, spostare tutto quello che sta sopra alla nostra energia per rimetterla in circolo.
+
+L'equilibrio non è facile da trovare, le giuste dinamiche per affrontare qualsiasi cosa sono relative, ma la ricerca la possiamo fare, dobbiamo farla.
+Alla fine, non si tratta di trovare nuove energie, ma di capire come trasformare quelle che abbiamo. E per farlo, a volte, basta solo una cosa: rallentare.  
+Per oggi, mi fermo. Mi tolgo di dosso il superfluo, respiro, torno a me. E inizio a scrivere
+
+
+
+Questa era la puntata 39 di _Invisibile Perso_.  
+Si chiude un'altra settimana di questo pazzo viaggio tra le emozioni quotidiane alla soglia del mezzo secolo di vita.
+Se ti fa piacere condividere impressioni o se hai suggerimenti, scrivimi all'indirizzo **[invisibileperso@posteo.com](mailto:invisibileperso@posteo.com)**.  
+Ti ricordo che questo podcast è un podcast indipendente che ha bisogno della tua condivisione per poter crescere. 
+
+Alla prossima settimana.
+Ci ritroviamo lunedì sempre qui, sempre alla stessa ora, più o meno sempre… _Invisibile Perso_.
+
+Ciao.
+`
+    },
+
+"40": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/14oBgzmk6cBFs9PFG2Nwui?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+         Ventiquattro febbraio duemilaventicinque #40
+
+Episodio Quaranta, Sì, lo so che mi do spesso a festeggiamenti sfrenati, un giorno sì e l'altro pure, ma quaranta puntate filate meritano un brindisi! Aleee!
+
+Anche meno dai, è pur sempre lunedì mattina. 
+Sperando che succedano imprevisti, per oggi ho in programma due simpaticissime call: la prima che non so ben di cosa si parlerà, ma sono abile a tenere il gioco, i motti di briscola li conosco e quindi, niente paura. 
+Nella seconda invece dovrò mettermi il cappellino da videomaker, o meglio da abile montatore video che risolve qualsiasi desiderata di fanta-sceneggiatori che pensano di dover realizzare il video dell'anno, quasi quasi candidato al Pulitzer, quando ben che vada faranno sì e no cento visualizzazioni su YouTube. Ma anche qui, niente paura, basta rispondere sempre sì e lasciarli parlare, tanto poi alle clip ci penso io.
+
+Tornando al weekend, sabato ho avuto il terzo appuntamento del corso MBSR e lo so che fremete dalla voglia di sapere come sta andando. 
+Per chi non lo sapesse il corso MBSR è un corso di meditazione, precisamente di Mindfulness Based Stress Reduction, ossia una serie di tecniche di meditazione che portano ad una riduzione dello stress. 
+Ora l'ho banalizzato, in realtà è molto più complesso, anche se a pensarci bene non è poi così complesso, è solo che il nocciolo della questione è talmente distante dal nostro vivere che ci sembra complesso e complicato da raggiungere. 
+Strucca strucca è un ritrovarsi in quel famoso qui e ora. 
+Affermazione che mi irrita perché mi sa tanto da moda e da fuffa markettari che ti vendono l'impossibile.
+Ma praticamente? Praticamente vuol dire meditare almeno 45 minuti tutti i giorni, e da questa settimana fare anche una semplicissima pratica yoga per circa un'ora più una meditazione autogestita di 10-15 minuti. La pratica non si limita alla canonica pratica ma prevede anche altre piccole attività come quella di tenere un breve diario delle pratiche e altre piccole cose che si possono distribuire nel corso della giornata.
+
+In realtà penso di non aver mai affrontato qualcosa di così intensivo. 
+Il tutto si traduce in un allenamento quotidiano che comporta volontà nell'affrontarlo e fatica nel realizzarlo. 
+Non sono piegamenti, ripetute, sprint con la bici o qualsivoglia esercizio fisico, ma al tempo stesso sono allenamenti per il nostro essere che, tralasciando il qui e ora, deve allenarsi per riconoscersi e stare nella consapevolezza. 
+A tutto questo dovete aggiungere un appuntamento settimanale in presenza di circa tre ore più una meditazione guidata, ma questa è facoltativa, di circa un'ora e mezza al lunedì sera. 
+
+Ma praticamente? Mmm sta parola, ancora praticamente... 
+Praticamente sono qui a scrivere per la quarantesima puntata e per ora dovrebbe bastarvi come risposta. Si lo so sono caustico, ma credetemi non è semplicissimo mettere in parole quello che sta succedendo e se avrete pazienza, magari alla fine del percorso avrò le idee più chiare per parlarvene più compiutamente.
+
+In verità volevo parlarvi dello scontro frontale che ho fatto sabato. 
+Una botta tremenda, per fortuna non mi sono fatto male, ma danni abbastanza. 
+Insomma, stavo viaggiando con tutte le mie certezze a velocità sostenuta lungo la tangenziale, quando mi sono scontrato contro il muro delle convinzioni. 
+Una botta notevole. 
+Sono sceso malconcio, in parte destabilizzato e senza più un mezzo che sulle ali delle mie certezze mi facesse viaggiare al sicuro. 
+Mi son ritrovato a bordo strada a camminare lungo il ciglio pieno di cartacce e schifezze varie. Praticamente succede anche questo. 
+Succede che durante questo percorso si rischi di destrutturarsi, si rischi di venire smontato da parole semplici ma inascoltate, da semplici frasi, esercizi, attenzioni da porre a cose che mai avrebbero attirato la tua attenzione e alla fine ci si ritrova così a camminare lungo il bordo della strada mentre gli altri continuano a guidare al limite del consentito. 
+Ci vuole tempo poi per comporre un nuovo quadro, perché gli angoli di visuale che normalmente accettavi come giusti, ora potrebbero non aver più senso, potrebbero essere limitanti, potrebbero oscurarti parti importanti dello scenario. 
+Succede che ti chiedi, ma ero proprio così? Veramente ragionavo così? Veramente allora il giudizio continuo era in me. 
+E non è facile staccarsi dalla propria storia, perché si è convinti che quella sia il noi e che con quella il futuro sia più facile. 
+Che errore... 
+Per adesso ho sbattuto, rottamato l'auto vecchia e non penso ne ordinerò una nuova, i miei piedi bastano per andare in qualsiasi direzione.
+
+
+Questa era la puntata 40 di _Invisibile Perso_.  
+Si chiude un'altra settimana di questo pazzo viaggio tra le emozioni quotidiane alla soglia del mezzo secolo di vita. Se ti fa piacere condividere impressioni o se hai suggerimenti, scrivimi all'indirizzo **[invisibileperso@posteo.com](mailto:invisibileperso@posteo.com)**.  
+Ti ricordo che questo podcast è un podcast indipendente che ha bisogno della tua condivisione per poter crescere.
+
+A domani. Ci ritroviamo sempre qui, sempre alla stessa ora, più o meno sempre… _Invisibile Perso_.
+
+Ciao.
+`
+    },
+
+"41": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/6UGTaFtII9z8La423L7sVv?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+         Venticinque febbraio duemilaventicinque.
+
+#41
+
+Emozioni di ieri: desolazione e fiducia.
+
+Parto dalla prima, che è sicuramente la più triste, e indovinate un po' in che ambito l'ho provata?
+
+Dai, è facile indovinarlo.
+
+Sì, ok, giusto, in ufficio, davanti al mio pc, mentre cercavo di trovare un senso a quel cavolo di video che stavo editando per assecondare i commenti ricevuti.
+
+Sapete la definizione di desolazione?
+
+Mo' ve la dico:
+
+Secondo Treccani, la desolazione è un "Sentimento di afflizione, di intimo dispiacere per la visione di cose rattristanti: è una desolazione vedere le piante deperire così per la siccità; provò una gran desolazione nel visitare quei poveri paesi". Questa è solo una parte della definizione, la meno triste.
+
+Mentre se chiediamo a un'AI, ci dice che la desolazione è "uno stato emotivo caratterizzato da un senso di vuoto, abbandono e solitudine interiore. Va oltre la semplice tristezza, incorporando elementi di disperazione, impotenza e assenza di consolazione. È spesso associata alla perdita di significato o all'improvvisa consapevolezza della fragilità delle costruzioni umane di fronte all'indifferenza dell'universo".
+
+Beh, insomma, detta così quasi quasi meglio Treccani. Comunque trattasi di un sentimento non propriamente positivo, ricco di rimorsi, di un mare di cose non dette, forse.
+
+Disclaimer. Sono le 22:15 di lunedì sera e ho appena terminato una pratica guidata, con parte teorica, dove la frase più semplice era del tipo: "in fondo la realtà non ha un concetto di sé di realtà". Quindi, abbiate pietà!
+
+Tornando davanti al pc, i miei pensieri vagavano proprio nella direzione della perdita di significato di quello che stavo facendo. Continuavo a chiedermi: "Ma perché, perché sto qui a perder tempo su queste cazzate immonde? Qual è il senso di tutto questo? Ma soprattutto, come fa', come fanno a non rendersi conto dell'inutilità di questo lavoro? O forse, il fatto è che, in realtà, nessuno ci crede veramente, ma chi più chi meno si adatta, o si veste di conseguenza per non apparire estraneo rispetto agli altri clown. Ognuno adotta il camuffamento che meglio gli si addice, ognuno adotta la strategia più opportuna per sopravvivere. Forse".
+
+Cercando connessioni tra desolazione e realtà, si torna a un concetto espresso nelle prime puntate, quello della tossicità lavorativa e del burnout.
+
+La desolazione si può manifestare come una forma profonda di disincanto e alienazione. Questo stato può emergere quando:
+
+- Il lavoro perde il suo significato intrinseco
+- L'ambiente professionale diventa ostile o indifferente
+- Si verifica un disallineamento tra valori personali e pratiche organizzative
+- Le aspirazioni professionali sembrano irraggiungibili
+- Si avverte l'assenza di connessioni umane autentiche sul posto di lavoro
+
+Sembrerebbe che questa condizione vada oltre il comune burnout, poiché implica una crisi esistenziale legata alla propria identità professionale.
+
+Qui si potrebbe tirare in ballo un certo Karl, che descriveva la desolazione lavorativa come una manifestazione della contemporanea alienazione dell'operaio. Aggiornata ai nostri tempi, potrebbe essere declinata nel lavoro de-umanizzato a causa della digitalizzazione, perdita del "saper fare", perdita del proprio scopo, della già citata cultura tossica del lavoro, individualismo e scarso senso di appartenenza, e nella crisi di significato, dove i rapidi cambiamenti fanno sì che ci interroghiamo di continuo sul significato del nostro lavoro e della sua utilità verso la società.
+
+Ammetto di averci provato a rimanere lì, a spazzare via tutti i costrutti, magari sbagliati, che ho nella mente, ma porca di quella zozza, non sono riuscito a trovare il bandolo della matassa e per ora, nella mia testa, nella mia realtà, quel lavoro rimane senza senso!
+
+Finiamo con la cosa bella, bellina dai. 
+Fiducia. Fiducia in me stesso. 
+Vi ho detto della crisi di panico arginata in extremis la settimana scorsa. 
+Bene, stamattina le condizioni al contorno erano pari pari a quelle della settimana scorsa. 
+Treno strapieno e io che già sentivo l'ansia salire nel dover salire in quelle carrozze affollate. 
+Dai alla fine sono riuscito a gestirmi meglio, non so per merito di cosa, sarà che mi sono messo a capofitto nell'editing della puntata di ieri, tra l'altro sbagliando l'export, sarà che boh, non lo so, non ho voglia di analizzarmi. 
+So che l'ho vissuta meglio, dai, un po' meglio, quel tanto che basta per rimettere un mattoncino sulla piramide della mia fiducia. 
+Sarà forse, ecco, sì, che quello schiaffone preso sabato sui condizionamenti, sulle autoconvinzioni, sulle realtà percepite che ci costruiamo immagine dopo immagine, mi è servito per cancellare quella montagna di sensazioni proiettate che deviano pesantemente dalla realtà che è.
+
+Buon martedì.
+
+Questa era la puntata 41 di Invisibile Perso. Spero ti sia rimasto qualcosa dentro. Se vuoi scrivermi, fallo scrivendo a [invisibileperso@posteo.com](mailto:invisibileperso@posteo.com). Se questo viaggio ti sta piacendo... beh, allora fallo conoscere a chi pensi possa averne bisogno. A volte basta un podcast per sentirsi meno soli.
+
+A domani, gente. Sempre qui, sempre alla stessa ora, più o meno sempre... Invisibile Perso.
+`
+    },
+
+"42": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/3jHUox4PFoxe0h8r1qjGuT?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+         # Ventisei febbraio duemilaventicinque
+
+Puntata numero 42 di _Invisibile Perso_
+
+Giorno di mezzo dell'ultima settimana del secondo mese dell'anno zero di _Invisibile Perso_.  
+Dovete sapere che hanno già istituito un calendario IP, non Italiana Petroli ovviamente, ma anni prima di IP e dopo IP... perché nulla sarà più come prima!  
+Lasciatemi blaterare... Tirarla lunga all'inizio mi serve per prendere lo slancio e far nascere le idee per questa nuova puntata.
+
+Ebbene sì, sono tornato per l'ennesima volta a salutare il mio amato pediatra.  
+Sempre la nana che, dopo aver giocato con le sorelle nel dopocena, ha deciso di farsi la notte in bianco con il febbrone.  
+Abbiamo vinto la possibilità di utilizzare un tampone e, ovviamente, non ci siamo fatti scappare l'opportunità di renderlo positivo. Almeno lui positivo, in queste giornate un filino grigie.  
+E via di antibiotico, olè.  
+Che poi c'è una coincidenza che mi sembra fatale: arriva Carnevale e, a turno, una delle tre capitola sotto il maledetto streptococco. Dovrei consultare l'archivio ufficiale, cioè l'altra metà, ma mi pare proprio che questa coincidenza si sia verificata più e più volte.
+
+Vabbè, lasciamo andare i batteri a fare quello che devono fare.  
+Domanda: ma a voi le musiche per la concentrazione aiutano a concentrarvi? A me fanno l'effetto contrario. Spotify mi ha proposto una playlist dal titolo invitante: _Stress Relief_. Se non la spengo, potrei scaraventare il PC giù dalla scrivaniaaa.
+
+Andiamo sul classico, con il sempre efficace Ludovico Einaudi.
+
+La settimana scorsa ho ripreso in mano due cose, e a pensarci bene me ne manca ancora una: la bici.  
+Ma intanto ho ripreso in mano la racchetta e ho inforcato nuovamente le scarpe per correre.  
+La racchetta è rimasta solitaria per quasi un paio di mesi, poi mi sono deciso. Ci sono stati un paio di eventi: il primo, quel torneo interno in cui avevo giocato veramente male; poi, subito dopo, quel lunghissimo raffreddore. Mi sono serviti per dirmi: _eilà, se devi andare a giocare per incavolarti e aumentare il livello di stress, lascia perdere._ E così ho fatto, fino alla scorsa settimana.
+
+Non so se sia la MBSR, forse sì. In fondo, sento che smuove le acque interne. Sono riuscito a calmare il mio spirito competitivo, la mia voglia di vincere, e ho accettato il fatto di poter praticare anche solo un'ora di tennis alla settimana.  
+E sapete che altro? Ho deciso di tornare a giocare il rovescio a una mano. Se devo divertirmi, allora che stile sia!  
+Ve l'ho già detto della mia inclinazione sportiva, dell'amore per la pallavolo e della passione per la bici, ma ora come ora non gioco a pallavolo e non percorro chilometri in bici.
+
+La pallavolo? Perché ho un'immagine di me in quel rettangolo che è meglio rimanga tale.  
+O meglio, non ho ancora raggiunto un grado di consapevolezza talmente elevato da accettarmi mezzo rincoglionito in un campo da pallavolo.  
+E poi dai, è troppo fisica per potermelo permettere ora. Per non parlare degli occhiali... No, dai, meglio di no. Meglio che resti un ricordo, almeno per ora.
+
+La bici, invece, è una questione diversa. Mi ha dato tantissimo, diciamo che mi ha pure fatto conoscere, per quegli eventi inventati. Poi però mi ha anche sbattuto in faccia realtà amare.  
+Aspetta. In fondo lei non c'entra nulla. Ero io che mi costruivo realtà di pura immaginazione, riversando su di lei l'amarezza per i traguardi mancati.
+
+La corsa non l'ho mai amata, ma c'era un periodo dell'anno in cui rinasceva in me la voglia di correre.  
+Generalmente a fine estate, quando i chilometri macinati in bici durante l'anno erano già abbastanza e in me tornava la voglia di mettere i piedi a terra.  
+Non so come ci si allena a correre. So come si mettono i piedi, so riconoscere una bella andatura da un'andatura goffa, ma della prestazione non mi è mai importato granché, anche perché non ho il fisico da maratoneta.  
+E allora vado piano. Pianissimo. Finché non mi accorgo che posso spingere di più.  
+La corsa ha una funzione più mentale che fisica, è una specie di reset, uno sfogo benevolo.
+
+Mi ci è voluto tempo, parecchio tempo, per digerire il fatto che la vita, con il suo procedere, avesse cambiato l'ordine delle cose e che ai primi posti non ci fosse più il tempo da dedicarle.  
+Sì, perché anche lì, la mia storia in bici aveva un valore. Almeno per me.  
+Storia che si trasformava in numeri, in velocità, in sensazioni lungo le salite dei Colli.  
+Il problema è che, se non le dai il tempo necessario, la bici è fatica allo stato puro. Ma anche rimpianti, delusioni per quei numeri che non riesci più a raggiungere e quelle sensazioni che non riesci più a provare.
+
+Tutto torna a quelle maledette convinzioni. Condizionamenti esterni, ma anche auto-condizionamenti che non ci permettono di andare oltre e di assaporare consapevolmente quel momento.  
+Allora con la bici sono arrivato al punto che non monto più il computerino.  
+Faccio il mio giretto quando posso, senza giudicarmi.  
+Ecco, forse lì, con la bici lungo l'argine, è stata la mia prima volta _non giudicante_, di accettazione di quell'andare.  
+Vorrei far di più, ovvio. Certo.  
+Vorrei rimettermi in forma, risentire i quadricipiti pieni, i polpacci belli tonici.  
+Vorrei poter essere in grado di ripartire per qualsivoglia giro, in barba ai chilometri.  
+Ma verrà. Forse senza giudicarmi per non riuscirci.
+
+La bici è lì, in garage.  
+La guardo.  
+So che ci rimonterò su.  
+Ma non tornerà un'ossessione.
+
+Attraverso tutti questi sport – il tennis, la corsa, la bici – forse sto imparando la stessa lezione in contesti diversi.  
+La prestazione non c'entra più. O perlomeno, non per ora.
+
+Lo streptococco che torna puntuale come il Carnevale.  
+Il computerino della bici che non monto più.  
+Il rovescio a una mano che riprendo per puro piacere.
+
+Sono, in fondo, tutte facce diverse della stessa medaglia: l'accettazione.
+
+Accettare che le cose cambiano.  
+Che i nostri corpi cambiano.  
+Che le priorità cambiano.
+
+La vera sfida non è tornare a fare i numeri di una volta, ma trovare un nuovo modo di vivere queste passioni senza il peso del giudizio e del confronto costante con il passato.
+
+MBSR o non MBSR, sto iniziando a imparare a stare nel momento.  
+A godermi quella pedalata sull'argine senza cronometri.  
+Quell'ora di tennis settimanale senza aspettative.
+
+Ed è come se, paradossalmente, rinunciando all'ossessione della performance, stessi ritrovando il piacere autentico del movimento.
+
+**Buon mercoledì.**
+
+Questa era la puntata 42 di _Invisibile Perso_. Spero ti sia rimasto qualcosa dentro.  
+Se vuoi scrivermi, fallo a invisibileperso@posteo.com.  
+Se questo viaggio ti sta piacendo... beh, allora fallo conoscere a chi pensi possa averne bisogno.
+
+A domani, gente.  
+Sempre qui, sempre alla stessa ora, più o meno sempre... _Invisibile Perso_.
 `
     },
 }; 
