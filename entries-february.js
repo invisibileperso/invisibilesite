@@ -1229,4 +1229,135 @@ A domani, gente.
 Sempre qui, sempre alla stessa ora, più o meno sempre... _Invisibile Perso_.
 `
     },
+"43": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/5YGeHZwLPVjHZSCXd67GN3?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+         Ventisette gennaio duemilaventicinque
+#43
+
+Non vorrei che pensaste che sia diventato persona ecumenica che riesce a governare qualsivoglia situazione e che riesce a tenere a bada qualsiasi emozione.
+Insomma non sono illuminato, se non da luci esterne, ma dentro ho ancora ampie zone di buio pesto e se seguirete fino alla fine questa puntata, oltre a farvi qualche risate, forse capirete anche il perchè.
+
+Mattinata, oggi giovedì 27 iniziata non nel migliore dei modi.
+Cosa c'è di più triste dello spazzolino elettrico che mentre ti lavi i denti finisce la batteria...
+Male Male!
+
+Ma torniamo a ieri.
+Primo giro in macchina, Arianna ha la gita e parte alle 7:30. 
+Vai di pandina sotto la pioggia.
+Arianna depositata, si torna e vai con il primo pezzo di un podcast qualsiasi.
+Mi fermo o non mi fermo dalla fornaia Martina a prendermi il bombolone con la crema?
+No dai, tanto poi ci ripasso.
+Torno a casa, cambio gomme, rifornimento e via per il secondo giro.
+Rebecca inizia alle 8.
+Rimetti in moto la pandina e tragitto fotocopia fino alla scuola della Rebbi.
+Saluto fragoroso quel tanto da farle strappare un sorriso e un pò di vergogna, volto la macchina, e via con l'altro pezzo di podcast.
+Questa volta la fornaia Martina non mi sfugge ed esco felice con il mio bombolone alla crema nel sacchetto.
+Parcheggia il pandino, saluto l'altra metà e: Rachelina cosa vuoi mangiare?
+Ovetto naturalmente.
+Preparazione ovetto sodo e visto che ci sono mi faccio pure io un ovetto, ma sodo no, non li ho mai sopportati, retaggi di non so quale mensa o chissà quale malsana idea...vabbè uovo classico all'occhio di bue, due fette di pane ricavate dal pieno del mattone di Shizzotto della mamma della domenica precedente da tostare nello stesso padellino, una bella spalmata di crema di sesamo, uovo pronto, paninozzo pure. 
+Timer che suona
+Taglio meticolosamente in otto quello sodo, un filo d'olio, un filo abbondante di aceto balsamico, un pezzo di pane per far scarpetta e la colazione è servita.
+Rachele muoviti che devi prender l'antibiotico e io ho una riunioneeee
+Buongiorno, buongiorno a tutti...
+E quelle riunioni dove ti mancano parecchi pezzi del puzzle ma che a un certo punto ti ritrovi come punto di riferimento senza i riferimenti. Fanbrodo, in questi casi me la gioco con la sincerità, a vendere pentolame non sono bravissimo.
+Rachele dai che ci misuriamo la febbre, hai bevuto, stringi il termometro, 36.1 no dai impossibile, proviamo con l'altra ascella.
+Apri, stringi, tienilo li...beep beep 36.3
+Bo vabbè, ho sempre l'impressione che il termometro menta, farabutti termometri.
+Papà ho fame!
+Si certo, cosa vuoi, un panino con il miele?
+Guardo l'ora ed è già mezzogiorno.
+Rachele aspetta un attimo devo andarti a prendere i fermenti in farmacia!
+Riprendo il pandino, terzo giro lanciato, altro pezzo di podcast, farmacia, buongiorno si arrivederci, buona giornata, pandino, altro pezzo di podcast.
+Allora? minestrina?
+Pentolino, brodo e via.
+Papà mi metti tanto formaggio?
+Io odio il formaggio, tanto più le zaffate di puzza emanate dal brodo tempestato dal formaggio grana.
+Certo Rachi...
+Grattugia, formaggiooooo
+Che schifooo!!!
+Controlla le mail...
+Arrivano le altre, bisogna preparar da mangiare
+Ma prima ovviamente, apri lo sportello, piatti lisci, piatti fondi, piattini, tazzine, bicchieri etc.
+Piadine pronte, e mi sono pure inventato degli arancini con il riso avanzato la sera prima, non un granché, ma insomma facevano scena.
+Carica la lavastoviglie, lava le pentole preziose che non possono andar in lavastoviglie e beep partito un altro giro.
+Riunione pomeridiana, cane che abbaia, piccole donne che arrivano e che felicemente sbraitano... Quelle riunioni dove l'altro interlocutore è proprio preso, è fortissimamente sul pezzo, mentre te si, certo, volendo...ci possiamo sentire nel weekend? Bè insomma...anche no!
+Apri lo sportello, piatti lisci, piatti fondi, piattini, tazzine, bicchieri, posate...
+Insalata, pentole sul fornello e... BLACKOUT totale.
+Guardo fuori e siamo solo noi.
+Domando cosa hanno acceso.
+O guarda un pò una simpatica piastra per capelli accesa contemporaneamente al forno, al fornello a induzione e al microonde, al riscaldamento, alla tv, a qualche lampadina.
+Ho immaginato che fosse scattato il quadro interno e indovinate dov'è? In garage che ovviamente ha il basculante elettrico e la porta sul retro chiusa dall'interno con la chiave nella toppa.
+E niente, mi è partito l'embolo e ne ha fatto le spese il mio telefono già scheggiato, altro che la terrina del mio caro amico Alessandro.
+E' come se uno spillo toccasse un punto segreto e liberasse tutto il nervosismo accumulato nei giorni precedenti. 
+Impreco, divento tetro e scontroso.
+L'altra metà che mi dice giustamente di calmarmi ma niente, mi dice che magari è il contatore esterno, ma nooo non è mai scattato quello!
+Non ho soluzioni, chiamiamo il Peach che essendo figlio di operatore ENEL, ne sa per genetica di cose elettriche. Apri il contatore esterno, mi fa. Prendo le chiavi, apro, la scritta dice che è stato superato il limite più del 30% e ci credo, forno, microonde, induzione, piastra, riscaldamento eeee poi tiro su la leva e luce fu.
+E si dovrei ridere, l'altra metà giustamente mi dice: te l'avevo detto io...
+eee io borbotto su qualcosa giusto per non arrendermi di fronte all'evidenza...
+Figuraccia no? Bè caspita il mio ego enormeeee ogni tanto vince ancora, insomma vince, alla fine se ne torna sempre con la coda tra le zampe.
+Se avessi fatto un tampone per vedere il mio grado di consapevolezza del momento, sarebbe stato negativo!
+Lavori in corso...
+Ma sapete qual'è il problema ora?
+Tutte quelle maledette app e quelle pw da reimpostare!!! ODIO!!!
+
+Buon martedì.
+`
+    },
+"44": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/5xuh7GzLkUrOXCKsnoz5lR?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+         Ventotto febbraio duemilaventicinque.
+#44
+Siamo arrivati alla fine di questa settimana e incredibilmente del secondo mese di Invisibile Perso.
+Dai il prossimo festeggiamento sarà alla puntata 50, oggi meglio volare bassi.
+
+Scrivo queste righe dal treno di ritorno serale verso i miei amati colli e per iniziare vi racconto l'ultimo aneddoto, fresco fresco di giornata.
+Come sapete, ieri sera ho mandato al creatore il telefono, vabbè, cioè male perchè quello scatto d'ira dovevo controllarlo, ma insomma il danno è fatto e buona notte.
+Quindi oggi ho passato la giornata senza telefono e non portando manco l'orologio, è stato come un salto negli anni dell'infanzia dove le giornate scorrevano senza paletti temporali.
+C'hai mai pensato? Si ok, qualche impegno ce l'avevamo: l'allenamento di calcio, forse il catechismo, ma il grosso delle giornate era scandito dai nostri desideri, almeno questo è il ricordo.
+Tornado all'attuale...
+Ma, visto che c'è sempre un ma... quell'oggetto è veramente quell'estensione umana citata nelle prime puntate e teorizzata dal filosofo e sociologo Canadese McLuhan (puntata del 24 gennaio). Per quanto mi sia piaciuto stare off line, ho dovuto fare i conti con la mia ira e la mia sbadataggine sulla via del ritorno verso quella grande stazione lagunare. Camminando mi è venuto in mente che l'abbonamento ferroviario è dentro a quel telefono! Eeeee visto che ora per accedere ai binari bisogna esibire il titolo di viaggio, io cosa cavolo esibisco???
+Calma e sangue freddo. Di farmi un biglietto di ritorno non se ne parla vista la vagonata di soldi che lascio giù all'amata Trenitalia che fortunatamente mi viene in soccorso provocando quella situazione di caos utile con treni i treni in ritardo, per confondersi in mezzo alla folla e passare inosservato.
+Varco uno passato, tiè.
+Ora però c'è la questione controllore...
+Salgo in testa treno e fortunatamente trovo subito la controllora, si dirà così? Sfodero i miei occhietti innocenti e dalle sue labbra esce un assolvente: va bene, non si preoccupi, può capitare. 
+DAJE!
+Prova superata.
+
+Mi sono reso conto, ed è bastata una giornata, che è una droga, è proprio una drogaccia! Considerando che non ho alcuna app social e che lo uso il meno possibile perchè non mi piace proprio tenerlo in mano, la sua mancanza è stata pesantemente presente. Durante la camminata tra stazione e ufficio è il generatore di compagnia attraverso musica e podcast, nell'attesa dell'ascensore è il compagno per abbreviare l'attesa, nel breve tragitto in ascensore è il compagno per sviare sguardi o discorsi, in ufficio è il lucignolo di turino, infine è quella specie di amico immaginario che ti da sempre ragione.
+C'ho pensato più volte a farne a meno e forse basterebbe più forza di volontà, ma come dire, ormai il mondo gira così no? 
+Chissà se prima o poi riusciremo a metter un maledetto bastone in quella ruota che gira così? 
+
+Sono già oltre Padova e la situazione è sotto controllo. 
+Ammetto di aver avuto un inizio d'attacco d'ansia ma oggi l'ho steso. 
+Era arrivato a causa di una situazione nuova in questo pendolarismo monotono, ma giusto in quel momento mi sono venute sotto gli occhi queste parole: 
+Ogni momento è un nuovo inizio, un'opportunità per ricominciare, risintonizzarci e riconnetterci 
+e ancora 
+... questo significa incontrare le difficoltà e le resistenze per ascoltare, invece di reagire ad esse come da automatica consuetudine e cercare delle soluzioni più comode e apparentemente più efficaci...
+... L'obiettivo non è riuscire nella pratica, ma stare nella pratica con quel che c'è, con impegno ma senza sforzo.
+Forse per la prima volta sono riuscito ad osservare quella folla entrante in una già piccola carrozza, non come minaccia alla mia esistenza, ma per quello che sono senza giudizio.
+E anche questa puntata è così com'è, non un esercizio per arrivare chissà dove, ma una pratica per stare qui tra queste parole, per quello che sono, senza giudizio, per rimanere nella pratica con impegno ma senza sforzo.
+
+Stazione di Monselice.
+
+**Buon Venerdì.**
+`
+    },
 }; 
