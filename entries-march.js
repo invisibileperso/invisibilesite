@@ -785,4 +785,514 @@ A domani.
 Ciao.
 `
     },
+"58": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/4y0VQiFU12dgoivUOMc5Ty?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `
+        Diciotto marzo duemilaventicinque
+Episodio a braccio
+post viaggio ad Ancona
+ #58`
+    },
+    
+"59": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/68Paybsrd0CdIPhmmH99DR?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: ` Ventuno marzo duemilaventicinque
+#59
+
+In queste simpatiche giornate piene di vivaci situazioni almeno una cosa è andata dritta per il verso giusto.
+Lo so che voi speravate che io non riuscissi a trovare il file di progetto gufoni che non siete altro.
+Ho un sospetto, ma devo ancora indagare...
+Tantè che attacco l'hard disk esterno, avvio il programma di editing e tadan!
+Comapare bello bello il mio progettino completo di tutte le clip e ambaradan vari.
+Tombola!
+Almeno una che vada dritta.
+
+In compenso sul fronte portafogli...zero...porca zozzaaa!
+Ho richiamato radiotaxi di Bologna, Parma19 era rientrato in servizio ma nada, nessun portafogli.
+Aaaarg 
+Con il capo chino vado a autodenunciarmi. Maresciallo eccomi qua, il pirla che cercavate è arrivato!
+
+Giornata piena, intensa. L'idea di tornare a casa subito dopo pranzo, che tra l'altro ho saltato in tronco, si è sciolta come neve al sole!
+Una di quelle giornate che remi, 
+remi come un Abbagnale alla caccia di una medaglia olimpica incitato da quel piccoletto a prua.
+Sbraita a più non posso, alè, alè e tu gliene dai con quelle braccia e sprigioni potenza sulle gambe per far slittare quel carrello come se dovessi spostare una locomotiva seduto sulla sdraio al bagno Maria.
+Ti ritrovi sudato fradicio e non ne puoi più, ti guardi attorno e scopri che la barca è sui cavalletti.
+A sera tiri una linea, fai il totale e quello che risulta è negativo.
+Sempre a credito o a debito? Concetti economici, bè insomma concetti è una parola grossa, regolette economiche che non mi sono mai entrare in testa.
+Son più dalla parte del: Vanso schei? o Te vansi schei?
+Ecco, mi vanso, vanso vita! 
+Giornate per la gloria che veramente non ti lasciano niente dentro se non stanchezza vana che si somma a tutti gli altri mattoni che formano quella piramide gloriosa costruita invano.
+Vanso energie; sprecate? Bè la sensazione è quella. 
+Come quelle che metto in preventivo di spendere inutilmente in un altra cosetta che mi hanno coinvolto in ufficio...Cosetta per modo di dire ma che per ora non posso raccontavi. Forse quando finirà (tanto durerà al massimo un mesetto) ve la racconterò.
+Il problema è che io poi ci metto pure la testa, mi invento cose, provo cose, ma poi tutto cade o sembra cadere nel nulla. Spesso me le faccio e me le godo... ecco
+
+mmm oggi in modalità lamentino!
+
+Vabbè allora provo a mettermi dall'altra parte, ok?
+Provo una volta tanto a cercare il lato positivo?
+He, non è che non c'ho mai provato, forse c'ho sempre provato ma alla fine sotto quella linea il numero penso non sia mai stato positivo.
+Sbaglio io? Forse si. Forse dovrei mettermi in modalità spacca m... ma non ci riesco.
+
+Dai e spacca un pò gli zebedei pure te, manda un pò di mail alle 23 o alle 4 di notte, daiii che ti costa!
+
+Generalmente non ho problema ad esser fiducioso nelle persone e utopisticamente mi piacerebbe essere ricambiato ma puntualmente si viene sorpassati dai petulanti, dai finti stakanov, da quelli che han sempre una parola in più, giusta o sbagliata che sia non importa.
+E alla lunga i remi li tiri in barca e lascia che sbraiti quel timoniere nano!
+
+E mentre cercavo di raccogliere i cocci di questa giornata, ecco l’ultimo colpo: una collega che se ne va. 
+
+Ah, la vita d’ufficio… sempre pronta a sorprenderti nel modo sbagliato
+
+E non è una bella notizia. Contentissimo per lei, egoisticamente non così contento per me.
+E' quella cospicua percentuale basica che rende meno acido l'ambiente di lavoro, tolta quella, il ph rischia di scendere drasticamente.
+
+Uscendo dalle metafore, stanchezza e frustrazione sono le parole chiave di questi giorni.
+
+E quindi niente, morale della favola: ho perso un portafogli, e una collega se ne andrà.
+Però ho ritrovato il file di progetto. 
+C’è da festeggiare? 
+Mah. Forse mi offro un caffè. 
+Ah no, aspetta… il portafogli.
+
+Alla fine ho ritrovato il portafoglio, era appoggiato alla base della muretta qui fuori.
+Un cambio di prospettiva?
+No, direi solo una gran botta di culo!
+
+Ciao   `
+    },
+    "60": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/0MyqD66FCDE0LE5dMOsmoC?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: ` **Ventiquattro marzo duemilaventicinque**
+
+#60
+
+Sessantesima puntata.  
+Cavalchiamo verso il successo!  
+Sì, non so bene quale, ma l'importante è esserne convinti.  
+Insomma, con questa puntata parte un'altra settimana di _Invisibile Perso_ e non so bene cosa aspettarmi da questi giorni che arriveranno.
+
+==Lo sai che vivere nelle aspettative non va bene!==
+
+Sì, lo so, grazie, ma che palle! Un po' di… non so neanche io come spiegarmi… un po' di speranze, o sono abolite pure quelle?  
+Speranze in cosa? Non ne ho idea, visto che dovrei essere io l'artefice del mio cambiamento, giusto?
+
+==Oioioioiii, e qui veniamo al punto, il classico coltello girato e rigirato nella piaga!==
+
+Sì, lo so, devo decidere cosa voglio fare da grande.
+
+==Uè, ciccio, guarda che forse il concetto di “grande” non ti è proprio chiaro==
+
+Mollami, solito materialista dalle risposte sempre pronte e ovviamente certe al 100%.  
+Sai cosa potremmo fare? Potremmo fare uno scambio equo, una sorta di baratto. Tu mi dai un po' delle tue certezze e io ti do un po' delle mie incertezze. Potrebbe essere una soluzione vincente per tutti e due!
+
+Però, caspita, sono passate sessanta puntate e la mia situazione non è di certo cambiata dal punto di vista lavorativo. La SVOLTA, chiamiamola così, non c'è proprio stata e non è che vi sto scrivendo da una comoda scrivania in un importante ufficio di una prestigiosa agenzia di comunicazione...  
+No no, sono sempre al mio tavolo, appena risistemato dopo la cena.
+
+Sto migliorando dal punto di vista della produzione podcast?  
+Non so, dovreste dirmelo voi.  
+Di certo è un continuo cambiare: formato, modo di pormi verso di voi. Anche la scrittura sta cambiando: da più ingessata a sempre più 'parlata.  
+Ho capito che la puntata a braccio è piaciuta, o per lo meno alcuni di voi mi hanno scritto apprezzandone la simpatia e l'autenticità. Ma ammetto che non è semplicissimo essere sempre, diciamo freschi, alle 6:30 di mattina quando registro il podcast.
+Bene? Male? Non so, questo passa il convento e, come detto fin dal principio, in questo _Invisibile Perso_ il flusso delle cose vince su tutto.
+
+==Sì, ma non stai decidendo niente, non stai prendendo una strada piuttosto che un'altra!==
+
+Sì sì, dai, stai buono.  
+In certi giorni sposo in pieno la teoria del non opporsi al destino, dell'accogliere quello che la vita offre, dell'idea che in fondo la nostra strada è scritta da qualche parte.  
+Quindi, ok: accetta il tuo lavoro, cerca di viverlo al meglio, coltiva le tue passioni lasciandole tali e via così.  
+Ma nei giorni che mancano tra quegli altri "certi", mi innamoro della teoria opposta, di quelli che scrivono libri su come opporsi al proprio destino, di quelli che ti dicono che la svolta è possibile, alla portata di tutti, basta volerla!  
+E giù a pensare a come farla, sta svolta... magari mettendo una freccia?
+
+==Che paraculo che sei!!!==
+
+Ieri, giornata felice in famiglia a cena in un posto dove non ero mai stato.  
+Per noi collinari di pianura, mangiare sui Colli non è per niente la norma. Avendo tra l'altro una nonna ottima cuoca, cerchiamo di evitare il più possibile il mangiare fuori, lasciandolo volentieri ai padovani cittadini che pensano di andare chissà dove.  
+Ma ieri c'era una ricorrenza da festeggiare e allora via, al ristorante!
+
+Questa in fondo è solo la scusa per parlarvi del post-pranzo.  
+Come spesso mi capita se sono in giro per i Colli in auto, cerco la strada con più curve e così, visto che eravamo da quelle parti, ho portato la ciurma a vedere il luogo della tesi di laurea del paparino.
+
+Buso della Casara. Sorgente dei Colli, antico acquedotto romano etc. etc.  
+Quasi emozionato nel tornare in quel posto, che manco con la bici frequentavo, un po' per nausea, un po' per distacco dopo quell'anno passato a far misure, sono rimasto deluso nel trovarlo un po' abbandonato a se stesso, quell'angolo dei Colli.
+
+Tutto contento sono corso a far vedere l'entrata vera e propria ai cunicoli romani, ma mancava poco che non riuscissi a fargliela vedere, tante erano le erbacce presenti.  
+Che peccato, con un po' di volontà potrebbe diventare una vera attrazione turistica...  
+Ma tanto, che ce ne frega a noi dei Colli? Basta aver i schei per sistemar la vecia fattoria e trasformarla in agritur bio-eco-sostenibile dei me...
+
+E ovviamente, per strada ho incrociato parecchi ciclisti...
+
+Sabato ero sul divano, non volevo abbioccharmi, volevo gustarmi la Milano-Sanremo, ma a pochi chilometri dalla Cipressa... il crollo. Quei sonni istantanei, durati una manciata di chilometri e finiti all'urlo di commento dello scatto di Pogacar, seguito da Van der Poel e dal mitico Ganna.
+
+Che corsa! Era tanto che non mi emozionavo così per una gara di ciclismo. E sapete cosa? Inizia a mancarmi. Sì, lo ammetto: inizia a mancarmi il non andare in bici.
+
+Ora, intendiamoci, non sto dicendo che domani mi sveglio e mi sparo 100 km sui Colli. No, no, calma. Diciamo che potrei iniziare con qualcosa di meno traumatico. Magari gonfiare le gomme. Togliere la polvere dal telaio. Guardarla con un po’ di nostalgia e prometterle che torneremo a pedalare insieme.
+
+E poi, un giorno, chissà… magari rimettere il sedere su quel sellino. Sperando che non mi presenti il conto troppo salato.
+
+Magari la vera svolta non è una freccia, ma una pedalata.
+
+Ciao,  
+A domani.   `
+    },
+    "61": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/425aNI4JbfdhmqEjxD7zNJ?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: ` Venticinque marzo duemilaventicinque
+#61
+
+Secca, come una tranvata in pieno petto.
+Fermati un attimo e torna a quando progettavi il futuro, magari appena dopo aver finito gli studi, o quando ti immaginavi grande.
+Bene, ora, lì dove sei, come stai? Avresti mai pensato di ritrovarti esattamente così, in un mondo com’è quello di oggi?
+
+Miiii, eccolo il nuovo Marzullo!!!
+
+Dai, perché devi sempre buttarla in vacca!
+Non voglio fare il Marzullo, ma ieri, oggi, la mia testa gira attorno a questa banalissima domanda.
+La questione non è puramente personale, riguarda l'io come persona, come corpo inserito in un contesto sociale, determinato dai miei rapporti più o meno stabili con altri individui, in una società regolata da paradigmi costruiti nel tempo attraverso prassi e linguaggi condivisi.
+
+La colpa è di mia sorella, che mi ha girato un articolo scritto da Sheila McNamee.
+
+Sheila chi?
+
+Guarda, sei fuori luogo. So già che, non vedendo numeri o prove lampanti, avrai classificato tutto come fake. Ma un giorno, mio caro, un giorno verrai da me con il capo chino.
+
+#Sheila_McNamee è un’accademica americana, professoressa di comunicazione all’Università del New Hampshire e co-fondatrice del Taos Institute. È nota per il suo lavoro sul costruttivismo sociale e sulla comunicazione umana.
+
+Sia chiaro: prima di leggere l’articolo, ignoravo gran parte – anzi, forse tutti – i concetti di cui parla. Quindi, se tra voi c’è qualche sociologo, psicologo o chiunque abbia già familiarità con questi temi… abbiate pietà di me.
+
+Uno dei concetti chiave è il costruttivismo sociale, che ora proverò a banalizzare in poche parole.
+Tendiamo a pensare che la realtà sociale sia qualcosa di oggettivo, qualcosa che esiste indipendentemente da noi.
+La teoria della costruzione sociale della realtà dice che non è così: la società, i ruoli, le istituzioni non sono dati una volta per tutte, ma vengono continuamente creati e ricreati attraverso le nostre interazioni quotidiane, il linguaggio e le pratiche culturali.
+
+Il linguaggio, poi, non è un semplice strumento per descrivere il mondo, ma lo modella attivamente. Quando ripetiamo certe idee, concetti o categorie, non ci limitiamo a nominarle: le rendiamo reali. E questo vale per tutto, dal modo in cui definiamo il successo, alla percezione del genere, alla nostra idea di normalità.
+
+In sostanza, i significati sociali non sono fissi: vengono negoziati continuamente. Ogni volta che interagiamo, scambiamo punti di vista, confermiamo o mettiamo in discussione certe idee. Così facendo, contribuiamo a mantenere o trasformare la realtà in cui viviamo.
+
+Questa prospettiva ci invita a mettere in discussione ciò che consideriamo “naturale” e a chiederci: Come contribuiamo a costruire la realtà che viviamo?
+E, ancora più importante: possiamo cambiarla?
+
+Ma l’articolo che ho letto non parlava solo di questo.
+McNamee critica il modo in cui la mindfulness viene oggi proposta e praticata.
+Ora, provate a seguirmi anche se non praticate meditazione o ne avete solo una vaga idea: i concetti sono ampi e ci riguardano tutti. O almeno, sempre che riesca a spiegarmi.
+
+Mamma mia, ma cosa ti hanno dato, la laurea ad honorem tipo Valentino?
+==L’Università telematica di Topolinia nomina dottore in minchiologia il dott… ==
+
+Non ti rispondo neanche.
+
+La mindfulness è davvero lo strumento perfetto per affrontare il caos del mondo moderno?
+Siamo sicuri che funzioni nel modo in cui ce la raccontano?
+E se invece ci stesse solo insegnando a tollerare situazioni che dovremmo cambiare?
+
+E qui, io sono caduto come un pero.
+Se torno all’inizio di questa avventura, uno dei miei dubbi principali – che in parte ho ancora – è proprio questo.
+Io non voglio solo ridurre il mio livello di stress. Voglio anche cambiare le cose.
+
+McNamee propone una visione più rivoluzionaria, nel senso attivo del termine.
+Lei contrappone alla mindfulness individualista – quella che pratichiamo oggi – un’idea diversa: la presenza radicale.
+
+Secondo McNamee, “Il discorso dominante sulla mindfulness ci dice che il problema siamo noi. Se ci sentiamo stressati, ansiosi, sopraffatti, dobbiamo semplicemente imparare a gestire queste emozioni con la mindfulness.”
+
+E questa frase si collega perfettamente al mio dubbio iniziale sulla capacità di cambiamento della pratica.
+Dopo aver iniziato il mio primo corso MBSR, mi viene però il sospetto che la sua visione sia incompleta.
+O forse il corso che frequento già integra elementi relazionali e sociali che lei critica come assenti.
+
+Ma il punto più interessante del suo ragionamento è un altro.
+McNamee sottolinea come la nostra società sia profondamente individualista.
+L'isolamento non è solo una condizione personale, è una conseguenza diretta del modo in cui il mondo è organizzato. Tutto ricade sull’individuo.
+
+Le colpe sociali ricadono su di noi.
+Se il lavoro ci distrugge, è un nostro problema.
+Se siamo stressati, è perché noi dobbiamo imparare a gestirlo.
+Se il mondo è un casino, dobbiamo imparare a conviverci.
+
+Ma McNamee ci chiede:
+E se il problema non fosse dentro di noi, ma nel nostro ambiente?
+Ha senso che la soluzione sia solo personale?
+E se invece di cercare la pace interiore, provassimo a creare ambienti che favoriscono il benessere collettivo?
+
+Lo so, sono domande che non basterebbe un’intera serie di Invisibile Perso per affrontarle tutte.
+Ma forse, invece di cercare solo una consapevolezza interiore, dovremmo iniziare a praticare una consapevolezza collettiva. Non so come, magari potremmo iniziare incontrandoci?
+Per stare meglio noi, sì.
+Ma soprattutto per stare meglio insieme.
+
+Ci dovremo tornare su questo argomento, troppo rivoluzionario per chiuderlo qui.
+
+E ricordando il mattone di Paco Ignacio Taibo II…
+
+Hasta la victoria siempre.   `
+    },
+    "62": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/4bADXJJgedn9UvuEPkKPaT?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: ` Ventisei marzo duemilaventicinque #62
+
+Generalmente il martedì è così. La giornata più pesante della settimana, sicuramente peggio del lunedì. Gente che voga in laguna. Bimbo che piange in carrozza. Puzzo di fumo e di fast food mangiato come se fosse un piatto gourmet seduti in una comoda poltrona con vista su Venezia. Caldo afoso tra questi sedili. Voglia di licenziarmi, fortissimamente voglia di licenziarmi.
+
+E fallo caspita, fallo una volta per tutte no?
+
+Dillo un'altra volta e lo faccio!
+
+Fall...
+
+In dieci giorni ho cambiato più ruoli di quante magliette abbia nel cassetto.
+
+Un giorno ero quasi un esperto IT e sistemista informatico.
+Poi, da un momento all'altro, video maker specializzato in comunicazione scientifica.
+Poi gestore di dati e creatore di WebGIS.
+Il giorno dopo grafico per mappe della Biennale.
+Poi web designer e sviluppatore di siti.
+
+Bè, insomma, tutte cose tue, no? Sempre con la tastiera sotto le dita, no?
+
+Tutto normale, dici, no? Sempre con la tastiera sotto le dita, no? Ma vaff...
+
+Mò ti spiego la differenza tra essere un capetto che sparge verbo inutile non sapendo quello che dice e colui che poi alla fine deve presentare qualcosa di concreto. Vedi, finché stai al livello superiore puoi parlare di tutto e di più, tanto il gioco si fa sul piano verbale e i paroloni si imparano facilmente per far colpo sull'interlocutore. Quindi lì a quel piano, mentre ti bulli di tutto quello che non sai, stai già impilando carichi di lavoro che poi qualcuno dovrà smaltire non più sul piano verbale, ma quelle dannate parole dovranno trasformarsi e atterrare nella realtà.
+
+Allora ti ritrovi con castelli di sabbia costruiti da altri comodamente appoggiati sulle tue spalle. Ti ritrovi a fare il giocoliere e l'uomo forzuto per non far cadere quei castelli che qualcuno ha promesso a qualcun altro.
+
+E allora, nuovamente allora, improvvisi, cerchi guide, scorciatoie, scopiazzi, perché non c'è tempo per aggiornarsi, per imparare un po' meglio quella cosa.
+
+Dai che basta schicciare qualche bottone, stai sempre a lamentarti! Ormai con sta intelligenza artificiale si fa tutto.
+
+Ok, quindi fai te? Oggi per esempio ho riaperto la pagina di amministrazione di un sito che in tutta fretta avevamo imbastito due anni fa e poi, e poi non era urgente. Sì, avete capito bene. Due anni fa sembrava urgente, talmente urgente che dopo due anni è nuovamente urgente.
+
+Ma non volevo portarvi in questo, non volevo parlarvi di questo, non volevo, ma la pesantezza della situazione mi trascina e queste parole che escono le devo lasciar andare altrimenti ruminano dentro me affossandomi ancor più.
+
+Volevo portarvi con me in quella giornata del 2019, estate 2019, Agosto, caldissimo. Stavo completando il Veneto B Side.
+Il giorno prima ero salito in Lessinia dal lato vicentino scendendo dall'Altopiano di Asiago.
+Avevo già assaggiato la potenza del calore passando nelle terre omogeneizzate del prosecco, dove i magnifici pannelli luminosi dei paesini attraversati mi avvertivano dell'ondata di calore.
+Dillo a me che non so più come ripararmi dai raggi che mi cucinano come in una friggitrice ad aria!
+Discesa folle lungo quelle crinali che si allungano verso la pianura. Ricordo ancora il calore che saliva dalla pianura. Era un phon incandescente che asciugava qualsiasi goccia di sudore, talmente caldo che rendeva l'incedere difficoltoso, quasi contro senso. Perché andare verso un forno acceso? Arrivato in pianura e districatomi dal caos pedemontano che in questo Veneto è come un collettore di tutto quello che si deve spostare di traverso alle direttrici naturali, mi appianai nella prima pianura veronese. Quei posti dove l'è larga larga, dove ci sono campi e pedemontane secondari che tagliano est ovest questa maledetta regione. Stradoni, rotondoni, trattori enormi, rimorchi enormi, campi infiniti tra le rotonde e gli stradoni innaffiati da letame portato da quei rimorchi enormi. Sopravvivo a quei tunnel spazio tempo e ritrovo una strada secondaria. Magicamente ha ancora curve che costeggiano un corso d'acqua ovviamente regimentato. Un cartello indica l'obbligo di catene. Forse avanzava in qualche casa cantoniera e lì disperso tra i campi più di tanto non disturba.
+
+Vedi che non sai, qua nelle campagne d'inverno ghiaccia tutto!!!
+
+Sì, certo...obbligo di cate...per te!
+
+Un elemento verticale, inutile in questo contesto orizzontale che fa la coppia con lei. Sicuramente era una lei. Non sono botanico, ma era femmina sicuro. L'albera era solitaria a bordo strada, una pioppa grande, bella, immensa, che con la sua ombra mi aveva regalato per qualche secondo qualche decimo di grado in meno. Mi sono fermato poco dopo, sotto quell'obbligo di catene per ammirarla. Quanti anni avrà quella pioppa, quanti amici e parenti le avranno tagliato, estirpato da sotto la chioma? Rimane lei solitaria ma ferma e simbolica in questa campagna innaturale. Non l'ho più rivista, non sono più tornato per quelle strade. Quel viaggio mi provocò disgusto per questa terra veneta. Tornai disarmato e distaccato. In cerca di radici me ne tornai sradicato come tutte quelle pioppe assenti all'appello.
+
+Forse oggi mi sento più come quell'inutile cartello che quella salda pioppa.
+
+A domani, ciao.   `
+    },
+    "63": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/4AuTFbD2cP9cI3ud2EQ6Kf?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: `Ventisette marzo duemilaventicinque
+
+#63
+
+Sabotatori di tutto il mondo, uniamoci nella lotta!
+
+A parte gli scherzi,
+Ieri sono uscito prima da lavoro visto che la mia presenza non era così strettamente necessaria.
+In treno mi sono ridotto all'ascolto di un podcast non avendo energie per leggere o scrivere.
+Sono inciampato sull'ultimo episodio di Hacking Creativity e fatalità parlavano di condizioni del lavoro con Silvia Zanella esperta in risorse umane.
+
+Ovviamente mi sono sentito subito chiamato in causa quando hanno iniziato a parlare di disaffezione al lavoro e al ruolo dei sabotatori.
+
+Ma andiamo con calma. Oggi proverò a farvi un sunto di quanto ascoltato e poi letto su questo argomento, ovviamente condito con il mio vissuto al di fuori degli sterili numeri che comunque segnano una tendenza.
+
+C’è una sensazione diffusa, un malessere che non ha bisogno di grandi indagini per essere riconosciuto. Ma se volessimo quantificarlo, il report Gallup del 2024 fotografa bene la realtà: solo il 23% dei lavoratori a livello globale si sente davvero coinvolto in quello che fa.
+In Italia? 8%. Otto si avete capito bene, l'otto per cento!
+
+E certo, sono tutti come te!
+
+Aaa ma ci sei pure oggi!? che fortuna!
+
+Silvia Zanella, che da anni osserva il mondo del lavoro e ne racconta le trasformazioni parla di una "frustrazione generalizzata", di un’esasperazione silenziosa che attraversa gli uffici e le fabbriche, i coworking e le riunioni su Zoom.
+
+Non è solo una questione individuale: è un problema sistemico. Un sistema che genera frustrazione e poi si stupisce quando le persone si spengono. E #Sheila_McNamee non sbaglia a dire che è un problema sociale, più che personale. (Se non sapete di cosa parlo, recuperate la puntata del 25 marzo.)
+
+Cà miseria, ecco il rivoluzionario, manco sancho panza...
+
+Il rapporto Gallup dice che siamo il paese europeo con la più alta percentuale di "sabotatori", persone che ormai non si sentono più parte di un progetto e smettono di collaborare, minando dall’interno la produttività e il clima aziendale.
+Non è cattiveria. È resa.
+È il punto in cui si arriva quando ci si sente irrilevanti, quando l’unico stimolo è l’inerzia.
+
+Aggiungo io, quando non ci si pensa un attimo a staccare prima e a bruciare un pò di ore di permesso!
+
+Perché siamo arrivati fin qui?
+Alcune risposte sono più semplici di altre.
+Per esempio, quante volte abbiamo sentito frasi come: "Non sei pagato per pensare, sei pagato per lavorare"?
+A me non è mai stato detto, ma a volte penso che sia sottointeso, a volte invece penso che sia richiesto il pensare, salvo poi non farsene nulla
+
+Questo senso di menefreghismo dall'alto verso il basso è il veleno che toglie valore alla creatività, all’ingegno, alla dignità del lavoro.
+E poi c’è la fatica di sentirsi sempre giudicati per la produttività, per l’efficienza, senza che venga mai riconosciuto il valore della persona, delle sue competenze che vanno oltre la scrivania.
+Si lavora tanto, si lavora sempre, ma non si sente più un senso.
+Ricordiamoci che in Europa siamo quelli che lavoriamo di più, male ma lavoriamo di più.
+
+Sempre nel rapporto Gallup si scopre che il 41% dei lavoratori italiani sta cercando un altro impiego. Quasi la metà.
+
+Ocio che tutti scappa desso
+
+Bè si, lo confermo, nel giro di pochi mesi ci sono stati tre licenziamenti, tanti quanti nell'ultimo decennio.
+
+E in questo scenario, chi dovrebbe guidare il cambiamento?
+I manager?
+Messi bene siamo!
+
+Sono convinto che spesso non abbiano gli strumenti, forse schiacciati tra obiettivi e la gestione delle persone o mala gestione, tra il far sopravvivere e l’umanità.
+
+Silvia Zanella parla di "sciatteria manageriale". Un’espressione forte, ma precisa: il modo in cui le persone vengono gestite dice molto sulla cultura di un’azienda.
+
+E poi c’è la tecnologia, che ha confuso ancora di più i confini tra vita e lavoro. Siamo sempre reperibili, sempre disponibili, e il tempo personale si dissolve nel flusso continuo di email, notifiche, richieste urgenti che urgenti non sono mai. Il "diritto alla disconnessione" dovrebbe essere ovvio, ma oggi sembra quasi un privilegio.
+
+Su questo ho sempre difeso il mio spazio. Difficilmente lascio il mio telefono per questioni di lavoro, non ho app per le mail sul telefono e ho tolto la spunta da wapp. Piccole cose, ma che fanno subito capire con chi hanno a che fare. Poi per carità, la sensazione di essere sorpassati da destra quando al rientro in ufficio scopri date e ore di invio mail assurde, è grande, ma me ne frega il giusto.
+
+C’è un concetto interessante che Silvia Zanella usa per descrivere il cambiamento che stiamo vivendo: il lavoro è passato da solido a liquido, e ora è gassoso. Prima il lavoro era un pilastro, poi una corrente che ci trascinava. Ora è aria: impalpabile, instabile, ovunque e da nessuna parte. E noi, nel mezzo, cerchiamo ancora di capire come respirarlo.
+Siamo in un’epoca in cui i punti di riferimento si sgretolano, e trovare un equilibrio tra vita e lavoro diventa una lotta quotidiana.
+
+E allora, cosa vogliamo davvero?
+Non è solo questione di stipendio.
+Allo stipendio sostituirei riconoscimento, crescita, il sentirsi parte di qualcosa che abbia un senso.
+Il problema è che le risposte, spesso, tardano ad arrivare o non arrivano affatto.
+Se guardiamo alla sfera politica sembra distante anni luce da queste trasformazioni.
+Nel frattempo è arrivata l’intelligenza artificiale ridisegna gli scenari senza che nessuno ancora riesce a decifrare con chiarezza.
+
+Avremo più tempo libero? Sarà un problema pure quello? Arriverà qualcuno che regolerà anche la fruizione del nostro tempo?
+
+Silvia Zanella dice che la gente, soprattutto i giovani non è vero che non vogliono più lavorare, ma non vogliono più lavorare così.
+
+E noi, gen X che siamo sempre stati a cavallo di tutto e di niente? Ci vedremo passare quest'altra trasformazione comodamente seduti nella lounge delle frecce in una grande stazione mentre aspettiamo il treno successivo per andare ad una importante riunione?
+
+Alla prossima.    `
+    },
+    "64": {
+        spotify: `<iframe style="border-radius:12px" 
+            src="https://open.spotify.com/embed/episode/6M5zyk76QHe7lkqg4lNzxU?utm_source=generator" 
+            width="100%" 
+            height="152" 
+            frameBorder="0" 
+            allowfullscreen="" 
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+            loading="lazy">
+        </iframe>`,
+        content: ` Ventotto marzo duemilaventicinque
+
+#64
+
+Ho quarantacinque minuti per scrivere questo episodio prima di andare a prendere le pizze.
+Perché voi andate a prendere le pizze, vero? O ve le fate portare a casa?
+Immagino che nelle grandi città ormai ci siano tutti quei Deliveroo, ma qua in provincia… sì, ormai tutte le pizzerie hanno anche la consegna a domicilio, ma non lo uso.
+Mi sembra un gesto da imborghesito che non mi viene naturale.
+Almeno lo sbatti di mettermi le scarpe e andare a procacciare il cibo come un antico cacciatore delle savane.
+
+Che inizio strampalato, sarà la fame?
+
+Ma mi sa che sarà tutta la puntata così strampalata.
+
+Cosa che c’entra pochissimo, ma caspita…
+
+Ho aperto YouTube Music, servizio che uso di rado, ma stasera va così, e allora ho scoperto un singolo di Eddie Vedder, il cantante dei Pearl Jam. Poi ho attivato la riproduzione in automatico in base al sentimento di YouTube.
+Seconda canzone: The Lumineers. Terza, ora nelle mie orecchie: Temple Of The Dog – Hunger Strike.
+Be’, i Temple Of The Dog erano una crasi a loro insaputa di quelli che sarebbero stati i Soundgarden e i Pearl Jam, e in questa canzone c’è la voce che forse amo di più sentire: Chris Cornell.
+Quando morì Chris, mi misi a leggere cose sul movimento grunge e sulla musica di quegli anni. Ho un testo da qualche parte dove ho intrecciato tutti i nomi tra i componenti dei vari gruppi.
+Che figata... magari prima o poi ve ne parlerò.
+
+Quarta canzone: Society di Eddie Vedder, tratta dalla colonna sonora di Into the Wild, forse il mio film preferito, sicuramente tra i libri che più ho amato.
+Inizio a sospettare di Google.
+
+Tornando a noi…
+
+Quinta canzone: Ray LaMontagne, seconda voce più amata dopo Cornell.
+Perché non uso più spesso YouTube Music?!!?!?
+
+Tornando a noi, volevo confessarmi.
+Ebbene sì, devo confessare un paio di peccatucci.
+La settimana scorsa mi ero convinto di provare a far crescere questo viaggio attraverso l’uso dei social.
+Sì, ve l’avrò detto mille volte che praticamente non li uso. Ho un vecchio profilo su FB e uno altrettanto vecchio su IG, entrambi monotematici e legati al mio interesse per la bici.
+
+Vabbè, dai cacchio, apri sto profilo IG di Invisibile Perso.
+
+E ok dai, per una volta ti ascolto.
+
+Però guarda che gli anzianotti, quelli della Gen X, sono ancora presenti su FB, forse ti converrebbe anche lì.
+
+No, no, non allarghiamoci, già sono poco convinto e IG basta e avanza.
+
+Sesta canzone: David Kushner... vabbè, Google mi legge nel pensiero, manca solo che mi metta John.
+
+Dicevamo dei social.
+Insomma, mi impegno, cerco di creare un profilo decente e mi metto a pensare ai contenuti.
+Spulcio app con l’intelligenza artificiale per fare dei corti con un’immagine e la waveform dinamica.
+Ok, trovo, mi piace anche, salvo e sono pronto a caricare.
+E poi? Mi servono delle immagini sulle quali caricare brevi testi presi dalle puntate.
+Fatto anche questo, carico sul profilo e… sbam.
+Manco un briciolo di soddisfazione, anzi, mi do del pirla a perdere tempo in tutto questo.
+
+Ovviamente, se non "coltivi" i social, nessuno si accorge di te.
+
+Ok dai, mettici sti euro su questi post e poi tieniti pronto al successo.
+
+Sì, certo, certo... credici.
+
+Spulcio per vedere come fare, è tutto cambiato dall'ultima volta che avevo fatto una sponsorizzata e scopro che devo aprire un profilo FB.
+No, questo no.
+Lascio passare una notte e un giorno intero.
+Abbandono il progetto. Tempo perso, non ci credo e non voglio piegarmi a quelle dinamiche.
+Avevo addirittura installato IG sul telefono.
+Prontamente lo disinstallo.
+Fanculo.
+
+Il giorno dopo guardo nello zaino e trovo ancora un po’ di stickers di Invisibile Perso.
+Entro nel bar della stazione e li lascio sul bancone.
+
+Oggi ho dato un occhio alle statistiche e ho visto che quattro persone, nel corso di questi mesi, si sono disiscritte dal podcast.
+Sapete che fa sempre un certo effetto.
+Immagino rientrino nella teoria del commento negativo che pesa sempre molto di più del positivo.
+Vabbè, poco male, ma l'occhio è caduto proprio su quelle 4 flessioni piuttosto che sulle 50 risalite.
+Sarei curioso di chiedere perché. Perché non seguite più? Così, serenamente curioso.
+
+Sono quasi alla scadenza del tempo a disposizione, YouTube Music mi passa Xavier Rudd, mentre Arianna finisce la doccia ascoltando a tutto volume Sanremo 2025... AAAARG.
+
+Finisce così l'ennesima settimana.
+Con la prossima entreremo nel quarto mese dell'anno di Invisibile Perso. Pazzesco!
+
+Ciao, buon weekend.
+A lunedì.   `
+    },
 }; 
