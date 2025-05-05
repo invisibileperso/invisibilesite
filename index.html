@@ -103,6 +103,19 @@
                         <li data-entry="70">8 aprile 2025</li>
                         <li data-entry="71">9 aprile 2025</li>
                         <li data-entry="72">10 aprile 2025</li>
+                        <li data-entry="73">11 aprile 2025</li>
+                        <li data-entry="74">14 aprile 2025</li>
+                        <li data-entry="75">15 aprile 2025</li>
+                        <li data-entry="76">16 aprile 2025</li>
+                        <li data-entry="77">17 aprile 2025</li>
+                        <li data-entry="78">18 aprile 2025</li>
+                        <li data-entry="79">21 aprile 2025</li>
+                        <li data-entry="80">23 aprile 2025</li>
+                        <li data-entry="81">24 aprile 2025</li>
+                        <li data-entry="82">25 aprile 2025</li>
+                        <li data-entry="83">28 aprile 2025</li>
+                        <li data-entry="84">29 aprile 2025</li>
+                        <li data-entry="85">30 aprile 2025</li>
                 </ul>
             </div>
             <div class="column" style="height: 100%;">
@@ -114,6 +127,7 @@
     <script src="entries-february.js"></script>
     <script src="entries-march.js"></script>
     <script src="entries-april.js"></script>
+    <script src="entries-may.js"></script>
     <script>
     // Gestione click sulle date
     document.querySelectorAll('.date-list li:not(.month)').forEach(item => {
@@ -126,8 +140,10 @@
                 entry = entriesFebruary[entryId];
             } else if (entryId <=64) {
                 entry = entriesMarch[entryId];
-                } else {
+            } else if (entryId <=85) {
                 entry = entriesApril[entryId];
+                } else {
+                entry = entriesMay[entryId];
             }
             document.getElementById('text-content').innerHTML = entry.spotify + entry.content;
             document.getElementById('text-content').scrollTop=0;
