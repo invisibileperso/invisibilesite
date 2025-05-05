@@ -633,6 +633,62 @@ Ciao, a domani.  `
         </iframe>`,
         content: ` 
 #73
+Pensare troppo fa male, lo sappiamo tutti che pensare troppo fa male, ma ostinatamente continuiamo a farlo.
+
+Faccio partire l'ultimo dei Mumford and Sons, la prima traccia è _Malibù_ e il testo recita:  
+In tutti i miei dubbi  
+In tutta la mia debolezza  
+Puoi guidare?  
+Rimango indietro
+
+Coincidenze? Quel senso di rimanere indietro...  
+Quel senso di non appartenenza a quello che ci sta effimeramente davanti.  
+Sarà, ma son qui ancora con le dita sui tasti e questo schermo sporco davanti a me.  
+È la settantatreesima volta che lo faccio da inizio anno, cinque giorni alla settimana e se mi chiedo perché sono ancora qui, io lo so, lo so che sono qui perché mi serve e perché so che in qualche modo resteranno da qualche parte queste parole, per quello ci metto la voce, ci metto quelle emozioni che posso trasmettere a chi, magari pochi, magari uno solo, ascolterà.  
+Ho un obiettivo ed è quello di sedermi a scrivere ogni santo giorno senza pensare al bello, all'utile, al coinvolgente.  
+Scrivo la mia vita, oddio, pezzi della mia vita. Pezzi di vita che fanno questo podcast mio, e non viceversa.  
+Al lato pratico cosa mi serve tutto questo? Boh, forse a niente, quasi sicuramente non si aprirà alcuna porta, e forse manco dovrei dire queste cose, sia mai che un cacciatore di talenti mi ascoltasse... meglio ridere...  
+Lato umano invece serve tantissimo, perché ve l'ho già detto, ha funzionato come livella per riallineare amicizie passate, per far sì che potesse scattare anche un semplice messaggio. Quanto vale quel messaggio, quel vocale? Bé, un'enormità.  
+Oggi va così.  
+L'emozione potrebbe essere anche oggi frustrazione.  
+La stessa che provava una mia amica ieri durante un caffè tra una risata e l'altra.  
+Del senso del dovere, del lavoro, del fare, dell'applicarsi in cose nelle quali non crediamo minimamente.  
+Perché non ci avete fatti _invalori_, senza valori, senza interessi. Sarebbe tutto molto più semplice perché una cosa varrebbe come un'altra qualsiasi.  
+E invece alziamo bandiera bianca giorno dopo giorno contro cose che riteniamo inutili.  
+Ce le facciamo passare sopra, sperando che non ci schiaccino, facendole, perché il nostro fottuto senso del dovere travestito da firme in uffici notarili ci dice che dobbiamo farle.
+
+Ieri ho iniziato a sistemare LinkedIn.  
+Non ne capisco il senso, non capisco lo strumento, non capisco l'utilità, non intravedo prospettive positive ma solamente un'enorme perdita di tempo, ma lo faccio, tutti dicono che forse ne vale la pena: sarà vero? Io ci butterei 50 euri sul no.  
+Allora ho fatto una prova di ricerca. Ho inserito la parola GIS, risultato? Due opportunità di lavoro, di cui una non c'entrava na mazza. Allora ho provato con Cartografia... il sistema non riconosce la richiesta. Allora ho provato con _specialista GIS_, altre tre proposte che non c'azzeccavano con il mio profilo. E allora, dai, è una gran presa per i fondelli.  
+Mi sono intestardito e ho iniziato a cercare documenti, scritti, qualsiasi cosa che mi spiegasse se effettivamente questo stramaledetto LinkedIn fosse realmente efficace.  
+Non si trova nulla!!!  
+Ossia, nulla di realmente critico e analitico. Solo propaganda da parte di LinkedIn stesso o dai millemila siti di fuffaguru che spingono all'utilizzo dello strumento.  
+Sapete quanti iscritti ha LinkedIn?  
+Poco più di un miliardo di utenti globali, mentre in Italia gli iscritti a LinkedIn sono circa 18 milioni, qui le stime sono un po' ballerine ma indicativamente il numero è quello, che è ben diverso dal numero di utenti attivi, che è poco più di 9 milioni.  
+I giovani attorno ai 30 anni sono quelli che lo utilizzano di più (60% degli utenti), mentre la Gen X si ferma al 17% circa.  
+A livello globale stimano che ogni minuto dalle 3 alle 8 persone vengano assunte via LinkedIn a fronte delle 6000 candidature sottomesse. 
+Uno su mille ce la fa, dicevano. Ma pure qui, su LinkedIn, è peggio che vincere un concorso pubblico.
+Chi sono quelli che possono avere maggiori benefici? Neolaureati, o comunque giovani e manager. Stop.  
+E allora, tu geologo esperto in GIS forse fai prima a chiamare una di quelle agenzie che una volta si chiamavano _interinali_, e che ora si chiameranno con un fantasmagorico nomignolo inglese, per sentirti rispondere:  
+"Scusi, che lavoro fa?"  
+"Geologo, esperto in GIS."  
+"Aaa ok, geologo esperto in GIS... aaa scusi ma è la prima volta che lo sento..."  
+Ecco, probabilmente anche l'ultima.
+
+Perché poi ti arriva un altro messaggio da una mega convention futuristica: ma stanno dicendo che ciascuno potrebbe avere un proprio _digital twins_...  
+Ma sono tutti vecchi che parlano del futuro...  
+E quegli stessi vecchi sono stati nostri genitori, i nostri capetti della minchia... che ci hanno portato per mano insegnandoci il giusto e lo sbagliato,  
+"Vien con mi che te insegno"  
+E alla fine non ci hanno insegnato nulla, se non ad accucciarci in attesa del biscottino, della carezza, dei dieci euro in più in busta paga, perché jera giusto cussì.  
+Bè, fanculo!
+
+E intanto continuo a pensare. Troppo.  
+Anche oggi.  
+Pensare se ne valga la pena, se serva a qualcosa questo podcast, se abbia senso cercare un lavoro con LinkedIn, se valga ancora la pena provarci.  
+E ogni volta che mi perdo in questo groviglio di pensieri, poi mi ritrovo qui. A scrivere, a registrare.  
+Forse perché, alla fine, è l’unica cosa che non mi fa male.
+
+Ciao a domani.
 `
     },    
  "74": {
@@ -647,6 +703,92 @@ Ciao, a domani.  `
         </iframe>`,
         content: ` 
 #74
+Pazzesco come vola il tempo, no? 
+Eppure ci sono cose che restano, come certe tavole di legno che dopo 15 anni ancora tengono botta…
+Siamo già a metà aprile, Domenica sarà Pasqua e poi tra 25 Aprile e ponte del primo maggio ci catapulteremo già verso la metà di questo 2025.
+Per chi va a scuola inizia l'ultimo periodo, per chi invece non va a scuola ma ha in casa qualcuno che ancora ci và, inizierà la via crucis dei centri estivi, ma avremo modo di parlarne.
+E comunque entrare nel business dei centri estivi potrebbe essere una soluzione da non scartare...non ho idea come...ma così giusto per buttarla li.
+
+==Dai vecchio che mettiamo su un centro estivo, con il tuo amore per i più piccoli e la mia vena imprenditoriale...niente niente che facciamo il primo unicorno dell'educazione estiva!==
+
+Si certo, ciao intanto, si proprio, hai detto bene, con il mio amore per i più piccoli...lasciamo perdere, ma potrei amarli se pagassero una lauta retta... Dai che lo facciamo 
+Money!!!
+
+Dai, scherzo, adoro i bambini...
+
+==Guarda sei credibile come un baro ubriaco al casinò==
+
+Bè lasciamo che l'idea maturi...
+
+Torniamo a noi che è meglio.
+
+Vi capita mai di cimentarvi in progetti che non conoscete alla perfezione ma che sentite di poter portare a casa in un modo o nell'altro? Non intendo cose che vi danno da risolvere al lavoro, intendo progetti che vi ispirano, che decidete di intraprendere in autonomia, per il gusto di farlo.
+
+Bè sabato mi sono immerso in uno di questi.
+In sintesi l'oggetto del progetto era, ed è perchè devo ancora finire, trasformare una pedana con tavole in legno che avevamo in giardino in dei mega vasi per creare un orto rialzato.
+Nella mia mente c'era l'idea di recuperare le tavole per riassemblarle in cassoni di varie misure da mettere al posto della pedana.
+Giusto per darvi le dimensioni del progetto, la pedana era un quadrato di quattro metri di lato formato da due serie di tavole larghe 14cm e lunghe 2 metri.
+Le tavole erano avvitate ad una struttura di travi in legno appoggiate su di un sottofondo di ghiaia. Il tutto fatto da me con l'aiuto del Peach tre anni fa. 
+Le tavole di legno pregiato, sapete di quelle essenze tropicali ideali per resistere alle intemperie costituivano una precedente pedana nel vecchio giardino della vecchia casa. Insomma ormai si sono già fatte 15 inverni e 15 estati e nonostante la manutenzione, hanno evidenti segni di vecchiaia.
+
+Ma per dei splendidi cassoni per l'orto rialzato potrebbero andar ancora bene!
+
+Ok, mi preparo avvitatore, sega circolare, e un pò di utensili che potrebbero venirmi utili. 
+Prima operazione, svitare e togliere le tavole.
+Vai, di avvitatore e track, le viti sono quasi tutte arrugginite e non appena l'avvitatore prova a svitarle, alè che parte la testa...
+Alla fine riuscirò a svitare forse meno di un 10% di tutte le viti presenti...
+Bene e mò come tolgo le tavole senza distruggerle?
+Vado di forza con scalpello e mazzetta pesante... Pian piano sollevo i lati delle tavole e con froza bruta le stacco dai monconi di vite...
+
+==Ciò ma quando alzavi le tevole, ti strappavi la maglietta come Hulk Hoogan??==
+
+Cretino!
+
+Insomma, dopo quattro tavole, guardo le restanti e mi do dello scemo totale...
+
+Provo e riprovo finchè trovo una strategia vincente che mi fa fare un pò meno fatica, ma caspita che sudata!
+Finisco la prima fila di tavole, e decido di provare a costruire la prima maxi fioriera con le tavole tolte.
+Bene, facile no?
+
+==Il geppetto de noaltri, alla fine ci parlavi con le tavole? Ti rispondevano?==
+Si ci parlavo, ma meglio non ripetere cosa gli sussurravo...
+
+Ogni tavola era da rifilare, prima un lato, poi l'altro e poi da tagliare a misura, tagliare i listelli verticali e le pareti più corte.
+
+Bene, tavolame tutto pronto per la prima maxi fioriera. E mò? Non è che costruisco box in legno tutti i giorni e quindi provo una tecnica e mi sembra ok, ma mi accorgo che non tutto è in bolla e allineato... CASSSPITAA
+
+Ok, riparto...riforo le tavole, riavvito e magicamente ecco il primo box!
+
+Bene, peccato che il progetto preveda 4 box...e debba ancora togliere le tavole che compongono l'altra metà.
+
+Ho già le mani dolenti e le spalle stanchissime, ma morissi qui, or di sera avrò i miei orti rialzati.
+
+==Si certo, sogna! Ma scusa con cosa li riempiresti quei popò di scatoloni in legno?==
+EEE con cosa vuoi che li riempia, con la terra!
+Sotto ci potrebbe andare del legname secco e poi un misto di sabbia, terra argillosa e stallatico o torba buona, o compost di qualità.
+==E tu li hai scommetto vero?==
+MMMM no, non ancora... ma una cosa alla volta!
+
+Insomma la faccio breve: tolgo tutte le tavole, taglio a misura quelle che mi servono, costruisco il secondo box, livello il sottofondo in ghiaia, posiziono i primi due box. Parto con il terzo che sarà più alto e dovrò unire con il quarto ma sarà la stanchezza, sarà non so cosa, non mi viene fuori alla perfezione, ma quello rimane. 
+
+Ero indeciso se iniziare anche con l'ultimo ma li ho sentito la fatica che saliva.  
+Ma non era solo stanchezza fisica.
+Ogni vite svitata, ogni tavola sollevata, è stato, forse, un pezzo di fatica mentale che si allentava, si staccava per far spazio alla fatica del presente.
+La sera incalzava, la stanchezza regnava sovrana e ho deciso di fermarmi prima che facessi qualche cavolata. 
+
+Il terreno arriverà probabilmente tra 15 giorni visto che il weekend prossimo è di festa, avrò tempo di finire il tutto e di programmare le semine.
+
+Che soddisfazione però, che bello usare le mani, che bello impegnarsi in qualcosa che poi si concretizza in oggetti utili. 
+
+In un mondo in cui passiamo le giornate a cliccare, scrollare, ottimizzare... c’è qualcosa di profondamente liberatorio nel segare, avvitare, sudare."
+
+Ero stanchissimo, nel pomeriggio ho avuto momenti di vera stanchezza fisica ma ero fiero di me. Penso sia un qualcosa che mi ha lasciato mi papà, quello di saper costruire cose, o per lo meno di provarci, di cimentarsi senza timori. Non sono un falegname, ma non mi tiro indietro. Certo potrebbero essere oggetto di molte critiche, non tutto era in bolla, non tutto era allineato. Ma forse, proprio come nella vita, non serve che tutto lo sia e comunque l'orgoglio di averli fatti supera ogni cosa. 
+
+Ora sono li ancora vuoti, ma faranno nascere e crescere, non solo piante, ne sono sicuro.
+
+Magari vi racconterò come andrà a finire con i primi pomodori… Ma intanto, voi avete mai costruito qualcosa con le vostre mani? E che cosa vi ha lasciato?
+
+A domani.
 `
     }, 
  "75": {
@@ -661,6 +803,83 @@ Ciao, a domani.  `
         </iframe>`,
         content: ` 
 #75
+Come state?  
+Penso di non avervelo mai chiesto.  
+Spero bene, ognuno nelle proprie vite.
+
+Io boh,  
+andiamo oltre.
+
+Non centra nulla ma ho guardato un attimo la casella di posta e porca vacca quante cavolo di mail inutili arrivano!  
+Le newsletter mandate dai brand o dagli e-commerce sono come l'erba cattiva.  
+Nonostante le cancellazioni quotidiane, ne nascono sempre di nuove!  
+Una battaglia persa in partenza.
+
+Scusatemi, ma oggi sono particolarmente _scentrato_ e, nonostante la tazza con la tisana sia qui al mio fianco, non riesco a focalizzare il nocciolo della questione, e allora continuo a volarci intorno.
+Oggi non ho una direzione, solo un istinto: aggrapparmi a un'idea come fosse un dado in parete.
+
+Parto da qui da una lettura fatta questa sera in treno.
+Ho iniziato da poco un libriccino per staccare un attimo la spina dalle letture sul mondo della meditazione e, come spesso mi capita, finisco sulle cose leggere leggere...
+
+
+==Ti sei preso un _Harmony_?==
+
+Quelli magari li leggi _te_ mentre assapori la vita in bagno.
+
+No, dicevo leggero eufemisticamente parlando.  
+
+Vi siete mai chiesti quanto di quello che pensiamo sia davvero nostro?
+Bhè
+Ho iniziato _Propaganda_ di Edward L. Bernays, scritto alla fine degli anni '20 del Novecento da una delle figure decisive del secolo americano.  
+Si può definire come uno dei padri delle "pubbliche relazioni" e, come dice il titolo del libro, si è occupato di come si può manipolare l'opinione pubblica attraverso tecniche comunicative specifiche.  
+Volevo leggervi un breve passo dalle prime pagine.  
+A dire il vero, vorrei leggervelo tutto, ma trovo che le righe seguenti siano significative all'interno di _Invisibile perso_.
+
+> "Accettiamo dai nostri dirigenti e dai mezzi di comunicazione che essi usano per arrivare all'opinione pubblica la demarcazione e definizione dei problemi di interesse generale, mentre invece dalle guide morali, che siano ministri, opinionisti ascoltati o semplicemente l'opinione generalizzata, accettiamo un codice standardizzato di comportamento sociale al quale quasi sempre ci adeguiamo.  
+> In teoria, tutti acquistiamo il prodotto migliore e più economico che offre il mercato.  
+> In pratica, se prima dell'acquisto ciascuno di noi dovesse andare in giro a verificare i prezzi e analizzare la composizione chimica delle decine di saponi, tessuti o marche di biscotti posti in vendita, la vita economica diverrebbe un caos, si paralizzerebbe letteralmente.  
+> Per evitare ciò, la società accetta di limitare le proprie scelte alle idee e merci portate alla sua attenzione attraverso ogni tipo di propaganda.  
+> Di conseguenza, oggi assistiamo a un immenso e insistito sforzo per catturare la nostra mente a favore di qualche programma politico o merce o idea."
+
+Non male per esser stato scritto un secolo fa, o peggio...  
+Se valgono ancora quelle parole, forse non ci siamo evoluti granché sul piano sociale, no?
+
+Beh, non so se questa lettura mi servirà per alleggerire un po' dagli scritti meditativi, mi sa che queste righe avranno l'effetto opposto.  
+Già sono in conflitto con l'ambaradan... forse sto gettando un po' di benzina sul fuoco.
+
+==Ciccio, vai tranquillo che ho il numero di Grisù in rubrica, arriva lui a spegnere l'incendio!==
+
+Dimmi, ma una volta riuscirai a far il serio?
+
+==Ma certo, perché da grande voglio fare il pompiereeee!!!==
+
+Lasciamo perdere...
+
+Tornando per un attimo alla meditazione, mi sono iscritto a una serie di incontri, purtroppo solo online, all'interno dei quali si approfondirà il tema del respiro nella meditazione.  
+Non sarà all'interno della mindfulness, ma all'interno della meditazione yoga.  
+Insomma, altri aspetti, altre facce che sono curioso di conoscere e ovviamente ve ne parlerò per quanto sarà nelle mie capacità.
+
+Ormai sono a quindici giorni dalla fine del percorso MBSR.  
+La pratica procede, talvolta a fatica e talvolta, invece, torno a utilizzare le tracce audio per avere una sponda alla quale appoggiarmi nelle serate più difficili, dove la mente stracolma di ruminazioni sulla giornata lavorativa diventa ostile all'idea di lasciar andare i pensieri.  
+Questa sera è forse una di quelle.
+
+Oggi in ufficio mi veniva l'urticaria, stavo scomodo, avevo la sedia che scottava e i monitor del pc erano come gli specchi deformanti che ci sono all'interno della giostra della paura nelle sagre paesane: qualcosa di inguardabile!  
+Se ci penso ancora mi si chiudono gli occhi e la testa _diventa_ pesantissima.
+
+Un amico mi ha detto di accettare questo momento, di non affrettare, che tutto avrà un senso.  
+Non lo so, non lo so, vorrei tanto che questo tempo fosse agli sgoccioli.  
+Vorrei avere un piccolo appiglio, una micro fessura alla quale aggrapparmi.  
+Avete idea di quelle piccole fessure, dove ci si possono incastrare i dadi per arrampicare?  
+Quei sistemi di sicurezza per progredire nella parete che giocano sull'incastro di un piccolo cubetto di metallo all'interno di una ferita rocciosa, con la speranza che tengano.  
+Ma spesso, più che alla sicurezza fisica, servono alla mente.  
+Servono per dividere la distanza che ci separerebbe da uno schianto fatale in piccole sezioni che ci ricuciono alla parete e alla salvezza dal vuoto.  
+Ecco, mi basterebbe un'idea di salvezza come quella che offre un piccolo dado in una big wall.
+
+Non volermene se te lo chiedo, non lo faccio da moltissimo, ma se questo episodio ti ha tenuto compagnia, mi farebbe un gran piacere su lo condividessi con una persona che potrebbe apprezzarlo.
+Grazie
+
+A domani,  
+ciao.
 `
     },
  "76": {
@@ -675,6 +894,68 @@ Ciao, a domani.  `
         </iframe>`,
         content: ` 
 #76
+==Oggi la puntata la faccio io, il vostro amico è ancora sotto le coperte!==
+
+Daiii, molla il microfono e vai a prenderti un caffè, che è meglio.  
+Qua non si può mollare un attimo che subito arrivano a prendersi la gallinella dalle uova d’oro.
+
+==Sì certo, sogna ciccio. Dai, cosa vuoi? Il solito? Caffè lungo e brioche?==
+
+Sì grazie, gentilissimo.
+
+Beh, non so se riuscirò a pubblicare questa puntata entro le solite tempistiche di _Invisibile Perso_, perché questa mattina — cioè la mattina del 16 — dovrò andare in quel di Capodistria per un’effervescente riunione.  
+Vi racconterò, se ci sarà qualcosa da raccontare.
+
+Ma rimanendo fedeli al racconto postumo, ieri ho conosciuto Michele.
+
+==Sì, e io ho conosciuto Toni… Toni Sugaman… you know?==
+
+Ma non dovevi andare a prendere il caffè?
+
+==Adesso vado, ero curioso di sentire le tue paroline da guretto dei me…==
+
+Dai vecchiooo, mollami e vai a prender sti caffè.
+
+Sceso per un caffè, incontro Michele. Artista, pittore, toscano, poco più di trent’anni, stava ritraendo il Ponte di Rialto con i suoi colori ad olio. Attacchiamo bottone, e insomma: era disegnatore di scarpe, poi con il Covid sono saltati tutti i piani. Ha mollato il lavoro da dipendente — tante ore, pochi schei — e ha deciso di seguire la sua passione. Si è trasferito a Firenze e ora vive così.  
+Starà a Venezia tutta la settimana a ritrarre paesaggi, che poi venderà online e nella sua galleria condivisa con altri artisti. Disegna e insegna. Americani, tanti americani. Il mese prossimo andrà in America a tenere corsi individuali su richiesta. Tutto spesato.  
+Gli ho fatto i complimenti, mentre lui continuava a dirmi che anche nella sua generazione c’è disorientamento assoluto, e che tantissimi hanno cambiato vita mollando il “fisso”.  
+Dai, sarà sempre la solita persecuzione della teoria della macchina gialla: quando ti fissi su una cosa, tutto magicamente inizia a ruotare attorno a quell’unico argomento.  
+Invece mi sa che è ben più profondo il problema. Forse transgenerazionale, forse è come diceva **[NOME]**: molti non hanno più voglia di giocare a queste regole, e chi può cambia tabellone del gioco.  
+Quando sento queste storie non so se mi aumenti il senso di frustrazione, o se mi rimettano in moto in cerca del cambiamento. Oggi forse più la prima.  
+Ma in questa direzione, devo dire il vero, qualcosa ho fatto per smuovere le acque. Non nel solco del mio attuale lavoro, ma seguendo l’istinto di _Invisibile Perso_: ho impostato una possibile newsletter settimanale, in cui raccogliere gli episodi della settimana.  
+Forse potrebbe aiutarmi a far conoscere queste parole. Che ne dite? Lasciatemi un commento o rispondete al sondaggio associato alla puntata. Grazie!
+
+Sono fermo in stazione a Padova. Guardo fuori dal finestrino e un giovanotto in maniche corte apre lo zainetto, tira fuori il deodorante, si spara un po’ di spruzzate sotto le ascelle, ripone il tutto, prende le cuffie bluetooth… e via, come nuovo. Basta poco per strapparmi un sorriso.  
+Mi immagino che stia prendendo il treno per raggiungere l’amata.
+
+Ieri sera, dopo aver scritto la puntata, toccava la pratica di meditazione. Era da quando ero rientrato a casa che ci pensavo, e avevo quasi del tutto stabilito che avrei sfruttato una traccia dell’insegnante: mi accusavo di essere troppo stanco per mettermi a praticare nel silenzio.  
+Poi è scattato qualcosa.  
+Ho iniziato a rovesciare il pensiero, a chiedermi per quale motivo non mi ritenessi in grado di affrontare trenta minuti di silenzio con me stesso.
+
+==Ti sei toccato sul vivo, vero? Come se non ti conoscessi…==
+
+Esatto, è scattata la sfida.  
+Io che non so stare con me stesso? Proprio tu che amavi startene da solo? Proprio tu che non ami le folle?  
+Tu ora schivi la vera solitudine. La schivi ascoltando musica, lasciando la TV accesa di sottofondo.  
+Ammettilo: hai paura del silenzio. Hai paura di scoprirti. Ammettilo.  
+Ok, allora facciamolo. Rifacciamolo.  
+Io da solo. Nessuna traccia. Silenzio e pensieri.
+
+Provate a pensare a quante volte state in silenzio senza stimoli esterni per 30 minuti.  
+Provate ad immaginarvi in quei 30 minuti — magari anche solo 10, all’inizio — senza tracce, senza nulla, solo voi con voi stessi.  
+Lo so, può far paura. Ma poi passa.  
+Il tempo passa. Non abbiate fretta di farlo scorrere: il tempo passa ugualmente, istante dopo istante, che voi ci pensiate oppure no.  
+Lui scorre. Anzi: lui sta fermo.  
+Sono i nostri respiri che ci portano lungo la linea del tempo.  
+Ogni respiro è novità. È avanzamento nello stare.
+
+In quei 30 minuti ho ritrovato il mio piccolo interiore. L’ho ritrovato per poco, ma era lì che mi aspettava.  
+Ci rivedremo, ne sono sicuro.  
+Come rivedrò nella mia mente quelle sensazioni dell’essere senza il fare. Della mente senza mente.  
+Lo so, queste parole sono povere. Granelli di sabbia rispetto al deserto dello stare. Inutili nello descrivere, ma piccoli ancoraggi per ritrovare quella stasi.
+
+A domani,  
+Ciao.
 `
     },    
  "77": {
@@ -689,6 +970,90 @@ Ciao, a domani.  `
         </iframe>`,
         content: ` 
 #77
+Settantasette: il numero delle donne, dei diavoletti...  
+Soprattutto l’anno dei migliori.
+
+==Modestino in azione, attenzione… scansatevi, potrebbe essere pericoloso!!!==
+
+Ciao Vecchio, guarda che anche tu sei di quell’anno... ma, come si dice, c’è sempre l’eccezione che conferma la regola, no?
+
+==Oltre a Modestino, pure simpaticissimooooo==
+
+Giornata di corse, spostamenti, incastri perfetti o quasi e imprevisti perfetti, quelli si. Eppure, arrivato a sera, la sensazione non è di essere andato avanti, ma di aver girato in tondo. Sarà che certi viaggi, certe giornate somigliano a una inutile coreografia: tanto movimento, poco spostamento
+
+Primo treno del giorno: ore 5:52, direzione Mestre. Popolo diverso, tanti posti liberi.  
+Mi siedo, tiro fuori il pc e inizio l’editing della puntata.  
+Padova: devo cambiare, altrimenti perdo la coincidenza per Mestre.  
+Infila tutto nello zaino, esco, scale per scendere, sottopasso, scale per salire, binario 5, treno da Verona per Venezia.  
+Popolo diverso, meno posti liberi.  
+Mi siedo, riprendo il pc e continuo l’editing.  
+Mestre si avvicina: salvo, carico la puntata, inserisco titolo e descrizione. E via: puntata caricata.  
+Ottimo risultato.
+
+Mestre. Rimetto via il pc, esco dal treno, guardo il binario per il prossimo verso Treviso e ho la bellezza di poco più di un quarto d’ora per un caffè.  
+I bar in stazione a Mestre sono tremendi: nel primo c’è fila alla cassa, il secondo ha i tabelloni per ordinare stile McDonald’s e brioche tremende.  
+Torno al primo, mi metto in fila, ordino nel casino totale... no, così no bene... rimpiango il bar di Venezia dove mi accolgono con un confortevole “Il solito?”
+
+Torno al binario. Treno per Treviso. Popolo diverso, molti posti liberi.  
+Non ho voglia di chiedere alla collega in che carrozza sia. Mi appollaio su un sedile. Notte.  
+Preganziol: si scende. Mi incontro con la collega, saliamo in auto direzione Koper, meglio conosciuta dagli sportivi come Tele Capodistria.  
+Scarse due ore d’auto.  
+Entro in modalità teenager, tiro fuori gli auricolari, podcast e video su YouTube. Zero interesse per i discorsi, immagino sull’imminente riunione e il progetto in generale.  
+Mi son sempre chiesto: ma se bisogna parlare tanto per parlare, allora parliamo di cazzate, no? Almeno è più divertente.  
+E invece no, bisogna stare nel personaggio.
+
+Arriviamo all’oasi naturalistica affacciata sulla strada più trafficata della Slovenia (ipotizzo, vista la colonna infinita di TIR), che in Italia sarebbe già tutta asfaltata o piena di capannoni.
+
+Saluti, secondo caffè (stavolta con la cialda… tremendo).  
+Solite presentazioni: tutti bravissimi in quello che fanno, applausi per tutti.  
+Pure noi, ovviamente, bravissimi. Vogliono vedere il WebGIS che ho messo in piedi. E secondo voi la rete funzionava? Macché…  
+Bello, carino, figo… manca solo una parola, che dovrebbe essere la prima: _utile_.  
+Ecco, generalmente non si parla mai di utilità.  
+Vabbè, sarà… meglio carino che brutto.
+
+***A pensarci sembra proprio che tutto si muova, treni, auto, i browser che si bloccano, le slide che scorrono. Ma in fondo cosa cambia?. Il dato si misura, il progetto si racconta, il tempo inevitabilmente consuma. In che direzione andiamo davvero?***
+
+***Entusiasmi inutili, sensori magici che mostrano andamenti naturali… toh, guarda un po’.***  
+***Questo me lo segno: la spasmodica ricerca del dato.***  
+***Il dato che spiega tutto, che mostra, che evidenzia… tanto utile quanto il mio WebGIS.***  
+***Chiaro: non sono contro il dato, ma contro un uso insensato di misurazioni fatte solo per spendere budget, in contesti ambientali che non hanno nulla da dire, solo per verificare l’andamento naturale dei fenomeni.***
+
+Mi fermo. Potrei predicare su questa cosa per una giornata intera, ma meglio andare a mangiare i cevapcici offerti per pranzo.
+
+Seconda sessione, quella amministrativa: totalmente snobbata dal mio cervello.  
+E via che si torna.
+
+Auto, Preganziol, treno. Popolo diverso, pochi posti.  
+Mestre. Orario decente, forse riesco a tornare alla solita ora...  
+Ma non avevo fatto i conti con Trenitalia!
+
+Circolazione sospesa. I tabelloni snocciolano ritardi: 60, 70, 30 minuti.  
+La vedo dura.  
+E invece, treno per Bologna annunciato in orario.  
+Eccolo che arriva, binario affollato. Punto alla coda.  
+Mi sfila davanti un treno fatto di popolo: le lamiere delle carrozze erano sorrette dai corpi al loro interno…
+
+Punto al regionale per Ferrara. Regionale lento.  
+Talmente lento che, vista la folla, ci si poteva aggrappare alla cappotta. Peggio del precedente.  
+Lo lascio andare.
+
+Analogo regionale in partenza su un altro binario.  
+Mi ci fiondo. Popolo diverso, molti posti liberi. Goduria. Cervello in fumo. Mi rassegno a YouTube.  
+Padova. Scendo, in attesa di un treno per il limitare dei Colli Euganei.  
+Cammino su e giù, ascoltando cose.  
+Treno in arrivo (ovviamente con cinque minuti di ritardo).  
+Sesto treno del giorno. Popolo di ritorno, puzzolente come il sottoscritto.  
+Maledette magliette sintetiche della Tezenis, petrolifere e maleodoranti.
+
+19:45. Pizze pronte a nome tuo.  
+Ok, vado diretto a prenderle io.
+
+***Sei treni, due viaggi in auto, quattro ore di meeting, un “carino”, un paio di cevapcici, applausi per tutti e la sensazione che la giornata l'abbia vinta a mani basse Trenitalia.**
+**Oggi il mondo mi è passato addosso come un regionale lento, un attimo di celebrità, ma in fondo che ci facevo a bordo di quel treno, per quale direzione?***
+
+
+A domani.  
+Ciao.
 `
     }, 
 
@@ -704,6 +1069,60 @@ Ciao, a domani.  `
         </iframe>`,
         content: ` 
 #78
+Buondì,
+verso gli inizi di questo podcast, andavo in cerca della parola o dell'emozione che potesse rappresentare la giornata passata.
+Provo a rifare il giochino in cerca della parola chiave per raccontare la giornata di ieri.
+A dire il vero non ci metto molto a trovarla ed è: DECADENZA!
+Eee si decadenza che presto si declina in vecchiaia...o mal di schiena.
+
+==Hai mal di schiena mi caro giovanotto? o come diceva il buon prof di estimo...GIOVINOTTO???==
+
+Si, taci, mi sono alzato ieri dopo una sessione al pc e track, piccole fitte sul lato sinistro che li per li ho banalizzato, tanto che avevo quasi deciso di andare a correre, ma poi con il passare dei minuti le piccole fitte si sono trasformate in lamentoso dolore e fastidio persistente che felicemente si acutizza appena il mio corpo va fuori asse.
+
+Ovviamente tutto si è tramutato in sonore prese per i fondelli...
+
+E non metterti anche te capito?
+
+==IO? ma figurati, ti pare che possa prenderti per i fondelli? massima solidarietà ciccio, massima solidarietà!==
+
+Bene,
+tutto ciò però confligge con i programmi che consisterebbero nel concludere le casse per l'orto rialzato, sistemare il giardino e fare le focacce pasquali...
+Insomma, questa mattina un pò meglio ma le lavorazioni di carpenteria per le casse direi che non è proprio il caso visto che li ci devo metter forza bruta, il resto forse dovrei riuscirci.
+
+E ieri sera mentre ero a letto a leggere mi sono tornate in mente le parole di Anna, l'insegnate MBSR. 
+Che senso ha rimuginare quando il nostro corpo ci lancia segnali dolorosi. Che senso ha chiederci perchè ci siamo presi un raffreddore e ora che senso ha star qui a chiedermi come cavolo ho fatto a farmi venire questo mal di schiena.
+L'idea di porsi in accettazione verso il dolore è controintuitivo.
+Chi mai ha voglia di accettare il dolore, chi è quel pazzo che lo accoglie e decide di convivere stando in quella situazione?
+All'interno della mindfulness l'accettazione del dolore non è rassegnazione o accettazione passiva, non è subire il dolore, ma un accogliere come atto di apertura, un ritorno al riconoscere per quello che è il presente senza giudizio.
+Jon Kabat Zinn diceva che:
+"Non puoi fermare le onde, ma puoi imparare a surfare"
+
+==OK, ma cavolo, se ti fa male e dovevi fare un bel pò di cose, come fai a non essere incavolato per tutto quello che non riesci a fare??==
+
+He, qui sta il bello, qui sta tutto il stare nel momento, senza giudicare. Lascia perdere quello che avresti potuto fare, quello è futuro e non è nelle nostre capacità di questo momento. 
+Bisogna essere in grado di cambiare prospettiva per non mettere il dolore nel campo degli avversari, ma accoglierlo come compagno di squadra, cercando di non aggiungere un ulteriore strato di sofferenza fatto dalle emozioni che inconsapevolmente facciamo nascere come la resistenza o la rabbia.
+
+Non sono in grado di guidarvi, ma si può meditare nel dolore, riconoscendolo, percependo il dove si trovi nel corpo, destrutturandolo, analizzandolo, definendone forma, sensazioni e pensieri che nascono da esso.
+
+E' solo una mia esperienza e come tale ve la riporto. 
+Normalmente io soffro di dolore alle cervicali per posture sbagliate e le troppe ore passate seduto al pc. C'è una tipologia di meditazione che si basa sulla consapevolezza corporea e sul dolore nel corpo. Attraverso di essa ho imparato, forse meglio sto imparando, a portare il respiro nei luoghi di dolore. Portare il respiro significa portare l'attenzione, portarli in primo piano, significa far si che l'energia del respiro si concentri in quei punti, in quelle zone del corpo, significa liberarle dalle tensioni con l'espirazione. 
+Con questo non voglio dirvi che tutto è risolvibile, ma tutto può esser visto sotto nuovi punti di vista. 
+Vi assicuro che non serve molto, o forse si, se il molto lo pesiamo con l'unità di misura della volontà di farlo e di starci. 
+Così, quelle zone indolenzite, doloranti, entrano a far parte di noi, non sono più parti da allontanare, diventano vive in noi e con noi possono alleggerirsi, rasserenarsi, con il respiro, con l'attenzione che decidiamo di dedicargli.
+
+Vedete, anche lo scrivere del dolore è una forma di riconoscimento, di accettazione, perchè si è costretti ad osservarlo, a percepirlo a farlo nostro.
+Citando Thic Nhat Hanh
+Scrivere del dolore è anche questo: farci brillare sopra un po’ di sole
+
+Mi è passato il mal di schiena?
+No, è ancora li, ma il mio atteggiamento è cambiato.
+Nel mio volto è comparso un leggero sorriso 
+E con lui, e con il mal di schiena, intendo passare il resto della giornata.
+
+Buon sorriso a tutti.
+
+Ciao a lunedì. 
+Sarà festivo, ma Invisibile Perso ci sarà.
 `
     }, 
 
@@ -719,6 +1138,50 @@ Ciao, a domani.  `
         </iframe>`,
         content: ` 
 #79
+È iniziato il mondiale di Snooker e Wakelin, uno dei pochi a giocare con un completo non nero, sta per fare lo sgambetto al campionissimo australiano Robertson.  
+So che ci tenevate a questo aggiornamento, ma ieri il numero due al mondo è stato eliminato da Lei, giovane cinese che ha battuto Wilson al _decider_, cioè l'ultima partita possibile delle 19, togliendo di mezzo uno dei favoriti. In tabellone compare anche il più grande dei grandi, ossia Ronnie O'Sullivan.
+
+==Ma ti rendi conto che sarai te e qualche decina di malati a guardare 'sta roba noiosissima?==
+
+Un giorno capirete anche voi...
+
+A parte gli scherzi, lo trovo di una difficoltà estrema e perciò affascinante, e se condisci il tutto con una marea di strategia di gioco... il bello è fatto, soprattutto quando i giocatori sono entrambi costretti a un gioco di difesa...
+
+==Sì, ma adesso mollaci, preferisco quando fai i tuoi predicozzi sul qui e ora, eccetera!!==
+
+Ok ok, vi mollo, ma se volete possiamo parlare delle freccette! Che ne dite?  
+Peccato mortale che Eurosport non le faccia più vedere... Tristezza.
+
+Abbandoniamo la pagina sportiva, anche se ci sarebbe da commentare la Amstel, la Paolini in semifinale, il GP di F1... ma vabbè, vi accontento abbandonando questa succulenta domenica di sport.
+
+Immagino siate già tutti in auto con il cestino in vimini per il picnic, per la classica gita fuori porta del lunedì di Pasquetta. O no?
+
+==Immagino che, grinch come sei, te ne starai rintanato in casa, giusto?==
+
+Beh sì, quasi, penso. Al massimo una passeggiata con la truppa e cazzeggio totale. Magari un velleitario giro in bici, chi lo sa.
+
+C'è stato un periodo della mia vita, l'adolescenza, dove la Pasquetta aveva un senso, e chiaramente non era quello religioso, ma un senso del tutto ormonale. Dai insomma, il giorno di Pasquetta era quel giorno dove saltavano un po' le regole, dove maschietti e femminucce decidevano di divertirsi in una scampagnata sui Colli.  
+Preparativi meticolosi, più o meno, preparazione delle derrate sempre considerando le capienze degli zaini, e la decisione sempre complicata del dove.  
+E poi via a sperare nel meteo, a sperare di non dover mettere in atto il piano B, che voleva dire quasi sicuramente la defezione di qualcuno di importante.  
+E nonostante il meteo, si sfoggiavano i primi pantaloni corti, sopra la ovvia felpa con il cappuccio, chitarra, birrette e gli sguardi.  
+Sguardi che erano come un menù non scritto, un invito ad assaporare lungo la giornata le portate che offriva la casa, con la speranza di arrivare fino al dolce finale.  
+Era tutto un gioco di strategie sottintese per ricavarsi un momento, un angolo del prato dove casualmente ritrovarsi con la fiamma che accendeva tutti quei ragionamenti, quelle mosse, quegli atteggiamenti talvolta ridicoli.  
+Poteva bastare anche una mano sfiorata, un contatto fortuito seguito da un incrocio di sguardi per svelare che forse non era stato così involontario.  
+Potevano bastare qualche chilometro pedalato assieme, magari in fondo alla fila di amici, che sembrava già un angolo di intimità fuori dall’ordinario.  
+
+==Hai capito il vecchio ciccio, ecco perchè eri sempre l'ultimo! Vecchia volpe che non sei altro, ce la facevi sotto al naso!==
+
+Come sempre intervieni nel momento giusto, giusto per interrompere la poesia di quei momenti, e giusto per ricordarmi che effettivamente arrivavi sempre nel momento più sbagliato!
+
+
+Ci si lasciava con altri sguardi, senza programmi e incontri in calendario. Ci si lasciava con la speranza di aver acceso o alimentato il fuoco anche nell’altra parte.  
+Ci si lasciava con la speranza di rivedersi il prima possibile, da qualche parte, a qualche ora.  
+Non vi erano messaggini, emoticon, telefonate rassicuranti o meno, c’era solo l’attesa futura condita da molta speranza, ma anche una certa dose di disillusione.  
+Generalmente erano queste le Pasquette, le Pasquette che terminavano sugli scalini del vecchio cinema rosso a sparare le ultime cavolate prima di rincasare a ruota alta, ancora adolescenti.
+
+Ok, finisce la puntata 79 con un briciolo di nostalgia.
+A domani, puntata 80...rientro al lavoro
+ODDIO!!!
 `
     }, 
 
@@ -734,6 +1197,82 @@ Ciao, a domani.  `
         </iframe>`,
         content: ` 
 #80
+Ieri ho fatto _manca_.  
+Ho saltato l'appuntamento.  
+Semplicemente non sapevo che dire e ho preferito saltare il turno.
+David Foster Wallace scriveva che:
+
+> _"Le cose più importanti sono le più difficili da dire… le parole le rendono più piccole di quello che erano nella tua testa."_  
+> Forse è per questo che ieri ho fatto _manca_.
+
+A tal proposito stamane ho ascoltato un podcast. Si chiama _Il Bazar Atomico_ e il conduttore è un certo Davide Francesco Sada che non ho mai capito se ci è o ci fa, ma diciamo che ogni tanto qualche ospite interessante passa di là e allora lo ascolto.  
+Nell'ultimo episodio l'ospite è Massimo Coppola, uno dei primi conduttori di MTV, poi regista e molto altro, che alla domanda sul perché non faccia un podcast, ha semplicemente risposto: perché non ci trova nulla di nuovo, e che ormai ce ne sono troppi. Ormai chiunque voglia dire qualcosa si compra un microfono e via (qui ho parafrasato un po’, ma il senso è quello).
+
+_Sbang_. Mi sono sentito osservato. Fari puntati su di me, sindrome dell’impostore a mille.  
+Porca vacca, ha ragione.  
+È così.  
+E io, come cavolo mi potrei distinguere?  
+O forse tutti credono di distinguersi?  
+Forse non ho alcun titolo per distinguermi, e io, come tutti gli altri, credo di essere unico.
+
+In fondo, come dice Edward Bernays in _Propaganda_:
+
+> _“Siamo tutti convinti di acquistare il miglior prodotto al miglior prezzo.”_
+
+E forse è lo stesso per la nostra voce, per ciò che raccontiamo di noi: ognuno crede di avere qualcosa da dire, ma spesso ci somigliamo più di quanto pensiamo.
+
+L’eterno dilemma resta quello: **tacere o esporsi**.  
+Dare voce alle proprie emozioni o custodirle.  
+Forse la differenza non sta nel parlare o meno, ma **nel modo in cui si parla**.  
+Nel non imporre le proprie emozioni.  
+Nel non cercare il consenso.  
+Nel regalarle, senza pretesa di tornaconto.  
+O forse, anche queste parole appena dette, sono solo un modo per giustificare il mio incedere giorno dopo giorno, come un cammino incerto ma necessario.
+
+E se anche decidessi di crederci davvero in tutto questo?  
+Se spingessi su Instagram, LinkedIn, TikTok — tutti i canali possibili e immaginabili — che male ci sarebbe?  
+Che male farei?
+
+Che male ci sarebbe a sfruttare a pieno questi strumenti che potrebbero allargare questo progetto?  
+Alla fine si chiude il cerchio con un pensiero sussurrato: _"In fondo lo fanno tutti, no?"_
+
+Ma ogni bugiardino ha le sue controindicazioni.  
+Effetti collaterali.  
+Stanno scritti lì, alla pari della terapia, ma vengono sempre ignorati.  
+Perché in quel momento ci interessano solo gli effetti positivi.  
+Lo stesso accade per i nostri atteggiamenti sociali: cerchiamo efficacia, ma ignoriamo cosa ci costa.  
+E in quel costo a volte si annida una perdita: di tempo, di senso, di silenzio.
+
+Poi è arrivata un’altra frase che mi ha fatto sobbalzare sulla sedia.  
+O forse più la risposta, semplice e disarmante, che Coppola ha dato a Sada quando quest’ultimo gli ha rimproverato di essere rimasto troppo in silenzio dai tempi di MTV.  
+Coppola ha risposto:
+
+> “Per te è silenzio. Ma io, in questi 25 anni, ho fatto moltissimo.”
+
+E questo lo aggiungo io:  
+Solo perché non si è spiattellati sui social o sulle riviste non significa non esistere.  
+Non significa stare in silenzio.
+
+Io non bazzico sui social, è vero.  
+Ma sto qui, **spargendo la mia voce**.  
+Convincendomi che sia terapeutico per me.  
+E forse, ogni tanto, anche gradevole da ascoltare per voi.
+
+E nel mezzo di tutto questo, penso sempre a una cosa che troppo spesso dimentichiamo, presi come siamo dal fare:  
+**il “come”**.  
+Il _modo_ in cui facciamo le cose.  
+Credo che il “come” possa fare la differenza, sempre.  
+E che questo “come” abbia bisogno di andare a braccetto con una parola sorella:  
+**onestà**.
+Si dice che l’onestà sia il linguaggio dell’anima e che quando si parla con il cuore, non c’è trucco, ma solo presenza.
+
+Questa puntata forse non aggiunge nulla di nuovo al mondo, ma è fatta così.  
+Con voce, incertezza, e un tentativo di onestà.
+Parlare di sé può essere un **atto politico e profondamente umano**, non necessariamente un esercizio di narcisismo, come sosteneva David Foster Wallace
+E forse è proprio questo che cerco qui: non distinguermi, ma condividere. Non impormi, ma esserci.
+
+A domani,  
+ciao!
 `
     }, 
 
@@ -749,6 +1288,64 @@ Ciao, a domani.  `
         </iframe>`,
         content: ` 
 #81
+**==Ciccio bello, ieri non mi hai fatto parlare, perché la puntata era seria, parlavi di cose profonde e il tuo amico era inadeguato, oggi che ne dici? Pensi di parlare di argomenti alla mia portata==**
+
+Ciao vecchio, no no, è che sono partito così convinto che mi son scordato di messaggiarti per sentire il tuo parere sulle questioni toccate ieri, anche se il tuo contributo immagino non sarebbe stato chissà cosa...
+
+**==Hohohoho ha parlato il professorone... ti ricordo che ti ga fatto geometri... al massimo ti sa usare na squadretta par far le assonometrieeee... il professorone==**
+
+Mamma mia, non farmelo ricordare, anche se mi piaceva un casino il disegno tecnico e se potessi mi rimetterei subito in casa un bel tavolone tecnico!
+
+Comunque oggi, dopo l'ottantesima puntata, vorrei alleggerire un po’, anche se poi in fondo, il senso delle cose mica è dato dai paroloni, è dato appunto dal senso e dal valore che ognuno di noi dà alle "cose", no? Che ne pensi?
+
+**==Ma non dovevi alleggerire? Sì comunque concordo, ti ga rason==**
+
+Scusa ma perché pigli quell'inflessione veneziana, è per farmi un dispetto? El ti è veneziano, noi sagge persone di terraferma a ovest di Padova, usiamo la _e_ al posto della _i_, quindi please... se te ghè da parlarme in dialetto, almanco fallo con le vocali giuste!
+
+**==Maria beata anca sul dialetto ga da mettar i puntini sulle i o sulle e, te va ben cussì?==**
+
+Ecco, braco, cussì me piase.
+
+Ma insomma, oggi si parla del ritorno in bici!  
+Sporadico o solo il primo di una lunga serie?  
+EEE questo è prematuro saperlo e visto il mal di schiena che è tornato...
+
+**==Eccolo che tira fuori già la scusetta pronta... ma sei ancora capace di andar in bici?==**
+
+Sì vecchio, sì, quella cosa che dicono che non si scorda mai è vera.  
+Dopo tantissimo tempo sono tornato in bici.  
+Sono partito senza alcuna pretesa, d’altra parte, come averne dopo mesi di inattività? Solito giretto del caffè fino a Lozzo e ritorno. Sono partito nonostante sentissi ancora fastidio al fianco sinistro, cosa che si è rimaterializzata oggi... giusto perché, essendo la bici sport simmetrico, sapevo che non avrei sentito chissà quali dolori, e anche perché so benissimo da cosa deriva il mal di schiena, ma ok, non vi annoio con le mie magagne.  
+Insomma, gonfio le ruote, metto un po’ del magico lubrificante sulla catena per evitare cigolii da inattività, aggancio gli scarpini e via, veloce come il vento!
+
+**==Sì immagino... veloce come il vento, sì e no che sarà stata una brezza leggera di quelle estive che per sentirle devi attivare tutti i sensi==**
+
+Eh, come darti torto...
+
+Medie ridicole, gambe mollicce, e dire che all’andata mi sono pure accodato a un gruppetto che per me lì per lì andava come un treno, in realtà viaggiavano a velocità che ai bei tempi facevo con una gamba sola o quasi, ma insomma dai, contento di aver rimesso il culo sulla sella.  
+Mentre pedalavo — ma è una convinzione che cresce da un po’ di tempo — mi convincevo che il ciclismo su strada sia ineguagliabile per sensazioni, bellezza del gesto, sensazione della velocità etc. etc. etc. Che bellezza!  
+E questo posso dirvelo perché ho provato un po’ tutti i tipi di andare, dalla mountain bike al gravel. Sì, ognuno ha il suo lato positivo, la sua diversità, ovvio, ma personalmente la bellezza della pedalata su strada non ha eguali. Perché lì si sommano tutte le caratteristiche della bici come mezzo. Si somma l'efficacia, la riduzione degli sforzi per avanzare, la massima traduzione del lavoro in velocità, spostamento, si minimizza la forza che ci ostacola al progredire, si minimizza il rumore del nostro spostarsi. Certo, non posso andare su chissà quali sentieri impervi, ma sono del partito che sui sentieri impervi il mezzo ideale non sia la bici, ma siano i nostri piedi.
+
+Tornato a casa ho fissato un obiettivo:
+
+Rimettersi in forma.
+
+**==Sì ciccio, come al solito... in forma... definisci almeno quale forma, quella dell’uovo di Pasqua?==**
+
+Simpaticissimo!
+
+No, veramente, devo rimettermi, voglio proprio rimettermi in forma, perdere un po’ di peso ma soprattutto rispolverare un po’ di smalto nei movimenti.  
+Ieri sera sono pure andato a correre a piedi, soffrendo per quel mal di schiena che si trascina fino al piede, ma sono andato e ora fisserò un piano di rientro.  
+Oggi il mal di schiena è tornato più pressante, la corsa mattutina è saltata, ma a differenza di altri tempi, ho quel lato meditativo che sto coltivando, che mi aiuta a stare nelle cose, nei momenti, senza perdermi d'animo. So che passerà, so che il tempo scorre, ma accettiamolo, no?
+
+Ma a parte rimettermi in forma, sapete cosa vorrei più di tutto? Vorrei tornare a correre veramente in bici, ad andare forte, anche più di prima. Questo si scontra con il tempo, ma non voglio far lunghe distanze come un tempo, non più, voglio solo andar forte, vorrei essere invasatissimo per un po’, seguire quelle tabelle di preparazione da infognato marcio. Beh, qui esagero, so già che non arriverò mai a tanto, ma veramente non mi interessa lo svago, vorrei veramente andar forte, spingere a manetta e tornare a far le salite senza soffrire. Venderei volentieri la mia mezza gravel per una bici rigidissima solo per andar forte, comprerei una bici da millemila euro solo per sentirmi dire fuori dai bar:
+
+**==Dove cavolo va quello con quel popò di bici?==**  
+Ecco, sì, proprio quello.
+
+Non mi interesserebbe nulla, perché io andrei come una scheggia!  
+Vestito tutto tirato, magari per fare solo pochi chilometri, ma a tutta!!!
+
+Vabbè, confessioni di un quasi cinquantenne mezzo matto di bici.
 `
     }, 
 
@@ -764,6 +1361,27 @@ Ciao, a domani.  `
         </iframe>`,
         content: ` 
 #82
+Andrea diceva sempre: la politica è una gran brutta bestia.
+Non ho mai capito veramente da dove nascesse quella sua convinzione.
+Non era assolutamente di quelli che oggi manderebbero tutti a quel paese, era interessato alla politica ne capiva, era chiaro che avesse una chiara idea.
+Ma d'altra parte in quegli anni ero io che non avevo le capacità per capire a pieno le sue parole.
+E infatti tutto quello che dirò, prendetelo un pò con le pinze, sono ricordi, fantasie, dettagli romanzati.
+Viveva per la terra e la giustizia, ecco si mi viene da definirlo così. Sapeva coltivare, cioè far crescere le cose con poco. Acqua, una terra gestita con cura, qualche medicina al momento giusto erano gli ingredienti che bastavano per far crescere il raccolto.
+E pari pari la famiglia crebbe così, con poco, l'essenziale.
+Si viveva per la terra, viveva per la giustizia verso i popoli, viveva con l'essenziale.
+Non poteva permettersi di più che l'essenziale, l'eventuale in più era per la famiglia. 
+Chi come lui catturato in Grecia e deportato in Germania avrebbe potuto chiedere di vivere con qualcosa in più dell'essenziale. Tutto sarebbe stato inutile oltre l'essenziale.
+Era così a piedi scalzi con i pantaloni blu e un cordino come cintura.
+Era così che curava la terra.
+Ma c'erano due momenti dove abbandonava la terra per mettersi gli abiti buoni, le scarpe da festa, la giacchetta, il cappello e l'orologio nel taschino.
+La messa della domenica con quella fede che non ho mai capito, quella fede personale non condivisa, quando chiesa era salvezza, speranza e non comunità forzata. Quando il parroco era amico di tutti, anche di Andrea.
+E poi c'erano le ricorrenze e il 25 aprile.
+Era un combattente reduce, a casa c'era il gonfalone con le medaglie.
+Scendeva il silenzio, tornava l'essenziale.
+Me lo ricordo nei preparativi, mio papà qualche volta lo portava ai raduni quando non riusciva ad andarci in bici. Bici da donna, senza palo con l'asta del gonfalone salda in mano.
+Mio nonno Andrea catturato in Grecia, deportato in Germania, ritornato alla terra per coltivarla con l'essenziale.
+Oggi festeggerà la libertà, disgustato da questa politica, festeggerà perchè non tornino più quegli anni, festeggerà sperando che i popoli sotto le bombe possano ritrovare la libertà.
+Libertà!
 `
     }, 
 
@@ -779,6 +1397,61 @@ Ciao, a domani.  `
         </iframe>`,
         content: ` 
 #83
+Ciao,  
+non so se avrò la forza di arrivare a fine della puntata a meno che non la chiuda già qui.  
+Dai scherzo, non me ne vogliate ma sono fisicamente provato e anche tenere le mani sulla tastiera costa un po' di fatica.
+
+==Cosa mai avrai fatto in questo weekend lungo da esser così stremato?==
+
+Ciao vecchio, mo' ti racconto.
+
+È inutile che vi spieghi tutti i lavori fatti, non sta qui il senso del discorso.  
+Vi basti sapere che da venerdì non ho mai mollato la presa, prima per sistemare una cosa a casa della mamma, cosa che pensavo di risolvere in velocità e che invece si è trasformata in un lavoraccio, bello ma caspiterella che fatica!  
+In pratica, in una giornata di lavoro io e il Peach abbiamo ricostruito una casetta per gli attrezzi...  
+Niente niente che ci mettiamo in proprio a far su casette in legno da giardino.  
+Ma il bello è arrivato tra sabato pomeriggio e ieri.  
+Vi ricordate che avevo deciso di costruire delle casse per fare degli orti rialzati?
+
+==Sì ciccio mi ricordo, dovevi ancora finire di costruirli e stavi aspettando la terra==
+
+Esatto vecchio, proprio così. Giovedì sera portano la terra.  
+Avete presente quanti siano due metri cubi di terra? Insomma, un metro per un metro per due, fa due metri cubi.  
+Sì ma sparpagliati quanto sono due metri cubi? Quanto occupa?  
+Boh, mica è il mio lavoro!  
+Arriva il camion, alza il rimorchio e svuota i due metri cubi davanti casa.  
+Se ne va, guardo la montagna di terra e penso che se quelli sono due metri cubi io canto come Freddy Mercury.  
+Sale l'ansia. Sono straconvinto che quelli siano molto di più di due metri cubi di terra e l'eventuale terra in più dove me la metterò???
+
+Finisco le casse, e inizio: badilate per riempire la carriola, tragitto da davanti casa agli orti, svuoto la carriola e ripeto dall'inizio fino a riempimento delle casse.  
+Casse riempite, spalle demolite, avambracci disintegrati e davanti casa ancora almeno metà della montagna di terra scaricata giovedì sera.
+
+L'unica soluzione è distribuire quella terra tra la siepe e il confine dove ho un certo dislivello che potrebbe essere spianato con quella terra.  
+Sì ok, ma mica si sposta da sola!  
+Carriola dopo carriola, anche con l'aiuto di Anna riusciamo a spianare quell'enorme montagna di terra. È sera e siamo stremati.  
+Mi manca solo una cosa da fare: una panchina tra due cassoni per l'orto, dove le bimbe potranno sedersi per giocare o leggere un libro.  
+Due tagli precisi, un paio di buchi, viti al posto giusto e panchina fatta!  
+Sono contento.
+
+E insomma, ho le dita che mi fanno male, se mi fermo a battere su questi tasti sento che tutto è indolenzito, ogni giuntura, ogni tendine, ogni muscolo è stato sollecitato più del dovuto.  
+Le dita sono gonfie, ruvide, ammaccate e sbucciate, ma sono dita vive, che hanno costruito.  
+Hanno tagliato assi, avvitato, fissato staffe, toccato legni, teneri, duri, invecchiati, viti arrugginite, hanno azionato trapani, seghe, avvitatori.
+
+Ora son qui che battono lettere, ma quasi quasi tornerebbero a spostare cose, a tenere saldi travetti, a spostare chili di terra con una pala dal vecchio manico.
+
+E ho scoperto che c'è qualcosa che rende la fatica più sopportabile: è la voglia di essere d'esempio per le bimbe.  
+So ben che a loro poco importa del possibile raccolto ortofrutticolo, poco importa della fatica fatta per costruire quelle quattro casse, ma in cuor mio spero rimanga in loro quel senso che nulla è così impossibile e che se ci si mette di buona volontà, si possono fare, costruire, raggiungere qualsiasi obiettivo fissiamo.
+
+Ma mentre scrivo queste righe ripenso alla dedizione al lavoro di mio papà, di mia mamma, e allo stesso tempo mi chiedo se quella dedizione al lavoro che in qualche modo ci ha formato facendoci scegliere il lavoro, quello fisso, quello sicuro, non sia la matrice del mio buon esempio.
+
+Che dubbio, che dubbio atroce.
+
+Ok, mettiamola così: le mie fatiche non dovranno mai, in alcun modo, trasformarsi in sensi di colpa per le mie figlie. Ok, mi impegnerò in questo.
+
+Comunque le casse sono venute proprio bene, il giardino ha una nuova faccia e ora non vedo l'ora di piantare i primi pomodorini.
+
+Vi terrò aggiornati sulla produzione ortofrutticola!
+
+A domani!
 `
     },
 
@@ -794,6 +1467,7 @@ Ciao, a domani.  `
         </iframe>`,
         content: ` 
 #84
+Registrata on the road via telefono
 `
     },
 
@@ -808,7 +1482,118 @@ Ciao, a domani.  `
             loading="lazy">
         </iframe>`,
         content: ` 
-#85
+**Trenta aprile duemilaventicinque**  
+**#85**
+
+E si chiude il quarto mese di _Invisibile Perso_.  
+**Quarto meseeeee!!!!**
+
+==Ciccio, ma ci pensi che sono quattro mesi che ci martelli con le tue paranoie?==  
+==Sei contento???==
+
+Grazie vecchio, sì certo, contentissimo!  
+Sono arrivato a un terzo dell’obiettivo massimo — che ricordo essere l’anno intero di _Invisibile Perso_.  
+Come, solo un terzo???  
+**Oooomioooodioooo**
+
+==E dopo 4 mesi che meni il can per l’aia, cos’è cambiato?==
+
+Grazie vecchio, che la tocchi sempre piano.  
+Sul piano lavorativo, direi una mazza.  
+È tutto immobile, o forse — meglio — tutto quasi immobile, su un piano inclinato verso il fondo del pozzo...
+
+Giorni difficilissimi, questi attuali, in cui combatto per trovare un senso nel fare e disfare, nel rincorrere urgenze che, solo a nominarle, svaniscono nel nulla.  
+Dove vengo **coinvolto**.  
+Ecco, la parola magica è questa: coinvolti.  
+Non chiederti per fare cosa, non chiedere che vengano fissati obiettivi — lascia perdere. Basta essere coinvolti!
+
+Dall’altro lato, questo — del podcast — non succede nulla.  
+Perdonatemi: il nulla _tranne_ il tutto dei messaggi che di tanto in tanto continuano ad arrivarmi.  
+Ma il “nulla” è riferito a una possibile crescita.
+
+==Sì Ciccio, ma vivi ancora nel mondo di _Memole amore mio_… Come pensi di poter crescere senza social? Ti dessi almeno una smossa con adesivi o altre diavolerie… ma mi pare sia tutto fermo pure là, no?==
+
+Sì vecchio, hai ragione.  
+Ma la legge fondamentale del “nulla si crea, nulla si distrugge, tutto si trasforma” vale anche per le energie vitali.  
+E per rimanere ancorato su quel piano inclinato, sto sprecando molte energie.  
+Lascio scoperte anche quelle attività che più mi piacciono.
+
+Ci sono momenti nei quali mi ritrovo a secco, col serbatoio vuoto.  
+E come in un vortice, si lasciano andare le cose non essenziali.  
+Purtroppo, l’ancorarsi a quel piano — per ora — è ancora essenziale.
+
+Certo, ho rifatto il CV, ho rinfrescato LinkedIn, ma nessuna novità.  
+E lo so che dovrei essere più attivo anche lì, ma torniamo sempre a tirare quella linea orizzontale tra il dare e l’avere.
+
+Per fortuna ho le mie mani.  
+Capaci di battere lettere su questa tastiera, ma forse ancor più capaci di lavorare.  
+Sono ancora ruvide, un po’ gonfie dai lavori dello scorso weekend, abrase per aver lavorato con la terra.  
+E pensando al pensiero — che sicuramente ho espresso male stamattina — ho cercato di approfondirlo, cercando relazioni tra fatica lavorativa e classi sociali.
+
+E il legame tra fatica fisica e mentale e immobilità sociale è evidente anche per gli analisti delle dinamiche sociali, soprattutto in Italia.  
+Sembra proprio che chi svolge lavori manuali o ripetitivi accumuli una stanchezza che limita le energie per la formazione o la crescita personale.  
+Questa condizione consolida la posizione sociale, impedendo l’accesso a opportunità di miglioramento.
+
+Marx parlava del lavoro come **alienazione**, ovvero come processo che separa l’essere umano da sé stesso.  
+Quando il lavoro diventa mera sopravvivenza, esso non solo consuma il corpo, ma anche le capacità creative e intellettuali dell’individuo.
+
+> “Il lavoro non produce soltanto merci: produce anche se stesso e il lavoratore come merce.”  
+> L’alienazione impedisce lo sviluppo personale, rendendo difficile qualsiasi forma di **emancipazione** culturale o spirituale.
+
+==Ciò Ciccio, ma quindi Karl ti chiamava per confrontarsi, eh?==  
+Lo so, lo so, Marx mi citava sempre nei vocali.
+L'alienazione è assoluta anche nel mondo dell'ufficio, non è solo una ripetizione fisica forzata, lo è anche vagare senza fissi obiettivi, ve lo assicuro.
+
+Gramsci, nell’egemonia culturale, sosteneva che le classi dominanti mantengono il potere non solo attraverso il controllo economico, ma anche **culturale**.  
+Le classi subalterne, assorbite dalla fatica quotidiana, hanno meno possibilità di sviluppare una propria visione critica.  
+Tuttavia, Gramsci credeva anche nella possibilità che emergano **intellettuali organici** dalle classi popolari, capaci di cambiare la narrazione dal basso.
+
+Pierre Bourdieu — sociologo e antropologo francese, nato mentre Bernays pubblicava _Propaganda_ — sosteneva che ogni classe sociale trasmette ai propri figli non solo un patrimonio economico, ma anche uno **culturale** e **simbolico**.  
+Le famiglie delle classi popolari, anche volendo, spesso non hanno gli strumenti (tempo, energia, contatti, modelli) per garantire ai figli un reale salto di qualità.
+
+Pensieri non distanti da quanto letto stamattina su _Propaganda_, in merito all’agire sociale.
+
+Ma poi, leggendo e rileggendo cose che potessero spiegarmi _perché_ quel pensiero, _perché_ dal costruire cassoni in legno per coltivarci pomodorini fossi finito a riflettere sulle classi sociali, mi sono imbattuto nell’ultimo rapporto del **CENSIS**.
+
+Il CENSIS — Centro Studi Investimenti Sociali — dal 1964 svolge attività di ricerca, studio e consulenza in ambito socio-economico.  
+Ebbene, ora vi leggo quello che trovate sull’homepage del loro sito:
+
+> _La sindrome italiana è la continuità nella medietà, in cui restiamo intrappolati: né capitomboli rovinosi nelle fasi recessive, né scalate eroiche nei cicli positivi. Ma nasconde una insidia. Se il ceto medio si sfibra (i redditi sono inferiori del 7% rispetto a vent’anni fa), fermenta l’antioccidentalismo e si incrina la fede nelle democrazie liberali, nell’europeismo e nell’atlantismo: il 66% degli italiani incolpa l’Occidente dei conflitti in corso e solo il 31% è d’accordo con il richiamo della Nato sull’aumento delle spese militari. Intanto si infiamma la guerra delle identità sessuali, etnico-culturali, religiose, in lotta per il riconoscimento. Mentre è in atto una mutazione morfologica della nazione (l’Italia è prima in Europa per acquisizioni di cittadinanza: +112% in dieci anni). Siamo preparati culturalmente? Nel Paese degli ignoranti, per il 19% Mazzini è stato un politico della prima Repubblica e per il 32% la Cappella Sistina è stata affrescata da Giotto o da Leonardo. Ecco i conti che non tornano nel sistema-Italia: più lavoro e meno Pil, turismo su e industria giù, carenza di personale e ipoteche sul welfare. Giovani: i disagiati e i salvati._
+
+Ammetto di aver sudato freddo pure io per la Cappella Sistina, e lo ammetto che per certe cose mi sento veramente ignorante, cioè sento di aver perso molte nozioni, non bene...
+
+Ok. Bé, insomma… ok mica tanto.  
+Ma ho scaricato il rapporto e chiesto all’intelligenza artificiale di farmi un sunto sulla situazione sociale italiana.
+
+Secondo il CENSIS, **l’84,7%** degli italiani ritiene difficile salire nella scala sociale, mentre **il 67,2%** pensa sia facile scendere.  
+Questa percezione è ancora più marcata tra i giovani, con **l’87,3%** che considera l’ascesa sociale molto difficile.
+
+E ancora:
+
+> _Se non si può più salire socialmente grazie a capacità personali, impegno, merito, studio e lavoro — vivendo in una società proiettata verso la crescita — allora, in una società che ristagna, il desiderio di riconoscimento può (e deve) essere appagato spostando la partita in un altro campo: quello della rivalità delle identità._
+
+Questo suggerisce che, a causa della difficoltà di raggiungere successo e riconoscimento tramite i canali tradizionali (merito, lavoro, studio), le persone cerchino validazione — e conflitto — nell’ambito delle identità.
+
+Ok. Mi bastava anche meno per capire che non ho sbagliato di tanto.  
+E queste cose sono scritte, nero su bianco, rintracciabili da chiunque in due clic.  
+Ma non se ne parla.  
+Non vogliamo renderci conto della gravità della situazione.  
+Non colpisce solo noi — generazione X.  
+A quanto pare, le generazioni successive sono ancora più povere di noi.  
+Ma forse loro, almeno, stanno con la testa alta.
+
+Ma tanto vecchio mio, sai cosa succederà domani mattina?
+==Dimmi ciccio, cosa succederà?==
+Che ci alzeremo, prenderemo il solito treno con la schiena ancora un pò a pezzi, le mani ruvide e andremo a fare quello che c'è da fare o meglio, quello che per ora ci tocca fare. Così ci hanno insegnato no?
+
+> Ma la fatica non basta più per salvarsi.  
+> In questo paese di merda, no, non basta più nemmeno quella.
+
+> E domani sera continuerò a battere su questa tastiera.  
+> Forse più per **resistenza** che per crescita.
+
+A domani.  
+Ciao.
 `
     },
 }; 
