@@ -229,55 +229,72 @@
     <script src="entries-june.js"></script>
     <script src="entries-july.js"></script>
     <script src="entries-august.js"></script>
-    <script>
-    // Gestione click sulle date
-    document.querySelectorAll('.date-list li:not(.month)').forEach(item => {
-        item.addEventListener('click', function() {
-            const entryId = this.getAttribute('data-entry');
-            let entry;
-            if (entryId <= 23) {
-                entry = entries[entryId];
-            } else if (entryId <= 44) {
-                entry = entriesFebruary[entryId];
-            } else if (entryId <=64) {
-                entry = entriesMarch[entryId];
-            } else if (entryId <=85) {
-                entry = entriesApril[entryId];
-            } else if (entryId <=105) {
-                entry = entriesMay[entryId];
-            } else if (entryId <=126) {
-                entry = entriesJune[entryId];
-            } else if (entryId <=149) {
-                entry = entriesJuly[entryId];
-            } else {
-                entry = entriesAugust[entryId];
-            }
-            document.getElementById('text-content').innerHTML = entry.spotify + entry.content;
-            document.getElementById('text-content').scrollTop=0;
-            
-            // Rimuove la classe active da tutti gli elementi
-            document.querySelectorAll('.date-list li').forEach(li => {
-                li.classList.remove('active');
-            });
-            
-            // Aggiunge la classe active all'elemento cliccato
-            this.classList.add('active');
-        });
-    });
+   <script>
+// Gestione click sulle date
+document.querySelectorAll('.date-list li:not(.month)').forEach(item => {
+    item.addEventListener('click', async function() {
+        const entryId = this.getAttribute('data-entry');
+        let entryData;
 
-    // Gestione click sul mese
-    document.querySelectorAll('.month').forEach(month => {
-        month.addEventListener('click', function() {
-            const monthId = this.getAttribute('data-month');
-            const monthEntries = document.getElementById(monthId + '-entries');
-            
-            // Toggle della classe active sul mese
-            this.classList.toggle('active');
-            
-            // Toggle della visibilità delle entries del mese
-            monthEntries.classList.toggle('expanded');
+        if (entryId <= 23) {
+            entryData = entries[entryId];
+        } else if (entryId <= 44) {
+            entryData = entriesFebruary[entryId];
+        } else if (entryId <= 64) {
+            entryData = entriesMarch[entryId];
+        } else if (entryId <= 85) {
+            entryData = entriesApril[entryId];
+        } else if (entryId <= 105) {
+            entryData = entriesMay[entryId];
+        } else if (entryId <= 126) {
+            entryData = entriesJune[entryId];
+        } else if (entryId <= 149) {
+            entryData = entriesJuly[entryId];
+        } else {
+            entryData = entriesAugust[entryId];
+        }
+
+        // Fai la richiesta per il contenuto del file
+        if (entryData && entryData.file) {
+            try {
+                const response = await fetch(entryData.file);
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                const textContent = await response.text();
+                document.getElementById('text-content').innerHTML = entryData.spotify + textContent;
+                document.getElementById('text-content').scrollTop = 0;
+            } catch (error) {
+                console.error('Errore nel caricamento del file:', error);
+                document.getElementById('text-content').innerHTML = entryData.spotify + 'Errore nel caricamento del contenuto.';
+            }
+        } else {
+            document.getElementById('text-content').innerHTML = 'Contenuto non trovato.';
+        }
+
+        // Rimuove la classe active da tutti gli elementi
+        document.querySelectorAll('.date-list li').forEach(li => {
+            li.classList.remove('active');
         });
+
+        // Aggiunge la classe active all'elemento cliccato
+        this.classList.add('active');
     });
-    </script>
+});
+
+// Gestione click sul mese (rimane invariata)
+document.querySelectorAll('.month').forEach(month => {
+    month.addEventListener('click', function() {
+        const monthId = this.getAttribute('data-month');
+        const monthEntries = document.getElementById(monthId + '-entries');
+
+        // Toggle della classe active sul mese
+        this.classList.toggle('active');
+
+        // Toggle della visibilità delle entries del mese
+        monthEntries.classList.toggle('expanded');
+    });
+});
+</script>
 </body>
 </html>
